@@ -1,0 +1,9 @@
+1
+00:00:00,301 --> 00:00:00,800
+<font color="#ffff00" size=10>Welcome</font> to 
+Larry King Now. 
+
+2
+00:00:00,800 --> 00:00:01,527
+Welcome to 
+Larry King <font color="#ffff00" size=10>Now</font>

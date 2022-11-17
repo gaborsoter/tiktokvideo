@@ -1,0 +1,4 @@
+1
+00:00:04,180 --> 00:00:05,804
+<font color="#ffff00" size=14>The self-proclaimed 
+hustler</font> 

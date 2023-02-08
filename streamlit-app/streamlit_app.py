@@ -25,7 +25,7 @@ def export_audio_from_memory(uploaded_file):
     # print(args)
     proc = subprocess.Popen(
         ['ffmpeg'] + args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-    return proc.communicate(input=uploaded_file)[0]
+    return proc.communicate(input=uploaded_file.getvalue())[0]
 
 
 

@@ -20,7 +20,7 @@ if uploaded_file is not None:
     file_details = {"FileName":uploaded_file.name,"FileType":uploaded_file.type,"FileSize":uploaded_file.size}
     st.write(file_details)
 
-    input_file_path = "uploaded_file"
+    input_file_path = uploaded_file
 
     export_audio(input_file_path)
 

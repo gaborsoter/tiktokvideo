@@ -30,7 +30,8 @@ if uploaded_file is not None:
 
     # Step 3: Call the put_object command and specify the file to upload.
     client.put_object(Bucket='tenxshorts', # The path to the directory you want to upload the object to, starting with your Space name.
-                    Key=uploaded_file, # Object key, referenced whenever you want to access this file later.
+                    Key="input.mp4", # Object key, referenced whenever you want to access this file later.
+                    Body=uploaded_file,
                     ACL='private', # Defines Access-control List (ACL) permissions, such as private or public.
                     Metadata={ # Defines metadata tags.
                         'x-amz-meta-my-key': 'your-value'

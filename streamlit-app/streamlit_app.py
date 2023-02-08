@@ -6,6 +6,7 @@ from pydub import AudioSegment
 import os
 import boto3
 import botocore
+import random
 
 def export_audio(uploaded_file):
     str_one = "ffmpeg -i "
@@ -14,6 +15,9 @@ def export_audio(uploaded_file):
     subprocess.call(command, shell=True)
 
 st.write("Hello world") 
+
+# give me a random hex name with 20 digits
+random_name = str(random.getrandbits(80))
 
 uploaded_file = st.file_uploader("Upload Files",type=['mp4'])
 if uploaded_file is not None:
@@ -30,7 +34,7 @@ if uploaded_file is not None:
 
     # Step 3: Call the put_object command and specify the file to upload.
     client.put_object(Bucket='tenxshorts', # The path to the directory you want to upload the object to, starting with your Space name.
-                    Key="input.mp4", # Object key, referenced whenever you want to access this file later.
+                    Key=random_name, # Object key, referenced whenever you want to access this file later.
                     Body=uploaded_file,
                     ACL='private', # Defines Access-control List (ACL) permissions, such as private or public.
                     Metadata={ # Defines metadata tags.

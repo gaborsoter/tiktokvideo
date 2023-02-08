@@ -14,6 +14,20 @@ def export_audio(uploaded_file):
     command = str_one + uploaded_file.name + str_two + "input.mp4.wav"
     subprocess.call(command, shell=True)
 
+def export_audio_from_memory(uploaded_file):
+    args = (ffmpeg
+            .input('pipe:', format='mp4')
+            .output('pipe:', format='wav')
+            .global_args('-loglevel', 'error', '-ab', '160k', '-ac', '2', '-ar', '16000', '-vn')
+            .get_args()
+            )
+    # print(args)
+    proc = subprocess.Popen(
+        ['ffmpeg'] + args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+    return proc.communicate(input=uploaded_file)[0]
+
+
+
 st.write("Hello world") 
 
 # give me a random hex name with 20 digits
@@ -24,6 +38,7 @@ if uploaded_file is not None:
     file_details = {"FileName":uploaded_file.name,"FileType":uploaded_file.type,"FileSize":uploaded_file.size}
     st.write(file_details)
 
+    # Upload file to Digital Ocean Spaces
     session = boto3.session.Session()
     client = session.client('s3',
                             endpoint_url='https://ams3.digitaloceanspaces.com', # Find your endpoint in the control panel, under Settings. Prepend "https://".
@@ -32,7 +47,6 @@ if uploaded_file is not None:
                             aws_access_key_id='DO00AEDRKJUZK2F7V2DZ', # Access key pair. You can create access key pairs using the control panel or API.
                             aws_secret_access_key=os.getenv('SPACES_KEY')) # Secret access key defined through an environment variable.
 
-    # Step 3: Call the put_object command and specify the file to upload.
     client.put_object(Bucket='tenxshorts', # The path to the directory you want to upload the object to, starting with your Space name.
                     Key=random_name + ".mp4", # Object key, referenced whenever you want to access this file later.
                     Body=uploaded_file,
@@ -42,7 +56,7 @@ if uploaded_file is not None:
                     }
                     )
 
-    #export_audio(uploaded_file)
+    export_audio_from_memory(uploaded_file)
 
     #sound = AudioSegment.from_wav("input.mp4.wav")
     #sound = sound.set_channels(1)

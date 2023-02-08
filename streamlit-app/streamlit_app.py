@@ -20,14 +20,14 @@ if uploaded_file is not None:
 
     input_file_path = uploaded_file
 
-    export_audio(input_file_path)
+    #export_audio(input_file_path)
 
-    sound = AudioSegment.from_wav("input.mp4.wav")
-    sound = sound.set_channels(1)
-    sound.export("input.wav", format="wav")
+    #sound = AudioSegment.from_wav("input.mp4.wav")
+    #sound = sound.set_channels(1)
+    #sound.export("input.wav", format="wav")
 
-    try:
-        os.remove("input.mp4.wav")
-    except:
-        pass
+    #try:
+    #    os.remove("input.mp4.wav")
+    #except:
+    #    pass
 

@@ -1,4 +1,12 @@
 1
-00:00:28,385 --> 00:00:30,368
-list of the most influential
+00:00:18,102 --> 00:00:18,203
+<font color=#FAFF00 size="20">ON </font><font color="#FFFFFF" size="20">HIS BAR.</font>
+
+2
+00:00:18,203 --> 00:00:18,366
+<font color="#FFFFFF" size="20">ON</font><font color=#FAFF00 size="20"> HIS </font><font color="#FFFFFF" size="20">BAR.</font>
+
+3
+00:00:18,366 --> 00:00:18,549
+<font color="#FFFFFF" size="20">ON HIS</font><font color=#FAFF00 size="20"> BAR.</font>
 

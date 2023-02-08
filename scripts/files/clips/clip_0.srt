@@ -1,9 +1,12 @@
 1
-00:00:00,301 --> 00:00:00,800
-<font color="#ffff00" size=10>Welcome</font> to 
-Larry King Now. 
+00:00:00,060 --> 00:00:00,362
+<font color=#FAFF00 size="20">HARRY </font><font color="#FFFFFF" size="20">STYLES HAD</font>
 
 2
-00:00:00,800 --> 00:00:01,527
-Welcome to 
-Larry King <font color="#ffff00" size=10>Now</font>
+00:00:00,362 --> 00:00:00,766
+<font color="#FFFFFF" size="20">HARRY</font><font color=#FAFF00 size="20"> STYLES </font><font color="#FFFFFF" size="20">HAD</font>
+
+3
+00:00:00,766 --> 00:00:00,927
+<font color="#FFFFFF" size="20">HARRY STYLES</font><font color=#FAFF00 size="20"> HAD</font>
+

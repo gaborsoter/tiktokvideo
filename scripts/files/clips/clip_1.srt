@@ -1,4 +1,20 @@
 1
-00:00:01,628 --> 00:00:03,678
-Our special guest is Gary Vaynerchuk.
+00:00:00,927 --> 00:00:01,028
+<font color=#FAFF00 size="20">A </font><font color="#FFFFFF" size="20">NIGHT FOR THE BOOKS.</font>
+
+2
+00:00:01,028 --> 00:00:01,250
+<font color="#FFFFFF" size="20">A</font><font color=#FAFF00 size="20"> NIGHT </font><font color="#FFFFFF" size="20">FOR THE BOOKS.</font>
+
+3
+00:00:01,250 --> 00:00:01,391
+<font color="#FFFFFF" size="20">A NIGHT</font><font color=#FAFF00 size="20"> FOR </font><font color="#FFFFFF" size="20">THE BOOKS.</font>
+
+4
+00:00:01,391 --> 00:00:01,512
+<font color="#FFFFFF" size="20">A NIGHT FOR</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">BOOKS.</font>
+
+5
+00:00:01,512 --> 00:00:02,440
+<font color="#FFFFFF" size="20">A NIGHT FOR THE</font><font color=#FAFF00 size="20"> BOOKS.</font>
 

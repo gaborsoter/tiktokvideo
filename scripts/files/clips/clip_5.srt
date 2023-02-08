@@ -1,4 +1,16 @@
 1
-00:00:09,933 --> 00:00:11,216
-and venture capitalist,
+00:00:05,354 --> 00:00:05,455
+<font color=#FAFF00 size="20">A </font><font color="#FFFFFF" size="20">NIGHT FULL OF</font>
+
+2
+00:00:05,455 --> 00:00:05,716
+<font color="#FFFFFF" size="20">A</font><font color=#FAFF00 size="20"> NIGHT </font><font color="#FFFFFF" size="20">FULL OF</font>
+
+3
+00:00:05,716 --> 00:00:05,857
+<font color="#FFFFFF" size="20">A NIGHT</font><font color=#FAFF00 size="20"> FULL </font><font color="#FFFFFF" size="20">OF</font>
+
+4
+00:00:05,857 --> 00:00:06,017
+<font color="#FFFFFF" size="20">A NIGHT FULL</font><font color=#FAFF00 size="20"> OF</font>
 

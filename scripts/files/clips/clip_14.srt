@@ -1,4 +1,16 @@
 1
-00:00:26,001 --> 00:00:28,305
-Fortune Magazine's 40 Under 40
+00:00:16,613 --> 00:00:17,176
+<font color=#FAFF00 size="20">BUTTERFLY </font><font color="#FFFFFF" size="20">AND BIRD TATTOOS</font>
+
+2
+00:00:17,176 --> 00:00:17,296
+<font color="#FFFFFF" size="20">BUTTERFLY</font><font color=#FAFF00 size="20"> AND </font><font color="#FFFFFF" size="20">BIRD TATTOOS</font>
+
+3
+00:00:17,296 --> 00:00:17,558
+<font color="#FFFFFF" size="20">BUTTERFLY AND</font><font color=#FAFF00 size="20"> BIRD </font><font color="#FFFFFF" size="20">TATTOOS</font>
+
+4
+00:00:17,558 --> 00:00:18,102
+<font color="#FFFFFF" size="20">BUTTERFLY AND BIRD</font><font color=#FAFF00 size="20"> TATTOOS</font>
 

@@ -1,4 +1,16 @@
 1
-00:00:25,020 --> 00:00:25,921
-Gary has been named to
+00:00:15,709 --> 00:00:15,810
+<font color=#FAFF00 size="20">A </font><font color="#FFFFFF" size="20">STUNNING ARRAY OF</font>
+
+2
+00:00:15,810 --> 00:00:16,211
+<font color="#FFFFFF" size="20">A</font><font color=#FAFF00 size="20"> STUNNING </font><font color="#FFFFFF" size="20">ARRAY OF</font>
+
+3
+00:00:16,211 --> 00:00:16,473
+<font color="#FFFFFF" size="20">A STUNNING</font><font color=#FAFF00 size="20"> ARRAY </font><font color="#FFFFFF" size="20">OF</font>
+
+4
+00:00:16,473 --> 00:00:16,613
+<font color="#FFFFFF" size="20">A STUNNING ARRAY</font><font color=#FAFF00 size="20"> OF</font>
 

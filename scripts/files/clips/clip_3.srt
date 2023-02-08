@@ -1,4 +1,16 @@
 1
-00:00:06,325 --> 00:00:08,069
-is a digital media mogul,
+00:00:03,304 --> 00:00:03,545
+<font color=#FAFF00 size="20">BROUGHT </font><font color="#FFFFFF" size="20">HIM NOT JUST</font>
+
+2
+00:00:03,545 --> 00:00:03,686
+<font color="#FFFFFF" size="20">BROUGHT</font><font color=#FAFF00 size="20"> HIM </font><font color="#FFFFFF" size="20">NOT JUST</font>
+
+3
+00:00:03,686 --> 00:00:03,887
+<font color="#FFFFFF" size="20">BROUGHT HIM</font><font color=#FAFF00 size="20"> NOT </font><font color="#FFFFFF" size="20">JUST</font>
+
+4
+00:00:03,887 --> 00:00:04,148
+<font color="#FFFFFF" size="20">BROUGHT HIM NOT</font><font color=#FAFF00 size="20"> JUST</font>
 

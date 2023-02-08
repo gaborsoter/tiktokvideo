@@ -1,13 +1,19 @@
-import numpy as np
+def calculate_font_size(value):
+    # min and max font size
+    leftMin = 0
+    leftMax = 15
 
-array = [['["Welcome to Larry King Now.", "Our special guest is Gary Vaynerchuk. "]'], ['["The self-proclaimed hustler", "is a digital media mogul,", "author, web show host,", "and venture capitalist,", "among many other things."]'], ['["As the CEO and", "co-founder of VaynerMedia,", "Gary hosts the hugely popular", "YouTube show, Ask Gary Vee,", "and has penned three", "New York Times bestselling books."]'], ['["Gary has been named to", "Fortune Magazine\'s 40 Under 40", "list of the most influential", "business leaders and holds", "the number one ranking on", "Forbes Top 40 Social Selling", "Market Masters.", "His newest book, Ask Gary Vee,", "is available now."]'], ['["How did this all start?", "Wine? What happened with you?"]'], ['["What happened with me is", "I had the great benefit of being an immigrant.", "I was born in Belarus in the former Soviet Union.", "My mother was from Belarus.", "I didn\'t know that.", "Minsk, I think.", "Yeah, I was born 40 minutes from Minsk."]']]
+    # min and max character length
+    rightMin = 30
+    rightMax = 15
 
-array = np.array(array).flatten()
+    leftSpan = leftMax - leftMin
+    rightSpan = rightMax - rightMin
 
-output = []
-for item in array:
-    subitems = item.split('", "')
-    for subitem in subitems:
-        subitem = subitem.replace('["', '')
-        subitem = subitem.replace('"]', '')
-        output.append(subitem)
+    # Convert the left range into a 0-1 range (float)
+    valueScaled = float(value - leftMin) / float(leftSpan)
+
+    # Convert the 0-1 range into a value in the right range.
+    return int(rightMin + (valueScaled * rightSpan))
+
+print(calculate_font_size(5))

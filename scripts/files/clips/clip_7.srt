@@ -1,4 +1,16 @@
 1
-00:00:13,160 --> 00:00:14,322
-As the CEO and
+00:00:08,040 --> 00:00:08,421
+<font color=#FAFF00 size="20">STARTING </font><font color="#FFFFFF" size="20">OFF THE NIGHT,</font>
+
+2
+00:00:08,421 --> 00:00:08,602
+<font color="#FFFFFF" size="20">STARTING</font><font color=#FAFF00 size="20"> OFF </font><font color="#FFFFFF" size="20">THE NIGHT,</font>
+
+3
+00:00:08,602 --> 00:00:08,742
+<font color="#FFFFFF" size="20">STARTING OFF</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">NIGHT,</font>
+
+4
+00:00:08,742 --> 00:00:09,063
+<font color="#FFFFFF" size="20">STARTING OFF THE</font><font color=#FAFF00 size="20"> NIGHT,</font>
 

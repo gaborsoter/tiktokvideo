@@ -1,3 +1,16 @@
 1
-00:00:08,229 --> 00:00:09,452
-author, web show host,
+00:00:04,148 --> 00:00:04,389
+<font color=#FAFF00 size="20">TWO </font><font color="#FFFFFF" size="20">AWARDS, BUT ALSO</font>
+
+2
+00:00:04,389 --> 00:00:04,852
+<font color="#FFFFFF" size="20">TWO</font><font color=#FAFF00 size="20"> AWARDS, </font><font color="#FFFFFF" size="20">BUT ALSO</font>
+
+3
+00:00:04,852 --> 00:00:05,032
+<font color="#FFFFFF" size="20">TWO AWARDS,</font><font color=#FAFF00 size="20"> BUT </font><font color="#FFFFFF" size="20">ALSO</font>
+
+4
+00:00:05,032 --> 00:00:05,354
+<font color="#FFFFFF" size="20">TWO AWARDS, BUT</font><font color=#FAFF00 size="20"> ALSO</font>
+

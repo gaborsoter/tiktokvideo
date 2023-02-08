@@ -1,4 +1,12 @@
 1
-00:00:04,180 --> 00:00:05,804
-<font color="#ffff00" size=14>The self-proclaimed 
-hustler</font> 
+00:00:02,440 --> 00:00:02,540
+<font color=#FAFF00 size="20">THE </font><font color="#FFFFFF" size="20">GRAMMY AWARDS</font>
+
+2
+00:00:02,540 --> 00:00:02,902
+<font color="#FFFFFF" size="20">THE</font><font color=#FAFF00 size="20"> GRAMMY </font><font color="#FFFFFF" size="20">AWARDS</font>
+
+3
+00:00:02,902 --> 00:00:03,304
+<font color="#FFFFFF" size="20">THE GRAMMY</font><font color=#FAFF00 size="20"> AWARDS</font>
+

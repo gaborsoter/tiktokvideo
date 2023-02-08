@@ -1,4 +1,12 @@
 1
-00:00:11,276 --> 00:00:12,278
-among many other things.
+00:00:06,017 --> 00:00:06,561
+<font color=#FAFF00 size="20">STANDOUT </font><font color="#FFFFFF" size="20">FASHION MOMENTS.</font>
+
+2
+00:00:06,561 --> 00:00:07,048
+<font color="#FFFFFF" size="20">STANDOUT</font><font color=#FAFF00 size="20"> FASHION </font><font color="#FFFFFF" size="20">MOMENTS.</font>
+
+3
+00:00:07,048 --> 00:00:08,040
+<font color="#FFFFFF" size="20">STANDOUT FASHION</font><font color=#FAFF00 size="20"> MOMENTS.</font>
 

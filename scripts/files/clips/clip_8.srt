@@ -1,4 +1,20 @@
 1
-00:00:14,402 --> 00:00:16,105
-co-founder of VaynerMedia,
+00:00:09,063 --> 00:00:09,445
+<font color=#FAFF00 size="20">STYLES </font><font color="#FFFFFF" size="20">TOOK THE RED CARPET</font>
+
+2
+00:00:09,445 --> 00:00:09,666
+<font color="#FFFFFF" size="20">STYLES</font><font color=#FAFF00 size="20"> TOOK </font><font color="#FFFFFF" size="20">THE RED CARPET</font>
+
+3
+00:00:09,666 --> 00:00:09,806
+<font color="#FFFFFF" size="20">STYLES TOOK</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">RED CARPET</font>
+
+4
+00:00:09,806 --> 00:00:10,027
+<font color="#FFFFFF" size="20">STYLES TOOK THE</font><font color=#FAFF00 size="20"> RED </font><font color="#FFFFFF" size="20">CARPET</font>
+
+5
+00:00:10,027 --> 00:00:10,388
+<font color="#FFFFFF" size="20">STYLES TOOK THE RED</font><font color=#FAFF00 size="20"> CARPET</font>
 

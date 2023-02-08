@@ -1,4 +1,8 @@
 1
-00:00:21,313 --> 00:00:22,315
-and has penned three
+00:00:13,600 --> 00:00:13,740
+<font color=#FAFF00 size="20">THE </font><font color="#FFFFFF" size="20">DARING,</font>
+
+2
+00:00:13,740 --> 00:00:14,182
+<font color="#FFFFFF" size="20">THE</font><font color=#FAFF00 size="20"> DARING,</font>
 

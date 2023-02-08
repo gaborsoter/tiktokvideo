@@ -1,4 +1,12 @@
 1
-00:00:22,395 --> 00:00:24,038
-New York Times bestselling books.
+00:00:14,182 --> 00:00:14,664
+<font color=#FAFF00 size="20">PLUNGING </font><font color="#FFFFFF" size="20">NECKLINE SHOWCASED</font>
+
+2
+00:00:14,664 --> 00:00:15,207
+<font color="#FFFFFF" size="20">PLUNGING</font><font color=#FAFF00 size="20"> NECKLINE </font><font color="#FFFFFF" size="20">SHOWCASED</font>
+
+3
+00:00:15,207 --> 00:00:15,709
+<font color="#FFFFFF" size="20">PLUNGING NECKLINE</font><font color=#FAFF00 size="20"> SHOWCASED</font>
 

@@ -5,6 +5,7 @@ import json
 from pydub import AudioSegment
 import os
 import boto3
+import botocore
 
 def export_audio(uploaded_file):
     str_one = "ffmpeg -i "

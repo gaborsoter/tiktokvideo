@@ -62,6 +62,8 @@ if uploaded_file is not None:
 
     upload_to_digital_ocean_space(random_name + ".wav", audio)
 
+    st.button('Create transcript')
+
     #sound = AudioSegment.from_wav("input.mp4.wav")
     #sound = sound.set_channels(1)
     #sound.export("input.wav", format="wav")

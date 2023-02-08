@@ -7,6 +7,7 @@ import os
 import boto3
 import botocore
 import random
+import ffmpeg
 
 def export_audio(uploaded_file):
     str_one = "ffmpeg -i "

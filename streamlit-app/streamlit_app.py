@@ -8,9 +8,8 @@ import os
 def export_audio(input_file_path):
     str_one = "ffmpeg -i "
     str_two = " -ab 160k -ac 2 -ar 16000 -vn "
-    str_three = ".wav"
-    input_name = input_file_path.split(". ")[0]
-    command = str_one + input_file_path + str_two + input_name + str_three 
+    input_name = uploaded_file.name
+    command = str_one + input_file_path + str_two + input_name
     subprocess.call(command, shell=True)
 
 st.write("Hello world") 

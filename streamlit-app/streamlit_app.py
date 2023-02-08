@@ -22,7 +22,7 @@ if uploaded_file is not None:
 
     session = boto3.session.Session()
     client = session.client('s3',
-                            endpoint_url='https://tenxshorts.ams3.digitaloceanspaces.com', # Find your endpoint in the control panel, under Settings. Prepend "https://".
+                            endpoint_url='https://ams3.digitaloceanspaces.com', # Find your endpoint in the control panel, under Settings. Prepend "https://".
                             config=botocore.config.Config(s3={'addressing_style': 'virtual'}), # Configures to use subdomain/virtual calling format.
                             region_name='ams3', # Use the region in your endpoint.
                             aws_access_key_id='DO00AEDRKJUZK2F7V2DZ', # Access key pair. You can create access key pairs using the control panel or API.

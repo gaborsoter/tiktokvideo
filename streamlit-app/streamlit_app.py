@@ -65,7 +65,7 @@ if uploaded_file is not None:
     upload_to_digital_ocean_space(random_name + ".wav", audio)
 
     if st.button('Create transcript'):
-        subtitler = Subtitler.Subtitler()
+        subtitler = Subtitler()
         st.write('Creating transcript...')
 
     

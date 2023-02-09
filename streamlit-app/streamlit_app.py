@@ -8,6 +8,7 @@ import boto3
 import botocore
 import random
 import ffmpeg
+import Subtitler
 
 def upload_to_digital_ocean_space(file_name, file):
     # Upload file to Digital Ocean Spaces
@@ -38,12 +39,13 @@ def export_audio_from_memory(uploaded_file):
     args = (ffmpeg
             .input('pipe:', format='mp4')
             .output('pipe:', format='wav')
-            .global_args('-ab', '160k', '-ac', '2', '-ar', '16000', '-vn')
+            .global_args('-ab', '160k', '-ac', '1', '-ar', '16000', '-vn')
             .get_args()
             )
     # print(args)
     proc = subprocess.Popen(
         ['ffmpeg'] + args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+
     return proc.communicate(input=uploaded_file.getvalue())[0]
 
 st.write("Hello world") 
@@ -63,11 +65,10 @@ if uploaded_file is not None:
     upload_to_digital_ocean_space(random_name + ".wav", audio)
 
     if st.button('Create transcript'):
+        subtitler = Subtitler.Subtitler()
         st.write('Creating transcript...')
 
-    #sound = AudioSegment.from_wav("input.mp4.wav")
-    #sound = sound.set_channels(1)
-    #sound.export("input.wav", format="wav")
+    
 
     #try:
     #    os.remove("input.mp4.wav")

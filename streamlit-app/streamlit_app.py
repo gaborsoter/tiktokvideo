@@ -62,8 +62,6 @@ if uploaded_file is not None:
 
     upload_to_digital_ocean_space(random_name + ".wav", audio)
 
-    st.button('Create transcript')
-
     if st.button('Create transcript'):
         result = add(1, 2)
         st.write('result: %s' % result)

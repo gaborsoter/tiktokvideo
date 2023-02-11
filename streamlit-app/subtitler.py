@@ -9,6 +9,10 @@ import re
 import num2words
 import os
 from unidecode import unidecode
+import replicate
+
+model = replicate.models.get("openai/whisper")
+version = model.versions.get("30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed")
 
 # create a class for subtitler
 class Subtitler:
@@ -19,18 +23,49 @@ class Subtitler:
         return
 
     def __call__(self, audio):
-        model = whisper.load_model("large-v2")
-        audio = whisper.load_audio(audio)
+        #model = whisper.load_model("large-v2")
+        #audio = whisper.load_audio(audio)
+        #transcription = model.transcribe(audio)
+        
+        inputs = {
+            # Audio file
+            'audio': audio,
 
-        transcription = model.transcribe(audio)
+            # Choose a Whisper model.
+            'model': "large-v2",
+
+            # Choose the format for the transcription
+            'transcription': "plain text",
+
+            # Translate the text to English when set to True
+            'translate': False,
+
+            # temperature to use for sampling
+            'temperature': 0,
+
+            # comma-separated list of token ids to suppress during sampling; '-1'
+            # will suppress most special characters except common punctuations
+            'suppress_tokens': "-1",
+            'condition_on_previous_text': True,
+            'temperature_increment_on_fallback': 0.2,
+            'compression_ratio_threshold': 2.4,
+            'logprob_threshold': -1,
+            'no_speech_threshold': 0.6,
+        }
+
+        # https://replicate.com/openai/whisper/versions/30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed#output-schema
+        output = version.predict(**inputs)
+
+        st.write(output)
+
         # # print the recognized text
-        segments = transcription["segments"]
-        start_index = 0
-        total_subs = []
-        for i,segment in enumerate(segments):
-            text = segment["text"]
-            audioSegment = AudioSegment.from_wav(audio)[segment["start"]*1000:segment["end"]*1000]
-            audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
+        #segments = transcription["segments"]
+        #start_index = 0
+        #total_subs = []
+        #for i,segment in enumerate(segments):
+        #    text = segment["text"]
+        #    audioSegment = AudioSegment.from_wav(audio)[segment["start"]*1000:segment["end"]*1000]
+        #    audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
             #transcript=text.strip().replace(" ", "|")
             #transcript = re.sub(r'[^\w|\s]', '', transcript)
             #transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
@@ -53,7 +88,7 @@ class Subtitler:
         #        os.remove(str(i)+".wav")
         #except:
         #    pass
-        return
+        return output
 
     def force_align(SPEECH_FILE, transcript, start_index, start_time):
         bundle = torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H

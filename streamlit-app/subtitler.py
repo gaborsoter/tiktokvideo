@@ -13,6 +13,7 @@ import replicate
 import base64
 from urllib.request import urlopen
 import json
+import streamlit as st
 
 model = replicate.models.get("openai/whisper")
 version = model.versions.get("30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed")

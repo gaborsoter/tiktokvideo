@@ -68,7 +68,10 @@ if uploaded_file is not None:
     if st.button('Create transcript'):
         st.write('Creating transcript...')
         subtitler = Subtitler()
-        subtitler(audio)
+        
+        audio = base64.b64encode(audio).decode("utf-8")
+        st.write(audio)
+        #subtitler(audio)
         st.write('Transcript created!')
 
     

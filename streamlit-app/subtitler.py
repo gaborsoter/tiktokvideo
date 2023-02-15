@@ -33,9 +33,11 @@ class Subtitler:
         # convert audio to binary data
         audio = base64.b64encode(audio).decode("utf-8")
 
+
+        print(audio)
+
         inputs = {
             # Audio file
-
             'audio': audio,
 
             # Choose a Whisper model.

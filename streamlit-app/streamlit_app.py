@@ -71,7 +71,7 @@ if uploaded_file is not None:
         subtitler = Subtitler()
         
         audio = base64.b64encode(audio).decode("utf-8")
-        st.write(audio)
+        st.write(audio.type)
         #subtitler(audio)
         st.write('Transcript created!')
 

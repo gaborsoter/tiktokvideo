@@ -33,7 +33,7 @@ class Subtitler:
         # convert audio to binary data
         audio = base64.b64encode(audio).decode("utf-8")
 
-
+        print("HERE")
         print(audio)
 
         inputs = {

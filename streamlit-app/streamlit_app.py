@@ -63,11 +63,12 @@ if uploaded_file is not None:
     audio = export_audio_from_memory(uploaded_file)
 
     upload_to_digital_ocean_space(random_name + ".wav", audio)
+    st.write("audio written to file")
 
-    if st.button('Create transcript'):
-        subtitler = Subtitler()
-        subtitler(audio)
-        st.write('Creating transcript...')
+    #if st.button('Create transcript'):
+    #    subtitler = Subtitler()
+    #    subtitler(audio)
+    #    st.write('Creating transcript...')
 
     
 

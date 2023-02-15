@@ -39,7 +39,7 @@ def export_audio_from_memory(uploaded_file):
     args = (ffmpeg
             .input('pipe:', format='mp4')
             .output('pipe:', format='wav')
-            .global_args('-ab', '160k', '-ac', '1', '-ar', '16000', '-vn')
+            .global_args('-analyzeduration', '2147483647', '-probesize', '2147483647', '-ab', '160k', '-ac', '1', '-ar', '16000', '-vn')
             .get_args()
             )
     # print(args)

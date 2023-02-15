@@ -37,7 +37,7 @@ class Subtitler:
 
         inputs = {
             # Audio file
-            'audio': audio,
+            'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1000114729346668659360975.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230215%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230215T234006Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c2bd62a8a02962f697165eebf755a031e16b6f50371c385eb702511eb6468ad",
 
             # Choose a Whisper model.
             'model': "large",

@@ -34,7 +34,6 @@ class Subtitler:
         audio = base64.b64encode(audio).decode("utf-8")
 
         print("HERE")
-        print(audio)
 
         inputs = {
             # Audio file

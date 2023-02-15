@@ -30,9 +30,13 @@ class Subtitler:
         #audio = whisper.load_audio(audio)
         #transcription = model.transcribe(audio)
         
+        # convert audio to base64
+        audio = base64.b64encode(audio).decode("utf-8")
+        
         inputs = {
             # Audio file
-            'audio': audio.decode(),
+
+            'audio': audio,
 
             # Choose a Whisper model.
             'model': "large-v2",

@@ -9,6 +9,7 @@ import botocore
 import random
 import ffmpeg
 from subtitler import Subtitler
+import base64
 
 def upload_to_digital_ocean_space(file_name, file):
     # Upload file to Digital Ocean Spaces

@@ -63,9 +63,9 @@ class Subtitler:
         }
 
         # https://replicate.com/openai/whisper/versions/30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed#output-schema
-        output = version.predict(**inputs)
+        transcription = version.predict(**inputs)
 
-        st.write(output)
+        st.write(transcription)
 
         # print the recognized text
         segments = transcription["segments"]

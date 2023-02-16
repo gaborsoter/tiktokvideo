@@ -67,14 +67,14 @@ class Subtitler:
 
         st.write(output)
 
-        # # print the recognized text
-        #segments = transcription["segments"]
-        #start_index = 0
-        #total_subs = []
-        #for i,segment in enumerate(segments):
-        #    text = segment["text"]
-        #    audioSegment = AudioSegment.from_wav(audio)[segment["start"]*1000:segment["end"]*1000]
-        #    audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
+        # print the recognized text
+        segments = transcription["segments"]
+        start_index = 0
+        total_subs = []
+        for i,segment in enumerate(segments):
+            text = segment["text"]
+            audioSegment = AudioSegment.from_wav(audio)[segment["start"]*1000:segment["end"]*1000]
+            #audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
             #transcript=text.strip().replace(" ", "|")
             #transcript = re.sub(r'[^\w|\s]', '', transcript)
             #transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
@@ -82,7 +82,7 @@ class Subtitler:
             #start_index += len(segment["text"])
             #total_subs.extend(subs)
         
-        #st.write(total_subs)
+        st.write(total_subs)
 
         #CAPTION_FILE = open("files/caption.srt", "w")
         #CAPTION_FILE.write(compose(total_subs))

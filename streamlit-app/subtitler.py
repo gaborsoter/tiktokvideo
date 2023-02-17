@@ -32,11 +32,11 @@ class Subtitler:
     def __call__(self, audio):
         def force_align(SPEECH_FILE, transcript, start_index, start_time):
             bundle = torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H
-            model = bundle.get_model().to(device)
+            model = bundle.get_model().to(self.device)
             labels = bundle.get_labels()
             with torch.inference_mode():
                 waveform, _ = torchaudio.load(SPEECH_FILE)
-                emissions, _ = model(waveform.to(device))
+                emissions, _ = model(waveform.to(self.device))
                 emissions = torch.log_softmax(emissions, dim=-1)
 
             emission = emissions[0].cpu().detach()

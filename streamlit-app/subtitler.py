@@ -69,6 +69,9 @@ class Subtitler:
 
         st.write(transcription)
 
+        url = "https://ams3.digitaloceanspaces.com/tenxshorts/1000114729346668659360975.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230217%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230217T121743Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12ad72901f64943a0065131002f6479b70cc72b48a3d7dd795caed0580c79105"
+        audio = urllib.urlopen(url).read()
+
         # print the recognized text
         segments = transcription["segments"]
         start_index = 0

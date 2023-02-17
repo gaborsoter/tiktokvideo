@@ -10,6 +10,7 @@ import random
 import ffmpeg
 from subtitler import Subtitler
 from editor import Editor
+from preparer import Preparer
 import base64
 
 def upload_to_digital_ocean_space(file_name, file):
@@ -78,11 +79,9 @@ if uploaded_file is not None:
         st.write('Transcript edited!')
         st.write(output)
 
-        text = ""
-        for line in output:
-            text += line + "\n"
-
-        st.text_area(text)
+        preparer = Preparer()
+        preparer()
+        st.write('Everything prepared')
 
     #try:
     #    os.remove("input.mp4.wav")

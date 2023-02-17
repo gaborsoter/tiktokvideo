@@ -242,19 +242,19 @@ class Subtitler:
         
         st.write(total_subs)
 
-        #CAPTION_FILE = open("files/caption.srt", "w")
-        #CAPTION_FILE.write(compose(total_subs))
-        #CAPTION_FILE.close()
+        CAPTION_FILE = open("caption.srt", "w")
+        CAPTION_FILE.write(compose(total_subs))
+        CAPTION_FILE.close()
 
-        #TRANSCRIPT = open("files/transcript.txt", "w")
-        #TRANSCRIPT.write(transcription["text"])
-        #TRANSCRIPT.close()
+        TRANSCRIPT = open("transcript.txt", "w")
+        TRANSCRIPT.write(transcription["text"])
+        TRANSCRIPT.close()
 
-        #try:
-        #    for i in range(50):
-        #        os.remove(str(i)+".wav")
-        #except:
-        #    pass
+        try:
+            for i in range(50):
+                os.remove(str(i)+".wav")
+        except:
+            pass
         return 
 
         

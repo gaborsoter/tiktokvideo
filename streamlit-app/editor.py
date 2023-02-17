@@ -57,3 +57,5 @@ class Editor:
         with open('bits.txt', 'w') as filehandle:
             for listitem in output:
                 filehandle.write('%s\n' % listitem)
+
+        return output

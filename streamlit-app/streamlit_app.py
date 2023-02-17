@@ -74,8 +74,9 @@ if uploaded_file is not None:
         
         subtitler(audio)
         st.write('Transcript created!')
-        editor()
+        output = editor()
         st.write('Transcript edited!')
+        st.write(output)
 
     #try:
     #    os.remove("input.mp4.wav")

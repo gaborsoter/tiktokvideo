@@ -166,14 +166,8 @@ class Burner:
             color = "80ff80"
             # FontName="+fontname+",
             style = "Alignment="+alignment+",Outline="+outline+",FontSize="+fontsize+",Shadow="+shadow+",MarginL="+marginL+",MarginR="+marginR+",MarginV="+marginV+",Angle="+angle+", PrimaryColour="+color
-            stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, force_style=style), audio, v=1, a=1)
+            #stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, force_style=style), audio, v=1, a=1)
             i += 1
             #fontsdir=fonts_dir,
-
-        try:
-            stream.output("output.mp4").run(capture_stdout=True, capture_stderr=True)
-        except ffmpeg.Error as e:
-            print("HERE ERROR")
-            print('stdout:', e.stdout.decode('utf8'))
-            print('stderr:', e.stderr.decode('utf8'))
-            raise e
+        
+            #stream.output("output.mp4").run(capture_stdout=True, capture_stderr=True)

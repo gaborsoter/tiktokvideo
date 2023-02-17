@@ -11,6 +11,7 @@ import ffmpeg
 from subtitler import Subtitler
 from editor import Editor
 from preparer import Preparer
+from burner import Burner
 import base64
 
 def upload_to_digital_ocean_space(file_name, file):
@@ -82,6 +83,10 @@ if uploaded_file is not None:
         preparer = Preparer()
         preparer()
         st.write('Everything prepared')
+        burner = Burner()
+        burner()
+        st.write('Video burned')
+
 
     #try:
     #    os.remove("input.mp4.wav")

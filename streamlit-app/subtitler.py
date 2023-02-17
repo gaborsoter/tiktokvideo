@@ -247,7 +247,7 @@ class Subtitler:
         CAPTION_FILE.close()
 
         TRANSCRIPT = open("transcript.txt", "w")
-        TRANSCRIPT.write(transcription["text"])
+        TRANSCRIPT.write(transcription["transcription"])
         TRANSCRIPT.close()
 
         try:

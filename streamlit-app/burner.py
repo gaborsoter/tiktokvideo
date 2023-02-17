@@ -169,5 +169,5 @@ class Burner:
             #stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, force_style=style), audio, v=1, a=1)
             i += 1
             #fontsdir=fonts_dir,
-        
+            print("HERE")
             #stream.output("output.mp4").run(capture_stdout=True, capture_stderr=True)

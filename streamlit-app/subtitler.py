@@ -14,6 +14,8 @@ import base64
 from urllib.request import urlopen
 import json
 import streamlit as st
+from io import BytesIO
+
 
 model = replicate.models.get("openai/whisper")
 version = model.versions.get("30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed")
@@ -38,7 +40,7 @@ class Subtitler:
 
         inputs = {
             # Audio file
-            'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1000114729346668659360975.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230215%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230215T234006Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c2bd62a8a02962f697165eebf755a031e16b6f50371c385eb702511eb6468ad",
+            'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1000114729346668659360975.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230217%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230217T121743Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12ad72901f64943a0065131002f6479b70cc72b48a3d7dd795caed0580c79105",
 
             # Choose a Whisper model.
             'model': "large",
@@ -73,7 +75,7 @@ class Subtitler:
         total_subs = []
         for i,segment in enumerate(segments):
             text = segment["text"]
-            audioSegment = AudioSegment.from_wav(audio)[segment["start"]*1000:segment["end"]*1000]
+            audioSegment = AudioSegment.from_wav(BytesIO(audio))[segment["start"]*1000:segment["end"]*1000]
             #audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
             #transcript=text.strip().replace(" ", "|")
             #transcript = re.sub(r'[^\w|\s]', '', transcript)

@@ -9,6 +9,7 @@ import botocore
 import random
 import ffmpeg
 from subtitler import Subtitler
+from editor import Editor
 import base64
 
 def upload_to_digital_ocean_space(file_name, file):
@@ -69,11 +70,12 @@ if uploaded_file is not None:
     if st.button('Create transcript'):
         st.write('Creating transcript...')
         subtitler = Subtitler()
+        editor = Editor()
         
         subtitler(audio)
         st.write('Transcript created!')
-
-    
+        editor()
+        st.write('Transcript edited!')
 
     #try:
     #    os.remove("input.mp4.wav")

@@ -5,9 +5,6 @@ from decouple import config
 
 class Editor:
     def __init__(self):
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        torch.cuda.empty_cache()
-        torch.random.manual_seed(0)
         return
 
     def __call__(self):

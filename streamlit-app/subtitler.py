@@ -41,7 +41,7 @@ class Subtitler:
 
         inputs = {
             # Audio file
-            'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1000114729346668659360975.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230217%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230217T121743Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12ad72901f64943a0065131002f6479b70cc72b48a3d7dd795caed0580c79105",
+            'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/210016557725152843431569.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230217%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230217T130940Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=304fcfb7a73ca4d993d6c12eb54b0ac188153b6842a14664d2c9a33799532056",
 
             # Choose a Whisper model.
             'model': "base",
@@ -70,7 +70,7 @@ class Subtitler:
 
         st.write(transcription)
 
-        url = "https://ams3.digitaloceanspaces.com/tenxshorts/1000114729346668659360975.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230217%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230217T121743Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12ad72901f64943a0065131002f6479b70cc72b48a3d7dd795caed0580c79105"
+        url = "https://ams3.digitaloceanspaces.com/tenxshorts/210016557725152843431569.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230217%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230217T130940Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=304fcfb7a73ca4d993d6c12eb54b0ac188153b6842a14664d2c9a33799532056"
         audio = urllib.urlopen(url).read()
 
         # print the recognized text

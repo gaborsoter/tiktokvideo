@@ -15,6 +15,7 @@ from urllib.request import urlopen
 import json
 import streamlit as st
 from io import BytesIO
+import urllib
 
 
 model = replicate.models.get("openai/whisper")

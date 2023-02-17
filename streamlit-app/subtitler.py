@@ -80,13 +80,13 @@ class Subtitler:
         for i,segment in enumerate(segments):
             text = segment["text"]
             audioSegment = AudioSegment.from_wav(BytesIO(audio))[segment["start"]*1000:segment["end"]*1000]
-            #audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
-            #transcript=text.strip().replace(" ", "|")
-            #transcript = re.sub(r'[^\w|\s]', '', transcript)
-            #transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
-            #subs = force_align(str(i)+'.wav', transcript.upper(), start_index, segment["start"])
-            #start_index += len(segment["text"])
-            #total_subs.extend(subs)
+            audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
+            transcript=text.strip().replace(" ", "|")
+            transcript = re.sub(r'[^\w|\s]', '', transcript)
+            transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
+            subs = force_align(str(i)+'.wav', transcript.upper(), start_index, segment["start"])
+            start_index += len(segment["text"])
+            total_subs.extend(subs)
         
         st.write(total_subs)
 
@@ -103,7 +103,7 @@ class Subtitler:
         #        os.remove(str(i)+".wav")
         #except:
         #    pass
-        return output
+        return 
 
     def force_align(SPEECH_FILE, transcript, start_index, start_time):
         bundle = torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H

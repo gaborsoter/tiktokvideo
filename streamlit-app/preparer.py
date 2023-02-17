@@ -60,6 +60,6 @@ class Preparer:
 
             temp_sub = srt.compose([temp_sub])
 
-            CAPTION_FILE = open("clips/clip_"+str(i)+".srt", "w")
+            CAPTION_FILE = open("clip_"+str(i)+".srt", "w")
             CAPTION_FILE.write(temp_sub)
             CAPTION_FILE.close()

@@ -171,6 +171,6 @@ class Burner:
 
         try:
             stream.output("output.mp4").run()
-        except ffmpeg.Error as e:
+        except stream.Error as e:
             print(e.stderr.decode(), file=sys.stderr)
             sys.exit(1)

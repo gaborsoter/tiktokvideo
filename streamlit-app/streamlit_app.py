@@ -78,7 +78,11 @@ if uploaded_file is not None:
         st.write('Transcript edited!')
         st.write(output)
 
-        st.text_area(output)
+        text = ""
+        for line in output:
+            text += line + "\n"
+
+        st.text_area(text)
 
     #try:
     #    os.remove("input.mp4.wav")

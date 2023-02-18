@@ -158,7 +158,7 @@ class Burner:
             fontsize = str(20)
             animate_subtitle(animation_type, subtitle_path, bit_lengths[i], sub_colour, fontsize)
             alignment = str(2)
-            fontname = "Arial"
+            fontname = "My Font"
             outline = str(0)
             shadow = str(1)
             marginL = str(100)
@@ -169,9 +169,8 @@ class Burner:
             #angle = str(0)
             color = "80ff80"
             style = "Alignment="+alignment+",Outline="+outline+",FontName="+fontname+",FontSize="+fontsize+",Shadow="+shadow+",MarginL="+marginL+",MarginR="+marginR+",MarginV="+marginV+",Angle="+angle+", PrimaryColour="+color
-            stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, force_style=style), audio, v=1, a=1)
+            stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, fontsdir=fonts_dir, force_style=style), audio, v=1, a=1)
             i += 1
-            #fontsdir=fonts_dir,
             print("HERE")
         
-        stream.output("output.mp4").run()
+        stream.output("output.mp4").run(overwrite_output=True)

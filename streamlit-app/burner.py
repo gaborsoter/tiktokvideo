@@ -140,7 +140,9 @@ class Burner:
         stream = ffmpeg.input(video_path)
         try:
             stream.output("demo.mp4", vcodec="copy", acodec="copy").run(capture_stdout=True, capture_stderr=True)
+            print("here")
         except ffmpeg.Error as e:
+            print("here2")
             print('stdout:', e.stdout.decode('utf8'))
             print('stderr:', e.stderr.decode('utf8'))
             raise e

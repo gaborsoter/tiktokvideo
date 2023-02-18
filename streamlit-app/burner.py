@@ -138,7 +138,13 @@ class Burner:
         caps = list(srt.parse(captions))
 
         stream = ffmpeg.input(video_path)
-        stream.output("demo.mp4", vcodec="copy", acodec="copy").run(capture_stdout=True, capture_stderr=True)
+        try:
+            stream.output("demo.mp4", vcodec="copy", acodec="copy").run(capture_stdout=True, capture_stderr=True)
+        except ffmpeg.Error as e:
+            print('stdout:', e.stdout.decode('utf8'))
+            print('stderr:', e.stderr.decode('utf8'))
+            raise e
+
 
         angles = ["-10", "0", "10"]
         colour = ["red", "green", "yellow"]

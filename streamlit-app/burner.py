@@ -141,15 +141,6 @@ class Burner:
         caps = list(srt.parse(captions))
 
         stream = ffmpeg.input(video_path)
-        try:
-            stream.output("output.mp4", vcodec="copy", acodec="copy").run(capture_stdout=True, capture_stderr=True)
-            print("here")
-        except ffmpeg.Error as e:
-            print("here2")
-            print('stdout:', e.stdout.decode('utf8'))
-            print('stderr:', e.stderr.decode('utf8'))
-            raise e
-
 
         angles = ["-10", "0", "10"]
         colour = ["red", "green", "yellow"]
@@ -159,7 +150,6 @@ class Burner:
         i = 0
 
 
-        '''
         while (os.path.exists("clip_"+str(i)+".srt")):
             subtitle_path = "clip_"+str(i)+".srt"
             #animation_type = random.randint(2, 3)
@@ -180,9 +170,9 @@ class Burner:
             color = "80ff80"
             # FontName="+fontname+",
             style = "Alignment="+alignment+",Outline="+outline+",FontSize="+fontsize+",Shadow="+shadow+",MarginL="+marginL+",MarginR="+marginR+",MarginV="+marginV+",Angle="+angle+", PrimaryColour="+color
-            #stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, force_style=style), audio, v=1, a=1)
+            stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, force_style=style), audio, v=1, a=1)
             i += 1
             #fontsdir=fonts_dir,
             print("HERE")
-            #stream.output("output.mp4").run(capture_stdout=True, capture_stderr=True)
-        '''
+        
+        stream.output("files/output.mp4").run()

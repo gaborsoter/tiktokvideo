@@ -121,12 +121,11 @@ class Burner:
                 f.write(subtitle)
                 f.close()
 
+        ffmpeg.input("https://ams3.digitaloceanspaces.com/tenxshorts/1002328967830600052725638.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230218%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230218T173210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1ecde6df6d6795e2acd25562e109680d1db7b1ccf1283f830d56767b2ac8718e", ss=FROM, t=TO).output("demo.mp4", vcodec="copy", acodec="copy").overwrite_output().run()
+
+        '''
         video_path="input.mp4"
         audio = ffmpeg.input(video_path).audio
-
-        path = Path('./input.mp4')
-
-        st.write("isfile:", path.is_file())
 
         #fonts_dir = "/Users/gaborsoter/repos/tiktokvideo/scripts/files/gabor.otf"
 
@@ -160,6 +159,8 @@ class Burner:
         # concat subtitles
 
         i = 0
+        '''
+
         '''
         while (os.path.exists("clip_"+str(i)+".srt")):
             subtitle_path = "clip_"+str(i)+".srt"

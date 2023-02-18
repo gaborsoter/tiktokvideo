@@ -149,7 +149,6 @@ class Burner:
 
         i = 0
 
-
         while (os.path.exists("clip_"+str(i)+".srt")):
             st.write("i:", i)
             subtitle_path = "clip_"+str(i)+".srt"
@@ -175,4 +174,4 @@ class Burner:
             #fontsdir=fonts_dir,
             print("HERE")
         
-        stream.output("output.mp4").run()
+        #stream.output("output.mp4").run()

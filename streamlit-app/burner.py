@@ -175,4 +175,4 @@ class Burner:
             #fontsdir=fonts_dir,
             print("HERE")
         
-        stream.output("files/output.mp4").run()
+        stream.output("output.mp4").run()

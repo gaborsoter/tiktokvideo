@@ -151,6 +151,7 @@ class Burner:
 
 
         while (os.path.exists("clip_"+str(i)+".srt")):
+            st.write("i:", i)
             subtitle_path = "clip_"+str(i)+".srt"
             #animation_type = random.randint(2, 3)
             animation_type = 3

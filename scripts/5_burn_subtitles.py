@@ -116,7 +116,7 @@ def animate_subtitle(type, subtitle_path, current_bit_length, colour, font_size)
 video_path="files/input.mp4"
 audio = ffmpeg.input(video_path).audio
 
-fonts_dir = "/Users/gaborsoter/repos/tiktokvideo/scripts/files/gabor.otf"
+fonts_dir = "./"
 
 bit_lengths_file = open("files/bit_lengths.txt", "r")
 file_content = bit_lengths_file.read()

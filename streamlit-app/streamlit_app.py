@@ -87,6 +87,12 @@ if uploaded_file is not None:
         burner()
         st.write('Video burned')
 
+        st.download_button(
+            label="Download mp4",
+            data=open("output.mp4", "rb").read(),
+            file_name='output.mp4',
+            mime='video/mp4',
+        )
 
     #try:
     #    os.remove("input.mp4.wav")

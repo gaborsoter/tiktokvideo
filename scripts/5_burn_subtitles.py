@@ -162,4 +162,4 @@ while (os.path.exists("files/clips/clip_"+str(i)+".srt")):
     stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, fontsdir=fonts_dir, force_style=style), audio, v=1, a=1)
     i += 1
 
-stream.output("files/output.mp4").run()
+stream.output("files/output.mp4").run(overwrite_output=True)

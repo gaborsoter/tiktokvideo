@@ -2,6 +2,8 @@ import ffmpeg
 import random
 import os.path
 import srt
+from pathlib import Path
+
 
 
 class Burner:
@@ -122,6 +124,10 @@ class Burner:
         video_path="input.mp4"
         audio = ffmpeg.input(video_path).audio
 
+        path = Path('./input.mp4')
+
+        print("isfile:", path.is_file())
+
         #fonts_dir = "/Users/gaborsoter/repos/tiktokvideo/scripts/files/gabor.otf"
 
         bit_lengths_file = open("bit_lengths.txt", "r")
@@ -139,7 +145,7 @@ class Burner:
 
         stream = ffmpeg.input(video_path)
         try:
-            stream.output("demo.mp4", vcodec="copy", acodec="copy").run(capture_stdout=True, capture_stderr=True)
+            stream.output("input.mp4", vcodec="copy", acodec="copy").run(capture_stdout=True, capture_stderr=True)
             print("here")
         except ffmpeg.Error as e:
             print("here2")

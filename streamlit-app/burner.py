@@ -174,3 +174,4 @@ class Burner:
             print("HERE")
         
         stream.output("output.mp4").run(overwrite_output=True)
+        

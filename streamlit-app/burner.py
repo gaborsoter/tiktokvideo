@@ -3,7 +3,7 @@ import random
 import os.path
 import srt
 from pathlib import Path
-
+from streamlit as st
 
 
 class Burner:
@@ -126,7 +126,7 @@ class Burner:
 
         path = Path('./input.mp4')
 
-        print("isfile:", path.is_file())
+        st.write("isfile:", path.is_file())
 
         #fonts_dir = "/Users/gaborsoter/repos/tiktokvideo/scripts/files/gabor.otf"
 

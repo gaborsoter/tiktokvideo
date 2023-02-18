@@ -138,6 +138,7 @@ class Burner:
         caps = list(srt.parse(captions))
 
         stream = ffmpeg.input(video_path)
+        stream.run(capture_stdout=True, capture_stderr=True)
 
         angles = ["-10", "0", "10"]
         colour = ["red", "green", "yellow"]
@@ -145,7 +146,7 @@ class Burner:
         # concat subtitles
 
         i = 0
-
+        '''
         while (os.path.exists("clip_"+str(i)+".srt")):
             subtitle_path = "clip_"+str(i)+".srt"
             #animation_type = random.randint(2, 3)
@@ -171,3 +172,4 @@ class Burner:
             #fontsdir=fonts_dir,
             print("HERE")
             #stream.output("output.mp4").run(capture_stdout=True, capture_stderr=True)
+        '''

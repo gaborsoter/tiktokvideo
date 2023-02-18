@@ -3,7 +3,7 @@ import random
 import os.path
 import srt
 from pathlib import Path
-from streamlit as st
+import streamlit as st
 
 
 class Burner:

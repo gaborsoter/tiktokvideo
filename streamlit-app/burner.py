@@ -5,7 +5,7 @@ import srt
 from pathlib import Path
 import streamlit as st
 import shutil
-import os
+import os.path
 
 class Burner:
     def __init__(self):
@@ -126,14 +126,8 @@ class Burner:
         video_path="https://ams3.digitaloceanspaces.com/tenxshorts/1002328967830600052725638.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230218%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230218T173210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1ecde6df6d6795e2acd25562e109680d1db7b1ccf1283f830d56767b2ac8718e"
         audio = ffmpeg.input(video_path).audio
 
-        if not os.path.isdir("/usr/share/fonts/truetype/myfont/"):
-            os.makedirs("/usr/share/fonts/truetype/myfont/")
-
-        src_path = "./fonts/gabor.otf"
-        dst_path = "/usr/share/fonts/truetype/myfont/gabor.otf"
-        shutil.copy(src_path, dst_path)
-        
-        fonts_dir = "/usr/share/fonts/truetype/myfont/gabor.otf"
+        fonts_dir = "./fonts/gabor.otf"
+        st.write(os.path.isfile("./fonts/gabor.otf"))
 
         bit_lengths_file = open("bit_lengths.txt", "r")
         file_content = bit_lengths_file.read()

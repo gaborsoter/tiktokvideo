@@ -125,7 +125,7 @@ class Burner:
         video_path="https://ams3.digitaloceanspaces.com/tenxshorts/1002328967830600052725638.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230218%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230218T173210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1ecde6df6d6795e2acd25562e109680d1db7b1ccf1283f830d56767b2ac8718e"
         audio = ffmpeg.input(video_path).audio
 
-        fonts_dir = "/fonts/"
+        fonts_dir = "/fonts/gabor.otf"
 
         bit_lengths_file = open("bit_lengths.txt", "r")
         file_content = bit_lengths_file.read()
@@ -158,7 +158,7 @@ class Burner:
             fontsize = str(20)
             animate_subtitle(animation_type, subtitle_path, bit_lengths[i], sub_colour, fontsize)
             alignment = str(2)
-            fontname = "MyFontBold"
+            fontname = "My Font"
             outline = str(0)
             shadow = str(1)
             marginL = str(100)

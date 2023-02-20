@@ -182,7 +182,7 @@ class Subtitler:
 
             return subs
 
-        @st.cache_data
+        @st.cache
         def transcribe_replicate():
             inputs = {
                 # Audio file

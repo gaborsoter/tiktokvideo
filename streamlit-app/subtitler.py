@@ -222,10 +222,14 @@ class Subtitler:
         url = "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T005317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=414e6d2292babdc8cd4e72178286aaa335bc7e7f2a32acacb871c18e6c6002ad"
         audio = urlopen(url).read()
 
+        inputted_transcript = []
         for i in range(len(transcription["segments"])):
-            st.write(transcription["segments"][i]["text"]) #= st.text_input("Fix transcript", value=" ".join(transcription["segments"][i]), key=i)
+            inputted_transcript.append(st.text_input("Fix transcript", value=" ".join(transcription["segments"][i]["text"]), key=i))
 
         if st.button("Create subtitles"):
+            for i in range(len(inputted_transcript)):
+                st.write(inputted_transcript[i])
+            '''
             segments = transcription["segments"]
             start_index = 0
             total_subs = []
@@ -254,5 +258,7 @@ class Subtitler:
             except:
                 pass
             return total_subs
+            '''
+            return
 
         

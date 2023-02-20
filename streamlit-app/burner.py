@@ -123,7 +123,7 @@ class Burner:
                 f.close()
 
 
-        video_path="https://ams3.digitaloceanspaces.com/tenxshorts/1002328967830600052725638.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230218%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230218T173210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1ecde6df6d6795e2acd25562e109680d1db7b1ccf1283f830d56767b2ac8718e"
+        video_path="https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T124027Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=56fbeaab56b20ef6ed527fb68e8ae57540d21d89d63789d395c459b5ddb4a07d"
         audio = ffmpeg.input(video_path).audio
 
         fonts_dir = "./fonts/gabor.otf"

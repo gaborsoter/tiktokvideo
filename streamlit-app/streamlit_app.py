@@ -89,8 +89,8 @@ if uploaded_file is not None:
 
         st.download_button(
             label="Download captions",
-            data=open("caption.srt", "rb").read(),
-            file_name='caption.srt',
+            data=open("input.srt", "rb").read(),
+            file_name='input.srt',
             mime='text/srt',
         )
 

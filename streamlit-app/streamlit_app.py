@@ -71,7 +71,9 @@ if uploaded_file is not None:
         subtitler = Subtitler()
         editor = Editor()
 
-        subtitler(audio)
+        subtitles = subtitler(audio)
+        st.write(subtitles)
+        '''
         st.write('Transcript created!')
         output = editor()
         st.write('Transcript edited!')
@@ -82,7 +84,7 @@ if uploaded_file is not None:
 
         # add input text field, and make the flattened output the default value
         input_text = st.text_area("Edit transcript", output)
-
+        '''
 
         '''
         preparer = Preparer()

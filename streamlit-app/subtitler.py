@@ -238,8 +238,6 @@ class Subtitler:
             subs = force_align(str(i)+'.wav', transcript.upper(), start_index, segment["start"])
             start_index += len(segment["text"])
             total_subs.extend(subs)
-        
-        st.write(total_subs)
 
         CAPTION_FILE = open("caption.srt", "w")
         CAPTION_FILE.write(compose(total_subs))
@@ -254,6 +252,6 @@ class Subtitler:
                 os.remove(str(i)+".wav")
         except:
             pass
-        return 
+        return compose(total_subs)
 
         

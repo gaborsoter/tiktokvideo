@@ -13,6 +13,8 @@ from editor import Editor
 from preparer import Preparer
 from burner import Burner
 import base64
+from io import BytesIO
+
 
 def upload_to_digital_ocean_space(file_name, file):
     # Upload file to Digital Ocean Spaces

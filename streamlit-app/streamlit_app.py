@@ -68,28 +68,30 @@ if uploaded_file is not None:
 
     st.write('Start creating transcript...')
     subtitler = Subtitler()
-    editor = Editor()
 
-    subtitles = subtitler(audio)
+    if st.button("Generate video"):
+        editor = Editor()
 
-    st.write('Transcript created!')
-    output = editor()
-    st.write('Transcript edited!')
-    st.write(output)
+        subtitles = subtitler(audio)
 
-    preparer = Preparer()
-    preparer()
-    st.write('Everything prepared')
-    burner = Burner()
-    burner()
-    st.write('Video burned')
+        st.write('Transcript created!')
+        output = editor()
+        st.write('Transcript edited!')
+        st.write(output)
 
-    st.download_button(
-        label="Download mp4",
-        data=open("output.mp4", "rb").read(),
-        file_name='output.mp4',
-        mime='video/mp4',
-    )
+        preparer = Preparer()
+        preparer()
+        st.write('Everything prepared')
+        burner = Burner()
+        burner()
+        st.write('Video burned')
+
+        st.download_button(
+            label="Download mp4",
+            data=open("output.mp4", "rb").read(),
+            file_name='output.mp4',
+            mime='video/mp4',
+        )
 
     #try:
     #    os.remove("input.mp4.wav")

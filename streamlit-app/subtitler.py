@@ -183,7 +183,7 @@ class Subtitler:
             return subs
 
         @st.cache_data
-        def transcribe_replicate()
+        def transcribe_replicate():
             inputs = {
                 # Audio file
                 'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T005317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=414e6d2292babdc8cd4e72178286aaa335bc7e7f2a32acacb871c18e6c6002ad",

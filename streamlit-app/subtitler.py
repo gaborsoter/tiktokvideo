@@ -224,11 +224,10 @@ class Subtitler:
 
         inputted_transcript = []
         for i in range(len(transcription["segments"])):
-            inputted_transcript.append(st.text_input("Fix transcript", value="".join(transcription["segments"][i]["text"]), key=i))
+            title = st.text_input("Fix transcript", value="".join(transcription["segments"][i]["text"]), key=i)
 
         if st.button("Create subtitles"):
-            for i in range(len(inputted_transcript)):
-                st.write(inputted_transcript[i])
+            st.write(title)
             '''
             segments = transcription["segments"]
             start_index = 0

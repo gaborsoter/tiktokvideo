@@ -229,8 +229,8 @@ class Subtitler:
             st.write("HHEEEE")
             for i in range(len(transcription["segments"])):
                 transcription["segments"][i]["text"] = inputted_transcript[i]
-            return
-            '''
+            
+            
             segments = transcription["segments"]
             start_index = 0
             total_subs = []
@@ -259,7 +259,6 @@ class Subtitler:
             except:
                 pass
             return total_subs
-            '''
             
 
         

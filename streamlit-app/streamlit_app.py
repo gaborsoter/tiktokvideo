@@ -71,23 +71,12 @@ if uploaded_file is not None:
     editor = Editor()
 
     subtitles = subtitler(audio)
-    
-    '''
-    for i in range(len(subtitles)):
-        input_text = st.text_area("Edit subtitles", subtitles[i])
+
     st.write('Transcript created!')
     output = editor()
     st.write('Transcript edited!')
     st.write(output)
 
-    # flatten the output array into a string with a newline between each element
-    output = "\n".join(output)
-
-    # add input text field, and make the flattened output the default value
-    input_text = st.text_area("Edit transcript", output)
-    '''
-
-    '''
     preparer = Preparer()
     preparer()
     st.write('Everything prepared')
@@ -101,7 +90,6 @@ if uploaded_file is not None:
         file_name='output.mp4',
         mime='video/mp4',
     )
-    '''
 
     #try:
     #    os.remove("input.mp4.wav")

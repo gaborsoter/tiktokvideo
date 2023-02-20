@@ -72,7 +72,8 @@ if uploaded_file is not None:
         editor = Editor()
 
         subtitles = subtitler(audio)
-        st.write(subtitles[0:4])
+        for subs in subtitles:
+            st.write(subs.split("content='")[1].split("'")[0])
         
         '''
         for i in range(len(subtitles)):

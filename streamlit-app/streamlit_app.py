@@ -68,11 +68,12 @@ if uploaded_file is not None:
 
     st.write('Start creating transcript...')
     subtitler = Subtitler()
+    subtitles = subtitler(audio)
     '''
     if st.button("Generate video"):
         editor = Editor()
 
-        subtitles = subtitler(audio)
+        
 
         st.write('Transcript created!')
         output = editor()

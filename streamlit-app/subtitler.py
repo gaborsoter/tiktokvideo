@@ -230,7 +230,6 @@ class Subtitler:
             for i in range(len(transcription["segments"])):
                 transcription["segments"][i]["text"] = inputted_transcript[i]
             
-            
             segments = transcription["segments"]
             start_index = 0
             total_subs = []

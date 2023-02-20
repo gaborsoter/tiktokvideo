@@ -252,12 +252,14 @@ class Subtitler:
             TRANSCRIPT.write(transcription["transcription"])
             TRANSCRIPT.close()
 
+            end = 1
+
             try:
                 for i in range(50):
                     os.remove(str(i)+".wav")
             except:
                 pass
-            return total_subs
+            return total_subs, end
             
 
         

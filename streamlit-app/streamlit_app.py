@@ -68,7 +68,7 @@ if uploaded_file is not None:
 
     st.write('Start creating transcript...')
     subtitler = Subtitler()
-
+    '''
     if st.button("Generate video"):
         editor = Editor()
 
@@ -92,7 +92,7 @@ if uploaded_file is not None:
             file_name='output.mp4',
             mime='video/mp4',
         )
-
+    '''
     #try:
     #    os.remove("input.mp4.wav")
     #except:

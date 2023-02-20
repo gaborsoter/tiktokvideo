@@ -220,14 +220,12 @@ class Subtitler:
         audio = urlopen(url).read()
 
         inputted_transcript = []
-        
-        text_value = st.text_input("Fix transcript", value="".join(transcription["segments"][1]["text"]), key=1)
-        '''
+    
         for i in range(len(transcription["segments"])):
-            title = st.text_input("Fix transcript", value="".join(transcription["segments"][i]["text"]), key=i)
-        '''
+            inputted_transcript.append(st.text_input("Fix transcript", value="".join(transcription["segments"][i]["text"]), key=i))
+        
         if st.button("Create subtitles"):
-            st.write(title)
+            st.write(inputted_transcript)
             st.write("HHEEEE")
             return
             '''

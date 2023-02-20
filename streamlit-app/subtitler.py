@@ -250,6 +250,6 @@ class Subtitler:
                 os.remove(str(i)+".wav")
         except:
             pass
-        return compose(total_subs)
+        return total_subs
 
         

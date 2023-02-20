@@ -66,43 +66,42 @@ if uploaded_file is not None:
 
     st.write("File uploaded successfully")
 
-    if st.button('Create transcript'):
-        st.write('Start creating transcript...')
-        subtitler = Subtitler()
-        editor = Editor()
+    st.write('Start creating transcript...')
+    subtitler = Subtitler()
+    editor = Editor()
 
-        subtitles = subtitler(audio)
-        
-        '''
-        for i in range(len(subtitles)):
-            input_text = st.text_area("Edit subtitles", subtitles[i])
-        st.write('Transcript created!')
-        output = editor()
-        st.write('Transcript edited!')
-        st.write(output)
+    subtitles = subtitler(audio)
+    
+    '''
+    for i in range(len(subtitles)):
+        input_text = st.text_area("Edit subtitles", subtitles[i])
+    st.write('Transcript created!')
+    output = editor()
+    st.write('Transcript edited!')
+    st.write(output)
 
-        # flatten the output array into a string with a newline between each element
-        output = "\n".join(output)
+    # flatten the output array into a string with a newline between each element
+    output = "\n".join(output)
 
-        # add input text field, and make the flattened output the default value
-        input_text = st.text_area("Edit transcript", output)
-        '''
+    # add input text field, and make the flattened output the default value
+    input_text = st.text_area("Edit transcript", output)
+    '''
 
-        '''
-        preparer = Preparer()
-        preparer()
-        st.write('Everything prepared')
-        burner = Burner()
-        burner()
-        st.write('Video burned')
+    '''
+    preparer = Preparer()
+    preparer()
+    st.write('Everything prepared')
+    burner = Burner()
+    burner()
+    st.write('Video burned')
 
-        st.download_button(
-            label="Download mp4",
-            data=open("output.mp4", "rb").read(),
-            file_name='output.mp4',
-            mime='video/mp4',
-        )
-        '''
+    st.download_button(
+        label="Download mp4",
+        data=open("output.mp4", "rb").read(),
+        file_name='output.mp4',
+        mime='video/mp4',
+    )
+    '''
 
     #try:
     #    os.remove("input.mp4.wav")

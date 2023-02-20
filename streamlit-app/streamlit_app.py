@@ -88,6 +88,13 @@ if uploaded_file is not None:
         st.write('Video burned')
 
         st.download_button(
+            label="Download captions",
+            data=open("caption.srt", "rb").read(),
+            file_name='caption.srt',
+            mime='text/srt',
+        )
+
+        st.download_button(
             label="Download mp4",
             data=open("output.mp4", "rb").read(),
             file_name='output.mp4',

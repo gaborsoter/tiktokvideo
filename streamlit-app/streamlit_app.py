@@ -72,10 +72,12 @@ if uploaded_file is not None:
         editor = Editor()
 
         subtitles = subtitler(audio)
+        for subs in subtitles:
+            st.write(subs.content)
+        
+        '''
         for i in range(len(subtitles)):
             input_text = st.text_area("Edit subtitles", subtitles[i])
-        '''
-
         st.write('Transcript created!')
         output = editor()
         st.write('Transcript edited!')

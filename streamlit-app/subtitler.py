@@ -226,7 +226,6 @@ class Subtitler:
         
         if st.button("Create subtitles"):
             st.write(inputted_transcript)
-            st.write("HHEEEE")
             for i in range(len(transcription["segments"])):
                 transcription["segments"][i]["text"] = inputted_transcript[i]
             
@@ -252,14 +251,12 @@ class Subtitler:
             TRANSCRIPT.write(transcription["transcription"])
             TRANSCRIPT.close()
 
-            end = 1
-
             try:
                 for i in range(50):
                     os.remove(str(i)+".wav")
             except:
                 pass
-            return total_subs, end
+            return total_subs
             
 
         

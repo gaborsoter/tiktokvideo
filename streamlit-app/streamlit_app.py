@@ -52,8 +52,6 @@ def export_audio_from_memory(uploaded_file):
 
     return proc.communicate(input=uploaded_file.getvalue())[0]
 
-st.write("Hello world") 
-
 # give me a random hex name with 20 digits
 random_name = str(random.getrandbits(80))
 
@@ -79,6 +77,14 @@ if uploaded_file is not None:
         st.write('Transcript edited!')
         st.write(output)
 
+        # flatten the output array into a string with a newline between each element
+        output = "\n".join(output)
+
+        # add input text field, and make the flattened output the default value
+        input_text = st.text_area("Edit transcript", output)
+
+
+        '''
         preparer = Preparer()
         preparer()
         st.write('Everything prepared')
@@ -92,6 +98,7 @@ if uploaded_file is not None:
             file_name='output.mp4',
             mime='video/mp4',
         )
+        '''
 
     #try:
     #    os.remove("input.mp4.wav")

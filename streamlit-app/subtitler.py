@@ -181,44 +181,41 @@ class Subtitler:
                 subs.append(subtitle)
 
             return subs
-        #model = whisper.load_model("large-v2")
-        #audio = whisper.load_audio(audio)
-        #transcription = model.transcribe(audio)
-        
-        # convert audio to binary data
-        audio = base64.b64encode(audio).decode("utf-8")
 
-        print("HERE")
+        @st.cache_data
+        def transcribe_replicate()
+            inputs = {
+                # Audio file
+                'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T005317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=414e6d2292babdc8cd4e72178286aaa335bc7e7f2a32acacb871c18e6c6002ad",
 
-        inputs = {
-            # Audio file
-            'audio': "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T005317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=414e6d2292babdc8cd4e72178286aaa335bc7e7f2a32acacb871c18e6c6002ad",
+                # Choose a Whisper model.
+                'model': "large",
 
-            # Choose a Whisper model.
-            'model': "base",
+                # Choose the format for the transcription
+                'transcription': "plain text",
 
-            # Choose the format for the transcription
-            'transcription': "plain text",
+                # Translate the text to English when set to True
+                'translate': False,
 
-            # Translate the text to English when set to True
-            'translate': False,
+                # temperature to use for sampling
+                'temperature': 0,
 
-            # temperature to use for sampling
-            'temperature': 0,
+                # comma-separated list of token ids to suppress during sampling; '-1'
+                # will suppress most special characters except common punctuations
+                'suppress_tokens': "-1",
+                'condition_on_previous_text': True,
+                'temperature_increment_on_fallback': 0.2,
+                'compression_ratio_threshold': 2.4,
+                'logprob_threshold': -1,
+                'no_speech_threshold': 0.6,
+            }
 
-            # comma-separated list of token ids to suppress during sampling; '-1'
-            # will suppress most special characters except common punctuations
-            'suppress_tokens': "-1",
-            'condition_on_previous_text': True,
-            'temperature_increment_on_fallback': 0.2,
-            'compression_ratio_threshold': 2.4,
-            'logprob_threshold': -1,
-            'no_speech_threshold': 0.6,
-        }
+            # https://replicate.com/openai/whisper/versions/30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed#output-schema
+            transcription = version.predict(**inputs)
 
-        # https://replicate.com/openai/whisper/versions/30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed#output-schema
-        transcription = version.predict(**inputs)
+            return transcription
 
+        transcription = transcribe_replicate()
         url = "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T005317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=414e6d2292babdc8cd4e72178286aaa335bc7e7f2a32acacb871c18e6c6002ad"
         audio = urlopen(url).read()
 

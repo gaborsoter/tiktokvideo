@@ -227,6 +227,8 @@ class Subtitler:
         if st.button("Create subtitles"):
             st.write(inputted_transcript)
             st.write("HHEEEE")
+            for i in range(len(transcription["segments"])):
+                transcription["segments"][i]["text"] = inputted_transcript[i]
             return
             '''
             segments = transcription["segments"]

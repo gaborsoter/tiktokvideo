@@ -218,7 +218,6 @@ class Subtitler:
         transcription = transcribe_replicate()
         url = "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T124027Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=56fbeaab56b20ef6ed527fb68e8ae57540d21d89d63789d395c459b5ddb4a07d"
         #audio = urlopen(url).read()
-        audio = audio
 
         inputted_transcript = []
     
@@ -235,7 +234,7 @@ class Subtitler:
             total_subs = []
             for i,segment in enumerate(segments):
                 text = segment["text"]
-                audioSegment = AudioSegment.from_wav(BytesIO(audio))[segment["start"]*1000:segment["end"]*1000]
+                audioSegment = AudioSegment.from_wav(audio)[segment["start"]*1000:segment["end"]*1000]
                 audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
                 transcript=text.strip().replace(" ", "|")
                 transcript = re.sub(r'[^\w|\s]', '', transcript)

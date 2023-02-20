@@ -223,11 +223,14 @@ class Subtitler:
         audio = urlopen(url).read()
 
         inputted_transcript = []
+        
         for i in range(len(transcription["segments"])):
             title = st.text_input("Fix transcript", value="".join(transcription["segments"][i]["text"]), key=i)
 
         if st.button("Create subtitles"):
             st.write(title)
+            st.write("HHEEEE")
+            return
             '''
             segments = transcription["segments"]
             start_index = 0
@@ -258,6 +261,6 @@ class Subtitler:
                 pass
             return total_subs
             '''
-            return
+            
 
         

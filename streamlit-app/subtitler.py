@@ -225,9 +225,7 @@ class Subtitler:
         tran = []
         for segment in transcription["segments"]:
             tran.append(segment["text"])
-
-        # create a text input field in streamlit and make tran the default value
-        text = st.text_input("Enter text", value=" ".join(tran))
+            text = st.text_input("Enter text", value=" ".join(tran))
 
         # create a button in streamlit
         button = st.button("Create subtitles")

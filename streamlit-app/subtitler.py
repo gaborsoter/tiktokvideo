@@ -222,34 +222,44 @@ class Subtitler:
         url = "https://ams3.digitaloceanspaces.com/tenxshorts/1078727038670675773144942.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00MPAQNTRMXVXUEJUX%2F20230220%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230220T005317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=414e6d2292babdc8cd4e72178286aaa335bc7e7f2a32acacb871c18e6c6002ad"
         audio = urlopen(url).read()
 
-        # print the recognized text
-        segments = transcription["segments"]
-        start_index = 0
-        total_subs = []
-        for i,segment in enumerate(segments):
-            text = segment["text"]
-            audioSegment = AudioSegment.from_wav(BytesIO(audio))[segment["start"]*1000:segment["end"]*1000]
-            audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
-            transcript=text.strip().replace(" ", "|")
-            transcript = re.sub(r'[^\w|\s]', '', transcript)
-            transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
-            subs = force_align(str(i)+'.wav', transcript.upper(), start_index, segment["start"])
-            start_index += len(segment["text"])
-            total_subs.extend(subs)
+        tran = []
+        for segment in transcription["segments"]:
+            tran.append(segment["text"])
 
-        CAPTION_FILE = open("caption.srt", "w")
-        CAPTION_FILE.write(compose(total_subs))
-        CAPTION_FILE.close()
+        # create a text input field in streamlit and make tran the default value
+        text = st.text_input("Enter text", value=" ".join(tran))
 
-        TRANSCRIPT = open("transcript.txt", "w")
-        TRANSCRIPT.write(transcription["transcription"])
-        TRANSCRIPT.close()
+        # create a button in streamlit
+        button = st.button("Create subtitles")
 
-        try:
-            for i in range(50):
-                os.remove(str(i)+".wav")
-        except:
-            pass
-        return total_subs
+        if button:
+            segments = transcription["segments"]
+            start_index = 0
+            total_subs = []
+            for i,segment in enumerate(segments):
+                text = segment["text"]
+                audioSegment = AudioSegment.from_wav(BytesIO(audio))[segment["start"]*1000:segment["end"]*1000]
+                audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
+                transcript=text.strip().replace(" ", "|")
+                transcript = re.sub(r'[^\w|\s]', '', transcript)
+                transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
+                subs = force_align(str(i)+'.wav', transcript.upper(), start_index, segment["start"])
+                start_index += len(segment["text"])
+                total_subs.extend(subs)
+
+            CAPTION_FILE = open("caption.srt", "w")
+            CAPTION_FILE.write(compose(total_subs))
+            CAPTION_FILE.close()
+
+            TRANSCRIPT = open("transcript.txt", "w")
+            TRANSCRIPT.write(transcription["transcription"])
+            TRANSCRIPT.close()
+
+            try:
+                for i in range(50):
+                    os.remove(str(i)+".wav")
+            except:
+                pass
+            return total_subs
 
         

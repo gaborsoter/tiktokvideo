@@ -81,7 +81,7 @@ if uploaded_file is not None:
   upload_to_digital_ocean_space(random_name + ".mp4", uploaded_file)
   audio = export_audio_from_memory(uploaded_file)
   upload_to_digital_ocean_space(random_name + ".wav", audio)
-  audio = open("input_trial.wav", "rb")
+  audio = open("/app/tiktokvideo/streamlit-app/input_trial.wav", "rb")
 
   st.write("File uploaded successfully")
 

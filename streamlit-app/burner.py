@@ -11,7 +11,7 @@ class Burner:
     def __init__(self):
         return
 
-    def __call__(self):
+    def __call__(self, video_path):
         def calculate_font_size(value):
             # min and max character length
             leftMin = 0
@@ -123,7 +123,7 @@ class Burner:
                 f.close()
 
 
-        video_path="input.mp4"
+        video_path=video_path
         audio = ffmpeg.input(video_path).audio
 
         fonts_dir = "./fonts/gabor.otf"

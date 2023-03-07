@@ -126,8 +126,7 @@ class Burner:
         video_path=video_path
         audio = ffmpeg.input(video_path).audio
 
-        fonts_dir = "./fonts/gabor.otf"
-        st.write(os.path.isfile("./fonts/gabor.otf"))
+        fonts_dir = "/app/tiktokvideo/streamlit-app/fonts/"
 
         bit_lengths_file = open("bit_lengths.txt", "r")
         file_content = bit_lengths_file.read()

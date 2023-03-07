@@ -72,11 +72,13 @@ if uploaded_file is not None:
     st.write(file_details)
     st.write("File uploaded successfully")
 
-
-    audio = export_audio_from_memory(uploaded_file)
+    #audio = export_audio_from_memory(uploaded_file)
+    export_audio(uploaded_file)
 
     # use pydub audiosegment to import audio from file
-    with open("/app/tiktokvideo/streamlit-app/input_trial.wav", 'rb') as fd:
+    #with open("/app/tiktokvideo/streamlit-app/input_trial.wav", 'rb') as fd:
+    #    sound = fd.read()
+    with open("input.mp4.wav", 'rb') as fd:
         sound = fd.read()
 
     st.write('Start creating transcript...')

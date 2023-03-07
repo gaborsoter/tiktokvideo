@@ -36,12 +36,10 @@ def upload_to_digital_ocean_space(file_name, file):
                     )
 
 def export_audio(uploaded_file):
-    print("start")
     str_one = "ffmpeg -i "
-    str_two = " -ab 160k -ac 2 -ar 16000 -vn "
+    str_two = "-analyzeduration 2147483647 -probesize 2147483647 -ab 160k -ac 2 -ar 16000 -vn "
     command = str_one + uploaded_file.name + str_two + "input.mp4.wav"
     subprocess.call(command, shell=True)
-    print("end")
     return
 
 def export_audio_from_memory(uploaded_file):

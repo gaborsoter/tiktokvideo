@@ -14,7 +14,7 @@ from preparer import Preparer
 from burner import Burner
 import base64
 from io import BytesIO
-
+import moviepy.editor
 
 def upload_to_digital_ocean_space(file_name, file):
     # Upload file to Digital Ocean Spaces
@@ -74,7 +74,8 @@ if uploaded_file is not None:
     st.write("File uploaded successfully")
 
     #audio = export_audio_from_memory(uploaded_file)
-    export_audio(uploaded_file)
+    video = moviepy.editor.VideoFileClip(uploaded_file.name)
+    video.audio.write_audiofile("input.mp4.wav", fps=16000)
 
     # use pydub audiosegment to import audio from file
     #with open("/app/tiktokvideo/streamlit-app/input_trial.wav", 'rb') as fd:

@@ -160,7 +160,7 @@ class Burner:
             fontsize = str(20)
             animate_subtitle(animation_type, subtitle_path, bit_lengths[i], sub_colour, fontsize)
             alignment = str(2)
-            fontname = "MyFontBold"
+            fontname = "My Font"
             outline = str(0)
             shadow = str(1)
             marginL = str(100)

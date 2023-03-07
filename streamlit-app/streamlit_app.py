@@ -70,16 +70,18 @@ if uploaded_file is not None:
         f.write(uploaded_file.getbuffer())
 
     st.write(file_details)
-
-    upload_to_digital_ocean_space(random_name + ".mp4", uploaded_file)
-    audio = export_audio_from_memory(uploaded_file)
-    upload_to_digital_ocean_space(random_name + ".wav", audio)
-
     st.write("File uploaded successfully")
+
+
+    audio = export_audio_from_memory(uploaded_file)
+
+    # use pydub audiosegment to import audio from file
+    sound = AudioSegment.from_file("input_trial.wav", format="wav")
 
     st.write('Start creating transcript...')
     subtitler = Subtitler()
-    subtitles = subtitler(BytesIO(audio))
+    #subtitles = subtitler(BytesIO(audio))
+    subtitles = subtitler(BytesIO(sound))
 
     if st.button("Generate video"):
         editor = Editor()

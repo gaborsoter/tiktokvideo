@@ -40,6 +40,7 @@ def export_audio(uploaded_file):
     str_two = " -ab 160k -ac 2 -ar 16000 -vn "
     command = str_one + uploaded_file.name + str_two + "input.mp4.wav"
     subprocess.call(command, shell=True)
+    return
 
 def export_audio_from_memory(uploaded_file):
     args = (ffmpeg

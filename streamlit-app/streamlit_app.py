@@ -76,7 +76,7 @@ if uploaded_file is not None:
     audio = export_audio_from_memory(uploaded_file)
 
     # use pydub audiosegment to import audio from file
-    sound = AudioSegment.from_file("input_trial.wav", format="wav")
+    sound = AudioSegment.from_file("/app/tiktokvideo/streamlit-app/input_trial.wav", format="wav")
 
     st.write('Start creating transcript...')
     subtitler = Subtitler()

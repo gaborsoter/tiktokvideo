@@ -231,11 +231,9 @@ class Subtitler:
         audioSegment.export(
           str(i) + '.wav',
           format="wav")  #Exports to a wav file in the current path.
-        transcript = text.strip().replace(" ", "|")
+        transcript=text.strip().replace(" ", "|")
         transcript = re.sub(r'[^\w|\s]', '', transcript)
-        transcript = re.sub(r"(\d+)",
-                            lambda x: num2words.num2words(int(x.group(0))),
-                            transcript)
+        transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))).replace(" ", ""), transcript)
         subs = force_align(
           str(i) + '.wav', transcript.upper(), start_index, segment["start"])
         start_index += len(segment["text"])

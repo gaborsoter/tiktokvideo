@@ -34,3 +34,5 @@ export { default as ProfileCard } from "./ProfileCard";
 export { default as SideBar } from "./SideBar";
 export { default as ReviewCard } from "./ReviewCard";
 export { default as studioTheme } from "./studioTheme";
+export { default as ProjectsCreateForm } from "./ProjectsCreateForm";
+export { default as ProjectsUpdateForm } from "./ProjectsUpdateForm";

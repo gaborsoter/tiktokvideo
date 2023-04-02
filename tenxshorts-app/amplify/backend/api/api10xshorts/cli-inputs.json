@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "paths": {
+    "/processvideo": {
+      "name": "/processvideo",
+      "lambdaFunction": "videoProcessing",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    }
+  }
+}

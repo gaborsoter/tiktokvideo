@@ -1,0 +1,16 @@
+{
+  "resourceName": "s310xshortsstaging",
+  "bucketName": "10xshorts-staging",
+  "policyUUID": "3d7d5453",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "DELETE",
+    "READ",
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

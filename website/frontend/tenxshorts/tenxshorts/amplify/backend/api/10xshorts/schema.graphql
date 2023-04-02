@@ -1,0 +1,9 @@
+type Projects @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  updatedDate: AWSDateTime
+  createdDate: AWSDateTime
+  rawVideoURL: AWSURL
+  subtitleURL: AWSURL
+  settingURL: AWSURL
+}

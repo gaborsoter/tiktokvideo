@@ -1,0 +1,12 @@
+{
+  "resourceName": "s310xshortsstorageb043c5c4",
+  "bucketName": "10xshorts-storage-b043c5c4",
+  "policyUUID": "ef341e6d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

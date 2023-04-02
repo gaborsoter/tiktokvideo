@@ -2,20 +2,13 @@ import { useState, useEffect } from 'react'
 import { withAuthenticator, useAuthenticator } from '@aws-amplify/ui-react'
 import { Storage, API, Auth } from "aws-amplify"
 import { FileUploader, Collection, Image, Card, Button, View, Flex, Divider, Heading } from '@aws-amplify/ui-react'
-import HeroLayout1 from "@/src/ui-components/HeroLayout1"
-import NavBar from "@/src/ui-components/NavBar"
-import XHeroLayout2 from "@/src/ui-components/XHeroLayout2"
-import Features2x2 from "@/src/ui-components/Features2x2"
-import Demo from "@/src/ui-components/Demo"
-import Features4x1 from "@/src/ui-components/Features4x1"
-import MarketingFooter from "@/src/ui-components/MarketingFooter"
 
 function Home() {
   const [videoKeys, setVideoKeys] = useState([])
   const [videos, setVideos] = useState([])
   const {signOut} = useAuthenticator((context)=>[context.signOut])
 
-  async function callApi() {
+  async function callApi(fileURL) {
     const user = await Auth.currentAuthenticatedUser()
     const token = user.signInUserSession.idToken.jwtToken
 
@@ -25,9 +18,12 @@ function Home() {
       headers: {
         Authorization: token
       },
+      body: {
+        fileURL: fileURL
+      }
     }
 
-    const apiData = await API.get('restauthapi', '/hello', requestInfo)
+    const apiData = await API.get('api10xshorts', '/processvideo', requestInfo)
     console.log('apiData:', apiData)
   }
 
@@ -79,7 +75,7 @@ function Home() {
               <View padding="xs">
                 <Divider padding="xs" />
                 <Heading padding="medium">{item.title}</Heading>
-                <Button onClick={callApi} variation="primary" isFullWidth>
+                <Button onClick={callApi(item)} variation="primary" isFullWidth>
                   Process video
                 </Button>
               </View>

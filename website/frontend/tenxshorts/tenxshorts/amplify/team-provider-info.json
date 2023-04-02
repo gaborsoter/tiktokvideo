@@ -9,7 +9,26 @@
       "UnauthRoleName": "amplify-10xshorts-staging-124831-unauthRole",
       "StackName": "amplify-10xshorts-staging-124831",
       "StackId": "arn:aws:cloudformation:eu-north-1:254108557594:stack/amplify-10xshorts-staging-124831/307bd020-c58b-11ed-9e94-0627a5b7b3ba",
-      "AmplifyAppId": "drxy3a03b5ct7"
+      "AmplifyAppId": "drxy3a03b5ct7",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-10xshorts-staging-124831-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "10xshorts": {}
+      },
+      "storage": {
+        "s310xshortsstaging": {}
+      },
+      "function": {
+        "restauth": {
+          "deploymentBucketName": "amplify-10xshorts-staging-124831-deployment",
+          "s3Key": "amplify-builds/restauth-4d6b5750483568674345-build.zip"
+        }
+      },
+      "api": {
+        "10xshorts": {},
+        "restauthapi": {}
+      }
     }
   }
 }

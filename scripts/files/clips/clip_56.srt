@@ -1,0 +1,20 @@
+1
+00:01:24,607 --> 00:01:24,788
+<font color=#FAFF00 size="20">PAID </font><font color="#FFFFFF" size="20">100% OF THEIR MONEY,</font>
+
+2
+00:01:24,788 --> 00:01:25,331
+<font color="#FFFFFF" size="20">PAID</font><font color=#FAFF00 size="20"> 100% </font><font color="#FFFFFF" size="20">OF THEIR MONEY,</font>
+
+3
+00:01:25,331 --> 00:01:25,391
+<font color="#FFFFFF" size="20">PAID 100%</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">THEIR MONEY,</font>
+
+4
+00:01:25,391 --> 00:01:25,532
+<font color="#FFFFFF" size="20">PAID 100% OF</font><font color=#FAFF00 size="20"> THEIR </font><font color="#FFFFFF" size="20">MONEY,</font>
+
+5
+00:01:25,532 --> 00:01:26,074
+<font color="#FFFFFF" size="20">PAID 100% OF THEIR</font><font color=#FAFF00 size="20"> MONEY,</font>
+

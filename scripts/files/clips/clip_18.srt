@@ -1,0 +1,28 @@
+1
+00:00:28,084 --> 00:00:28,185
+<font color=#FAFF00 size="20">AND </font><font color="#FFFFFF" size="20">PROCESS MONEY THROUGH SILICON VALLEY BANK.</font>
+
+2
+00:00:28,185 --> 00:00:28,608
+<font color="#FFFFFF" size="20">AND</font><font color=#FAFF00 size="20"> PROCESS </font><font color="#FFFFFF" size="20">MONEY THROUGH SILICON VALLEY BANK.</font>
+
+3
+00:00:28,608 --> 00:00:29,152
+<font color="#FFFFFF" size="20">AND PROCESS</font><font color=#FAFF00 size="20"> MONEY </font><font color="#FFFFFF" size="20">THROUGH SILICON VALLEY BANK.</font>
+
+4
+00:00:29,152 --> 00:00:29,333
+<font color="#FFFFFF" size="20">AND PROCESS MONEY</font><font color=#FAFF00 size="20"> THROUGH </font><font color="#FFFFFF" size="20">SILICON VALLEY BANK.</font>
+
+5
+00:00:29,333 --> 00:00:29,655
+<font color="#FFFFFF" size="20">AND PROCESS MONEY THROUGH</font><font color=#FAFF00 size="20"> SILICON </font><font color="#FFFFFF" size="20">VALLEY BANK.</font>
+
+6
+00:00:29,655 --> 00:00:29,877
+<font color="#FFFFFF" size="20">AND PROCESS MONEY THROUGH SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">BANK.</font>
+
+7
+00:00:29,877 --> 00:00:30,240
+<font color="#FFFFFF" size="20">AND PROCESS MONEY THROUGH SILICON VALLEY</font><font color=#FAFF00 size="20"> BANK.</font>
+

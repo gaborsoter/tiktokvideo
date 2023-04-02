@@ -1,0 +1,20 @@
+1
+00:01:20,560 --> 00:01:20,600
+<font color=#FAFF00 size="20">I </font><font color="#FFFFFF" size="20">DON'T THINK IT'S ABOUT</font>
+
+2
+00:01:20,600 --> 00:01:20,701
+<font color="#FFFFFF" size="20">I</font><font color=#FAFF00 size="20"> DON'T </font><font color="#FFFFFF" size="20">THINK IT'S ABOUT</font>
+
+3
+00:01:20,701 --> 00:01:20,862
+<font color="#FFFFFF" size="20">I DON'T</font><font color=#FAFF00 size="20"> THINK </font><font color="#FFFFFF" size="20">IT'S ABOUT</font>
+
+4
+00:01:20,862 --> 00:01:20,943
+<font color="#FFFFFF" size="20">I DON'T THINK</font><font color=#FAFF00 size="20"> IT'S </font><font color="#FFFFFF" size="20">ABOUT</font>
+
+5
+00:01:20,943 --> 00:01:21,084
+<font color="#FFFFFF" size="20">I DON'T THINK IT'S</font><font color=#FAFF00 size="20"> ABOUT</font>
+

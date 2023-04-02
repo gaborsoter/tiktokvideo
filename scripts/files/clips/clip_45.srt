@@ -1,0 +1,12 @@
+1
+00:01:09,603 --> 00:01:09,824
+<font color=#FAFF00 size="20">WERE </font><font color="#FFFFFF" size="20">RELIABLE BEFORE,</font>
+
+2
+00:01:09,824 --> 00:01:10,346
+<font color="#FFFFFF" size="20">WERE</font><font color=#FAFF00 size="20"> RELIABLE </font><font color="#FFFFFF" size="20">BEFORE,</font>
+
+3
+00:01:10,346 --> 00:01:11,691
+<font color="#FFFFFF" size="20">WERE RELIABLE</font><font color=#FAFF00 size="20"> BEFORE,</font>
+

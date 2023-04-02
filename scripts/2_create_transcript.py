@@ -186,9 +186,9 @@ for i,segment in enumerate(segments):
     text = segment["text"]
     audioSegment = AudioSegment.from_wav("files/input.wav")[segment["start"]*1000:segment["end"]*1000]
     audioSegment.export(str(i)+'.wav', format="wav") #Exports to a wav file in the current path.
-    transcript=text.strip().replace(" ", "|")
+    transcript = text.strip().replace(" ", "|")
     transcript = re.sub(r'[^\w|\s]', '', transcript)
-    transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))), transcript)
+    transcript = re.sub(r"(\d+)", lambda x: num2words.num2words(int(x.group(0))).replace(" ", ""), transcript)
     print(segment["start"])
     subs = force_align(str(i)+'.wav', transcript.upper(), start_index, segment["start"])
     start_index += len(segment["text"])

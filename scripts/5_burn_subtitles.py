@@ -136,6 +136,11 @@ stream = ffmpeg.input(video_path)
 angles = ["-10", "0", "10"]
 colour = ["red", "green", "yellow"]
 
+# add two extra elements to the colour array
+colour.append("red")
+colour.append("green")
+
+
 # concat subtitles
 
 i = 0

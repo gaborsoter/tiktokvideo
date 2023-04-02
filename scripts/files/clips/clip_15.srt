@@ -1,12 +1,16 @@
 1
-00:00:18,102 --> 00:00:18,203
-<font color=#FAFF00 size="20">ON </font><font color="#FFFFFF" size="20">HIS BAR.</font>
+00:00:22,114 --> 00:00:22,294
+<font color=#FAFF00 size="20">NOT </font><font color="#FFFFFF" size="20">JUST TECH BUSINESSES,</font>
 
 2
-00:00:18,203 --> 00:00:18,366
-<font color="#FFFFFF" size="20">ON</font><font color=#FAFF00 size="20"> HIS </font><font color="#FFFFFF" size="20">BAR.</font>
+00:00:22,294 --> 00:00:22,495
+<font color="#FFFFFF" size="20">NOT</font><font color=#FAFF00 size="20"> JUST </font><font color="#FFFFFF" size="20">TECH BUSINESSES,</font>
 
 3
-00:00:18,366 --> 00:00:18,549
-<font color="#FFFFFF" size="20">ON HIS</font><font color=#FAFF00 size="20"> BAR.</font>
+00:00:22,495 --> 00:00:22,716
+<font color="#FFFFFF" size="20">NOT JUST</font><font color=#FAFF00 size="20"> TECH </font><font color="#FFFFFF" size="20">BUSINESSES,</font>
+
+4
+00:00:22,716 --> 00:00:23,620
+<font color="#FFFFFF" size="20">NOT JUST TECH</font><font color=#FAFF00 size="20"> BUSINESSES,</font>
 

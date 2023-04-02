@@ -1,0 +1,12 @@
+1
+00:00:58,240 --> 00:00:58,320
+<font color=#FAFF00 size="20">AND </font><font color="#FFFFFF" size="20">MORE IMPORTANTLY,</font>
+
+2
+00:00:58,320 --> 00:00:58,481
+<font color="#FFFFFF" size="20">AND</font><font color=#FAFF00 size="20"> MORE </font><font color="#FFFFFF" size="20">IMPORTANTLY,</font>
+
+3
+00:00:58,481 --> 00:00:59,184
+<font color="#FFFFFF" size="20">AND MORE</font><font color=#FAFF00 size="20"> IMPORTANTLY,</font>
+

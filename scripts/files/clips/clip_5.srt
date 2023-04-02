@@ -1,16 +1,12 @@
 1
-00:00:05,354 --> 00:00:05,455
-<font color=#FAFF00 size="20">A </font><font color="#FFFFFF" size="20">NIGHT FULL OF</font>
+00:00:07,548 --> 00:00:07,669
+<font color=#FAFF00 size="20">BUT </font><font color="#FFFFFF" size="20">THERE'S IMPORTANT</font>
 
 2
-00:00:05,455 --> 00:00:05,716
-<font color="#FFFFFF" size="20">A</font><font color=#FAFF00 size="20"> NIGHT </font><font color="#FFFFFF" size="20">FULL OF</font>
+00:00:07,669 --> 00:00:07,990
+<font color="#FFFFFF" size="20">BUT</font><font color=#FAFF00 size="20"> THERE'S </font><font color="#FFFFFF" size="20">IMPORTANT</font>
 
 3
-00:00:05,716 --> 00:00:05,857
-<font color="#FFFFFF" size="20">A NIGHT</font><font color=#FAFF00 size="20"> FULL </font><font color="#FFFFFF" size="20">OF</font>
-
-4
-00:00:05,857 --> 00:00:06,017
-<font color="#FFFFFF" size="20">A NIGHT FULL</font><font color=#FAFF00 size="20"> OF</font>
+00:00:07,990 --> 00:00:08,492
+<font color="#FFFFFF" size="20">BUT THERE'S</font><font color=#FAFF00 size="20"> IMPORTANT</font>
 

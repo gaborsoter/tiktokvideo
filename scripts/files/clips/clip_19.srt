@@ -1,0 +1,20 @@
+1
+00:00:30,240 --> 00:00:30,400
+<font color=#FAFF00 size="20">TODAY </font><font color="#FFFFFF" size="20">IT WAS ANNOUNCED THAT</font>
+
+2
+00:00:30,400 --> 00:00:30,481
+<font color="#FFFFFF" size="20">TODAY</font><font color=#FAFF00 size="20"> IT </font><font color="#FFFFFF" size="20">WAS ANNOUNCED THAT</font>
+
+3
+00:00:30,481 --> 00:00:30,641
+<font color="#FFFFFF" size="20">TODAY IT</font><font color=#FAFF00 size="20"> WAS </font><font color="#FFFFFF" size="20">ANNOUNCED THAT</font>
+
+4
+00:00:30,641 --> 00:00:30,943
+<font color="#FFFFFF" size="20">TODAY IT WAS</font><font color=#FAFF00 size="20"> ANNOUNCED </font><font color="#FFFFFF" size="20">THAT</font>
+
+5
+00:00:30,943 --> 00:00:31,144
+<font color="#FFFFFF" size="20">TODAY IT WAS ANNOUNCED</font><font color=#FAFF00 size="20"> THAT</font>
+

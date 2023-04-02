@@ -1,0 +1,20 @@
+1
+00:02:15,004 --> 00:02:15,124
+<font color=#FAFF00 size="20">THAT </font><font color="#FFFFFF" size="20">THERE'S CASH HERE TODAY,</font>
+
+2
+00:02:15,124 --> 00:02:15,346
+<font color="#FFFFFF" size="20">THAT</font><font color=#FAFF00 size="20"> THERE'S </font><font color="#FFFFFF" size="20">CASH HERE TODAY,</font>
+
+3
+00:02:15,346 --> 00:02:15,667
+<font color="#FFFFFF" size="20">THAT THERE'S</font><font color=#FAFF00 size="20"> CASH </font><font color="#FFFFFF" size="20">HERE TODAY,</font>
+
+4
+00:02:15,667 --> 00:02:15,909
+<font color="#FFFFFF" size="20">THAT THERE'S CASH</font><font color=#FAFF00 size="20"> HERE </font><font color="#FFFFFF" size="20">TODAY,</font>
+
+5
+00:02:15,909 --> 00:02:16,653
+<font color="#FFFFFF" size="20">THAT THERE'S CASH HERE</font><font color=#FAFF00 size="20"> TODAY,</font>
+

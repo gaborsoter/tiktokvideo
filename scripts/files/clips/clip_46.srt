@@ -1,0 +1,24 @@
+1
+00:01:11,691 --> 00:01:11,792
+<font color=#FAFF00 size="20">I </font><font color="#FFFFFF" size="20">START TO HAVE REAL QUESTIONS</font>
+
+2
+00:01:11,792 --> 00:01:12,032
+<font color="#FFFFFF" size="20">I</font><font color=#FAFF00 size="20"> START </font><font color="#FFFFFF" size="20">TO HAVE REAL QUESTIONS</font>
+
+3
+00:01:12,032 --> 00:01:12,113
+<font color="#FFFFFF" size="20">I START</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">HAVE REAL QUESTIONS</font>
+
+4
+00:01:12,113 --> 00:01:12,253
+<font color="#FFFFFF" size="20">I START TO</font><font color=#FAFF00 size="20"> HAVE </font><font color="#FFFFFF" size="20">REAL QUESTIONS</font>
+
+5
+00:01:12,253 --> 00:01:12,474
+<font color="#FFFFFF" size="20">I START TO HAVE</font><font color=#FAFF00 size="20"> REAL </font><font color="#FFFFFF" size="20">QUESTIONS</font>
+
+6
+00:01:12,474 --> 00:01:13,217
+<font color="#FFFFFF" size="20">I START TO HAVE REAL</font><font color=#FAFF00 size="20"> QUESTIONS</font>
+

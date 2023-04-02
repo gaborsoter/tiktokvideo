@@ -1,0 +1,16 @@
+1
+00:01:07,174 --> 00:01:07,255
+<font color=#FAFF00 size="20">IF </font><font color="#FFFFFF" size="20">THERE ISN'T RELIABILITY</font>
+
+2
+00:01:07,255 --> 00:01:07,476
+<font color="#FFFFFF" size="20">IF</font><font color=#FAFF00 size="20"> THERE </font><font color="#FFFFFF" size="20">ISN'T RELIABILITY</font>
+
+3
+00:01:07,476 --> 00:01:07,716
+<font color="#FFFFFF" size="20">IF THERE</font><font color=#FAFF00 size="20"> ISN'T </font><font color="#FFFFFF" size="20">RELIABILITY</font>
+
+4
+00:01:07,716 --> 00:01:08,359
+<font color="#FFFFFF" size="20">IF THERE ISN'T</font><font color=#FAFF00 size="20"> RELIABILITY</font>
+

@@ -1,0 +1,24 @@
+1
+00:02:09,875 --> 00:02:10,739
+<font color=#FAFF00 size="20">LIFETIME, </font><font color="#FFFFFF" size="20">SEE WHAT YOU GET PAID,</font>
+
+2
+00:02:10,739 --> 00:02:10,900
+<font color="#FFFFFF" size="20">LIFETIME,</font><font color=#FAFF00 size="20"> SEE </font><font color="#FFFFFF" size="20">WHAT YOU GET PAID,</font>
+
+3
+00:02:10,900 --> 00:02:11,061
+<font color="#FFFFFF" size="20">LIFETIME, SEE</font><font color=#FAFF00 size="20"> WHAT </font><font color="#FFFFFF" size="20">YOU GET PAID,</font>
+
+4
+00:02:11,061 --> 00:02:11,201
+<font color="#FFFFFF" size="20">LIFETIME, SEE WHAT</font><font color=#FAFF00 size="20"> YOU </font><font color="#FFFFFF" size="20">GET PAID,</font>
+
+5
+00:02:11,201 --> 00:02:11,362
+<font color="#FFFFFF" size="20">LIFETIME, SEE WHAT YOU</font><font color=#FAFF00 size="20"> GET </font><font color="#FFFFFF" size="20">PAID,</font>
+
+6
+00:02:11,362 --> 00:02:11,986
+<font color="#FFFFFF" size="20">LIFETIME, SEE WHAT YOU GET</font><font color=#FAFF00 size="20"> PAID,</font>
+

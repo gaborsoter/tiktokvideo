@@ -1,0 +1,32 @@
+1
+00:01:56,958 --> 00:01:57,179
+<font color=#FAFF00 size="20">I </font><font color="#FFFFFF" size="20">HATE TO SAY IT, BECAUSE I ABSOLUTELY</font>
+
+2
+00:01:57,179 --> 00:01:57,380
+<font color="#FFFFFF" size="20">I</font><font color=#FAFF00 size="20"> HATE </font><font color="#FFFFFF" size="20">TO SAY IT, BECAUSE I ABSOLUTELY</font>
+
+3
+00:01:57,380 --> 00:01:57,521
+<font color="#FFFFFF" size="20">I HATE</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">SAY IT, BECAUSE I ABSOLUTELY</font>
+
+4
+00:01:57,521 --> 00:01:57,722
+<font color="#FFFFFF" size="20">I HATE TO</font><font color=#FAFF00 size="20"> SAY </font><font color="#FFFFFF" size="20">IT, BECAUSE I ABSOLUTELY</font>
+
+5
+00:01:57,722 --> 00:01:58,244
+<font color="#FFFFFF" size="20">I HATE TO SAY</font><font color=#FAFF00 size="20"> IT, </font><font color="#FFFFFF" size="20">BECAUSE I ABSOLUTELY</font>
+
+6
+00:01:58,244 --> 00:01:58,465
+<font color="#FFFFFF" size="20">I HATE TO SAY IT,</font><font color=#FAFF00 size="20"> BECAUSE </font><font color="#FFFFFF" size="20">I ABSOLUTELY</font>
+
+7
+00:01:58,465 --> 00:01:58,646
+<font color="#FFFFFF" size="20">I HATE TO SAY IT, BECAUSE</font><font color=#FAFF00 size="20"> I </font><font color="#FFFFFF" size="20">ABSOLUTELY</font>
+
+8
+00:01:58,646 --> 00:01:59,169
+<font color="#FFFFFF" size="20">I HATE TO SAY IT, BECAUSE I</font><font color=#FAFF00 size="20"> ABSOLUTELY</font>
+

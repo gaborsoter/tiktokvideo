@@ -1,0 +1,12 @@
+1
+00:01:06,432 --> 00:01:06,613
+<font color=#FAFF00 size="20">WHERE </font><font color="#FFFFFF" size="20">PEOPLE SAY,</font>
+
+2
+00:01:06,613 --> 00:01:06,894
+<font color="#FFFFFF" size="20">WHERE</font><font color=#FAFF00 size="20"> PEOPLE </font><font color="#FFFFFF" size="20">SAY,</font>
+
+3
+00:01:06,894 --> 00:01:07,174
+<font color="#FFFFFF" size="20">WHERE PEOPLE</font><font color=#FAFF00 size="20"> SAY,</font>
+

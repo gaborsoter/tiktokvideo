@@ -1,0 +1,32 @@
+1
+00:01:48,625 --> 00:01:48,946
+<font color=#FAFF00 size="20">THE </font><font color="#FFFFFF" size="20">ONLY WAY THIS CAN HAPPEN IS IF</font>
+
+2
+00:01:48,946 --> 00:01:49,207
+<font color="#FFFFFF" size="20">THE</font><font color=#FAFF00 size="20"> ONLY </font><font color="#FFFFFF" size="20">WAY THIS CAN HAPPEN IS IF</font>
+
+3
+00:01:49,207 --> 00:01:49,388
+<font color="#FFFFFF" size="20">THE ONLY</font><font color=#FAFF00 size="20"> WAY </font><font color="#FFFFFF" size="20">THIS CAN HAPPEN IS IF</font>
+
+4
+00:01:49,388 --> 00:01:49,528
+<font color="#FFFFFF" size="20">THE ONLY WAY</font><font color=#FAFF00 size="20"> THIS </font><font color="#FFFFFF" size="20">CAN HAPPEN IS IF</font>
+
+5
+00:01:49,528 --> 00:01:49,669
+<font color="#FFFFFF" size="20">THE ONLY WAY THIS</font><font color=#FAFF00 size="20"> CAN </font><font color="#FFFFFF" size="20">HAPPEN IS IF</font>
+
+6
+00:01:49,669 --> 00:01:50,552
+<font color="#FFFFFF" size="20">THE ONLY WAY THIS CAN</font><font color=#FAFF00 size="20"> HAPPEN </font><font color="#FFFFFF" size="20">IS IF</font>
+
+7
+00:01:50,552 --> 00:01:50,693
+<font color="#FFFFFF" size="20">THE ONLY WAY THIS CAN HAPPEN</font><font color=#FAFF00 size="20"> IS </font><font color="#FFFFFF" size="20">IF</font>
+
+8
+00:01:50,693 --> 00:01:50,793
+<font color="#FFFFFF" size="20">THE ONLY WAY THIS CAN HAPPEN IS</font><font color=#FAFF00 size="20"> IF</font>
+

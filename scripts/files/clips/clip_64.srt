@@ -1,0 +1,52 @@
+1
+00:01:40,211 --> 00:01:40,453
+<font color=#FAFF00 size="20">AWAY </font><font color="#FFFFFF" size="20">FROM ANY INSTITUTION THAT STORES THEIR MONEY IN SOME SORT OF SECURITY</font>
+
+2
+00:01:40,453 --> 00:01:40,694
+<font color="#FFFFFF" size="20">AWAY</font><font color=#FAFF00 size="20"> FROM </font><font color="#FFFFFF" size="20">ANY INSTITUTION THAT STORES THEIR MONEY IN SOME SORT OF SECURITY</font>
+
+3
+00:01:40,694 --> 00:01:40,895
+<font color="#FFFFFF" size="20">AWAY FROM</font><font color=#FAFF00 size="20"> ANY </font><font color="#FFFFFF" size="20">INSTITUTION THAT STORES THEIR MONEY IN SOME SORT OF SECURITY</font>
+
+4
+00:01:40,895 --> 00:01:41,457
+<font color="#FFFFFF" size="20">AWAY FROM ANY</font><font color=#FAFF00 size="20"> INSTITUTION </font><font color="#FFFFFF" size="20">THAT STORES THEIR MONEY IN SOME SORT OF SECURITY</font>
+
+5
+00:01:41,457 --> 00:01:41,618
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION</font><font color=#FAFF00 size="20"> THAT </font><font color="#FFFFFF" size="20">STORES THEIR MONEY IN SOME SORT OF SECURITY</font>
+
+6
+00:01:41,618 --> 00:01:41,819
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT</font><font color=#FAFF00 size="20"> STORES </font><font color="#FFFFFF" size="20">THEIR MONEY IN SOME SORT OF SECURITY</font>
+
+7
+00:01:41,819 --> 00:01:42,060
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES</font><font color=#FAFF00 size="20"> THEIR </font><font color="#FFFFFF" size="20">MONEY IN SOME SORT OF SECURITY</font>
+
+8
+00:01:42,060 --> 00:01:42,261
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES THEIR</font><font color=#FAFF00 size="20"> MONEY </font><font color="#FFFFFF" size="20">IN SOME SORT OF SECURITY</font>
+
+9
+00:01:42,261 --> 00:01:42,382
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES THEIR MONEY</font><font color=#FAFF00 size="20"> IN </font><font color="#FFFFFF" size="20">SOME SORT OF SECURITY</font>
+
+10
+00:01:42,382 --> 00:01:42,583
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES THEIR MONEY IN</font><font color=#FAFF00 size="20"> SOME </font><font color="#FFFFFF" size="20">SORT OF SECURITY</font>
+
+11
+00:01:42,583 --> 00:01:42,744
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES THEIR MONEY IN SOME</font><font color=#FAFF00 size="20"> SORT </font><font color="#FFFFFF" size="20">OF SECURITY</font>
+
+12
+00:01:42,744 --> 00:01:42,824
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES THEIR MONEY IN SOME SORT</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">SECURITY</font>
+
+13
+00:01:42,824 --> 00:01:43,588
+<font color="#FFFFFF" size="20">AWAY FROM ANY INSTITUTION THAT STORES THEIR MONEY IN SOME SORT OF</font><font color=#FAFF00 size="20"> SECURITY</font>
+

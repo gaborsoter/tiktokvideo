@@ -1,0 +1,52 @@
+1
+00:01:37,297 --> 00:01:37,538
+<font color=#FAFF00 size="20">BECAUSE </font><font color="#FFFFFF" size="20">THEN YOU WILL SEE A LOT OF PEOPLE TRYING TO MOVE MONEY</font>
+
+2
+00:01:37,538 --> 00:01:37,659
+<font color="#FFFFFF" size="20">BECAUSE</font><font color=#FAFF00 size="20"> THEN </font><font color="#FFFFFF" size="20">YOU WILL SEE A LOT OF PEOPLE TRYING TO MOVE MONEY</font>
+
+3
+00:01:37,659 --> 00:01:37,760
+<font color="#FFFFFF" size="20">BECAUSE THEN</font><font color=#FAFF00 size="20"> YOU </font><font color="#FFFFFF" size="20">WILL SEE A LOT OF PEOPLE TRYING TO MOVE MONEY</font>
+
+4
+00:01:37,760 --> 00:01:37,941
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU</font><font color=#FAFF00 size="20"> WILL </font><font color="#FFFFFF" size="20">SEE A LOT OF PEOPLE TRYING TO MOVE MONEY</font>
+
+5
+00:01:37,941 --> 00:01:38,202
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL</font><font color=#FAFF00 size="20"> SEE </font><font color="#FFFFFF" size="20">A LOT OF PEOPLE TRYING TO MOVE MONEY</font>
+
+6
+00:01:38,202 --> 00:01:38,463
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE</font><font color=#FAFF00 size="20"> A </font><font color="#FFFFFF" size="20">LOT OF PEOPLE TRYING TO MOVE MONEY</font>
+
+7
+00:01:38,463 --> 00:01:38,744
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A</font><font color=#FAFF00 size="20"> LOT </font><font color="#FFFFFF" size="20">OF PEOPLE TRYING TO MOVE MONEY</font>
+
+8
+00:01:38,744 --> 00:01:38,845
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A LOT</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">PEOPLE TRYING TO MOVE MONEY</font>
+
+9
+00:01:38,845 --> 00:01:39,468
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A LOT OF</font><font color=#FAFF00 size="20"> PEOPLE </font><font color="#FFFFFF" size="20">TRYING TO MOVE MONEY</font>
+
+10
+00:01:39,468 --> 00:01:39,669
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A LOT OF PEOPLE</font><font color=#FAFF00 size="20"> TRYING </font><font color="#FFFFFF" size="20">TO MOVE MONEY</font>
+
+11
+00:01:39,669 --> 00:01:39,749
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A LOT OF PEOPLE TRYING</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">MOVE MONEY</font>
+
+12
+00:01:39,749 --> 00:01:39,970
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A LOT OF PEOPLE TRYING TO</font><font color=#FAFF00 size="20"> MOVE </font><font color="#FFFFFF" size="20">MONEY</font>
+
+13
+00:01:39,970 --> 00:01:40,211
+<font color="#FFFFFF" size="20">BECAUSE THEN YOU WILL SEE A LOT OF PEOPLE TRYING TO MOVE</font><font color=#FAFF00 size="20"> MONEY</font>
+

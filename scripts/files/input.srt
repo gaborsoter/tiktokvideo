@@ -1,64 +1,352 @@
 1
-00:00:00,060 --> 00:00:00,887
-Harry Styles had
+00:00:00,100 --> 00:00:00,983
+I think it's important to
 
 2
-00:00:00,927 --> 00:00:01,774
-a night for the books.
+00:00:01,023 --> 00:00:02,910
+highlight why it's not just
 
 3
-00:00:02,440 --> 00:00:03,264
-The Grammy Awards
+00:00:02,971 --> 00:00:05,059
+about a couple hundred tech
 
 4
-00:00:03,304 --> 00:00:04,068
-brought him not just
+00:00:05,079 --> 00:00:06,364
+bros in Silicon Valley not
 
 5
-00:00:04,148 --> 00:00:05,314
-two awards, but also
+00:00:06,384 --> 00:00:07,408
+being able to make payroll,
 
 6
-00:00:05,354 --> 00:00:05,957
-a night full of
+00:00:07,548 --> 00:00:08,452
+but there's important
 
 7
-00:00:06,017 --> 00:00:07,392
-standout fashion moments.
+00:00:08,492 --> 00:00:09,898
+downstream consequences.
 
 8
-00:00:08,040 --> 00:00:08,983
-Starting off the night,
+00:00:10,400 --> 00:00:10,902
+For example,
 
 9
-00:00:09,063 --> 00:00:10,368
-Styles took the red carpet
+00:00:10,942 --> 00:00:12,610
+there are payment processing companies
 
 10
-00:00:10,388 --> 00:00:11,733
-by storm in a vibrant
+00:00:12,671 --> 00:00:14,178
+in Silicon Valley that use
 
 11
-00:00:11,813 --> 00:00:12,977
-technicolor jumpsuit.
+00:00:14,238 --> 00:00:16,449
+Silicon Valley Bank to store
 
 12
-00:00:13,600 --> 00:00:14,042
-The daring,
+00:00:16,489 --> 00:00:17,595
+their capital and to move
 
 13
-00:00:14,182 --> 00:00:15,649
-plunging neckline showcased
+00:00:17,655 --> 00:00:18,117
+money around.
 
 14
-00:00:15,709 --> 00:00:16,553
-a stunning array of
+00:00:18,580 --> 00:00:19,804
+There are payroll companies
 
 15
-00:00:16,613 --> 00:00:17,960
-butterfly and bird tattoos
+00:00:20,186 --> 00:00:22,053
+that do payroll for many businesses,
 
 16
-00:00:18,102 --> 00:00:18,549
-on his bar.
+00:00:22,114 --> 00:00:23,178
+not just tech businesses,
+
+17
+00:00:23,620 --> 00:00:25,529
+but many businesses in different parts of the economy
+
+18
+00:00:25,891 --> 00:00:28,044
+that store their cash at Silicon Valley Bank
+
+19
+00:00:28,084 --> 00:00:30,038
+and process money through Silicon Valley Bank.
+
+20
+00:00:30,240 --> 00:00:31,064
+Today it was announced that
+
+21
+00:00:31,144 --> 00:00:32,852
+Rippling, one of those companies,
+
+22
+00:00:33,315 --> 00:00:35,024
+could not hit their payroll cycle today
+
+23
+00:00:35,387 --> 00:00:36,514
+because they had money tied up at
+
+24
+00:00:36,534 --> 00:00:37,259
+Silicon Valley Bank.
+
+25
+00:00:37,400 --> 00:00:38,626
+Fortunately, they announced that
+
+26
+00:00:38,646 --> 00:00:40,074
+they also have money at JPMorgan
+
+27
+00:00:40,094 --> 00:00:41,561
+and other places, so they will
+
+28
+00:00:41,581 --> 00:00:42,887
+be able to kind of get the
+
+29
+00:00:43,309 --> 00:00:45,097
+payroll processed early next week
+
+30
+00:00:45,117 --> 00:00:46,350
+and get everyone back on track.
+
+31
+00:00:46,920 --> 00:00:48,385
+But this is hundreds and potentially
+
+32
+00:00:48,485 --> 00:00:50,352
+thousands of companies that use
+
+33
+00:00:50,372 --> 00:00:53,528
+their payroll software to process and
+
+34
+00:00:53,730 --> 00:00:54,616
+pay their employees.
+
+35
+00:00:55,040 --> 00:00:55,784
+You can start to see
+
+36
+00:00:55,824 --> 00:00:56,328
+how there can be
+
+37
+00:00:56,368 --> 00:00:58,119
+very significant trickling effects.
+
+38
+00:00:58,240 --> 00:00:59,023
+And more importantly,
+
+39
+00:00:59,184 --> 00:01:00,067
+like we saw in 08,
+
+40
+00:01:00,369 --> 00:01:01,614
+perhaps to a different degree,
+
+41
+00:01:01,976 --> 00:01:03,381
+but still a significant concern
+
+42
+00:01:03,863 --> 00:01:06,010
+is the contagion of panic,
+
+43
+00:01:06,432 --> 00:01:07,074
+where people say,
+
+44
+00:01:07,174 --> 00:01:08,339
+if there isn't reliability
+
+45
+00:01:08,359 --> 00:01:09,242
+in the things that I thought
+
+46
+00:01:09,603 --> 00:01:10,768
+were reliable before,
+
+47
+00:01:11,691 --> 00:01:12,916
+I start to have real questions
+
+48
+00:01:13,217 --> 00:01:14,793
+in the soundness of the system overall.
+
+49
+00:01:15,240 --> 00:01:16,325
+And that's why it's so important,
+
+50
+00:01:16,405 --> 00:01:17,008
+as Zach said,
+
+51
+00:01:17,389 --> 00:01:18,012
+to step in,
+
+52
+00:01:18,454 --> 00:01:19,784
+shore up the problem this weekend.
+
+53
+00:01:20,560 --> 00:01:21,064
+I don't think it's about
+
+54
+00:01:21,084 --> 00:01:22,011
+bidding 50 cents or 60 cents
+
+55
+00:01:22,051 --> 00:01:22,495
+on the dollar.
+
+56
+00:01:23,080 --> 00:01:24,587
+Every depositor needs to get
+
+57
+00:01:24,607 --> 00:01:25,733
+paid 100% of their money,
+
+58
+00:01:26,074 --> 00:01:26,979
+and that cash needs to be
+
+59
+00:01:26,999 --> 00:01:28,332
+made available to them by
+
+60
+00:01:28,412 --> 00:01:29,079
+early next week.
+
+61
+00:01:29,340 --> 00:01:30,846
+And if that money is not available to them
+
+62
+00:01:31,589 --> 00:01:34,944
+within the first 48 or 72 hours of the end of this weekend,
+
+63
+00:01:35,406 --> 00:01:37,096
+then we're going to have a real crisis on our hands,
+
+64
+00:01:37,297 --> 00:01:40,151
+because then you will see a lot of people trying to move money
+
+65
+00:01:40,211 --> 00:01:43,287
+away from any institution that stores their money in some sort of security
+
+66
+00:01:43,588 --> 00:01:45,278
+that's not 100% liquid like cash.
+
+67
+00:01:45,640 --> 00:01:45,943
+That's going to
+
+68
+00:01:45,964 --> 00:01:46,875
+cause a massive run.
+
+69
+00:01:47,240 --> 00:01:48,565
+And so what has to happen,
+
+70
+00:01:48,625 --> 00:01:50,753
+the only way this can happen is if
+
+71
+00:01:50,793 --> 00:01:52,982
+someone takes over Silicon Valley Bank
+
+72
+00:01:53,163 --> 00:01:55,171
+this weekend, and that the federal
+
+73
+00:01:55,211 --> 00:01:56,878
+government, unfortunately, as much as
+
+74
+00:01:56,958 --> 00:01:59,108
+I hate to say it, because I absolutely
+
+75
+00:01:59,169 --> 00:02:00,254
+hate the federal government having a
+
+76
+00:02:00,294 --> 00:02:02,424
+role in this stuff, has to say we will
+
+77
+00:02:02,444 --> 00:02:04,673
+guarantee 100% of those deposits to
+
+78
+00:02:04,713 --> 00:02:06,279
+the company that takes over the bank
+
+79
+00:02:06,299 --> 00:02:08,268
+that takes over this portfolio, and says,
+
+80
+00:02:08,328 --> 00:02:09,835
+let the portfolio of assets run its
+
+81
+00:02:09,875 --> 00:02:11,644
+lifetime, see what you get paid,
+
+82
+00:02:11,986 --> 00:02:13,797
+whatever the delta is, we'll make it up to you.
+
+83
+00:02:14,280 --> 00:02:14,984
+But we need to make sure
+
+84
+00:02:15,004 --> 00:02:16,311
+that there's cash here today,
+
+85
+00:02:16,653 --> 00:02:17,719
+for all of these depositors
+
+86
+00:02:17,739 --> 00:02:18,473
+to get paid tomorrow.
+
+87
+00:02:18,800 --> 00:02:19,149
+You had something
+
+88
+00:02:19,170 --> 00:02:19,499
+you want to say?
 

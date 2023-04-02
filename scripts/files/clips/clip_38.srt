@@ -1,0 +1,20 @@
+1
+00:00:59,184 --> 00:00:59,344
+<font color=#FAFF00 size="20">LIKE </font><font color="#FFFFFF" size="20">WE SAW IN '08,</font>
+
+2
+00:00:59,344 --> 00:00:59,485
+<font color="#FFFFFF" size="20">LIKE</font><font color=#FAFF00 size="20"> WE </font><font color="#FFFFFF" size="20">SAW IN '08,</font>
+
+3
+00:00:59,485 --> 00:00:59,666
+<font color="#FFFFFF" size="20">LIKE WE</font><font color=#FAFF00 size="20"> SAW </font><font color="#FFFFFF" size="20">IN '08,</font>
+
+4
+00:00:59,666 --> 00:00:59,887
+<font color="#FFFFFF" size="20">LIKE WE SAW</font><font color=#FAFF00 size="20"> IN </font><font color="#FFFFFF" size="20">'08,</font>
+
+5
+00:00:59,887 --> 00:01:00,369
+<font color="#FFFFFF" size="20">LIKE WE SAW IN</font><font color=#FAFF00 size="20"> '08,</font>
+

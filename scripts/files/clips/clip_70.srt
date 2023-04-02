@@ -1,0 +1,24 @@
+1
+00:01:50,793 --> 00:01:51,094
+<font color=#FAFF00 size="20">SOMEONE </font><font color="#FFFFFF" size="20">TAKES OVER SILICON VALLEY BANK</font>
+
+2
+00:01:51,094 --> 00:01:51,476
+<font color="#FFFFFF" size="20">SOMEONE</font><font color=#FAFF00 size="20"> TAKES </font><font color="#FFFFFF" size="20">OVER SILICON VALLEY BANK</font>
+
+3
+00:01:51,476 --> 00:01:52,118
+<font color="#FFFFFF" size="20">SOMEONE TAKES</font><font color=#FAFF00 size="20"> OVER </font><font color="#FFFFFF" size="20">SILICON VALLEY BANK</font>
+
+4
+00:01:52,118 --> 00:01:52,460
+<font color="#FFFFFF" size="20">SOMEONE TAKES OVER</font><font color=#FAFF00 size="20"> SILICON </font><font color="#FFFFFF" size="20">VALLEY BANK</font>
+
+5
+00:01:52,460 --> 00:01:52,761
+<font color="#FFFFFF" size="20">SOMEONE TAKES OVER SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">BANK</font>
+
+6
+00:01:52,761 --> 00:01:53,163
+<font color="#FFFFFF" size="20">SOMEONE TAKES OVER SILICON VALLEY</font><font color=#FAFF00 size="20"> BANK</font>
+

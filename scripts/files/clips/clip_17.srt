@@ -1,0 +1,32 @@
+1
+00:00:25,891 --> 00:00:26,133
+<font color=#FAFF00 size="20">THAT </font><font color="#FFFFFF" size="20">STORE THEIR CASH AT SILICON VALLEY BANK</font>
+
+2
+00:00:26,133 --> 00:00:26,474
+<font color="#FFFFFF" size="20">THAT</font><font color=#FAFF00 size="20"> STORE </font><font color="#FFFFFF" size="20">THEIR CASH AT SILICON VALLEY BANK</font>
+
+3
+00:00:26,474 --> 00:00:26,695
+<font color="#FFFFFF" size="20">THAT STORE</font><font color=#FAFF00 size="20"> THEIR </font><font color="#FFFFFF" size="20">CASH AT SILICON VALLEY BANK</font>
+
+4
+00:00:26,695 --> 00:00:27,138
+<font color="#FFFFFF" size="20">THAT STORE THEIR</font><font color=#FAFF00 size="20"> CASH </font><font color="#FFFFFF" size="20">AT SILICON VALLEY BANK</font>
+
+5
+00:00:27,138 --> 00:00:27,238
+<font color="#FFFFFF" size="20">THAT STORE THEIR CASH</font><font color=#FAFF00 size="20"> AT </font><font color="#FFFFFF" size="20">SILICON VALLEY BANK</font>
+
+6
+00:00:27,238 --> 00:00:27,580
+<font color="#FFFFFF" size="20">THAT STORE THEIR CASH AT</font><font color=#FAFF00 size="20"> SILICON </font><font color="#FFFFFF" size="20">VALLEY BANK</font>
+
+7
+00:00:27,580 --> 00:00:27,862
+<font color="#FFFFFF" size="20">THAT STORE THEIR CASH AT SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">BANK</font>
+
+8
+00:00:27,862 --> 00:00:28,084
+<font color="#FFFFFF" size="20">THAT STORE THEIR CASH AT SILICON VALLEY</font><font color=#FAFF00 size="20"> BANK</font>
+

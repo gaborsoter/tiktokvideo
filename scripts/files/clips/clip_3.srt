@@ -1,16 +1,20 @@
 1
-00:00:03,304 --> 00:00:03,545
-<font color=#FAFF00 size="20">BROUGHT </font><font color="#FFFFFF" size="20">HIM NOT JUST</font>
+00:00:05,079 --> 00:00:05,420
+<font color=#FAFF00 size="20">BROS </font><font color="#FFFFFF" size="20">IN SILICON VALLEY NOT</font>
 
 2
-00:00:03,545 --> 00:00:03,686
-<font color="#FFFFFF" size="20">BROUGHT</font><font color=#FAFF00 size="20"> HIM </font><font color="#FFFFFF" size="20">NOT JUST</font>
+00:00:05,420 --> 00:00:05,520
+<font color="#FFFFFF" size="20">BROS</font><font color=#FAFF00 size="20"> IN </font><font color="#FFFFFF" size="20">SILICON VALLEY NOT</font>
 
 3
-00:00:03,686 --> 00:00:03,887
-<font color="#FFFFFF" size="20">BROUGHT HIM</font><font color=#FAFF00 size="20"> NOT </font><font color="#FFFFFF" size="20">JUST</font>
+00:00:05,520 --> 00:00:05,902
+<font color="#FFFFFF" size="20">BROS IN</font><font color=#FAFF00 size="20"> SILICON </font><font color="#FFFFFF" size="20">VALLEY NOT</font>
 
 4
-00:00:03,887 --> 00:00:04,148
-<font color="#FFFFFF" size="20">BROUGHT HIM NOT</font><font color=#FAFF00 size="20"> JUST</font>
+00:00:05,902 --> 00:00:06,243
+<font color="#FFFFFF" size="20">BROS IN SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">NOT</font>
+
+5
+00:00:06,243 --> 00:00:06,384
+<font color="#FFFFFF" size="20">BROS IN SILICON VALLEY</font><font color=#FAFF00 size="20"> NOT</font>
 

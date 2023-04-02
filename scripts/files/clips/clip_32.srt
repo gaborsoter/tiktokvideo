@@ -1,0 +1,24 @@
+1
+00:00:50,372 --> 00:00:50,593
+<font color=#FAFF00 size="20">THEIR </font><font color="#FFFFFF" size="20">PAYROLL SOFTWARE TO PROCESS AND</font>
+
+2
+00:00:50,593 --> 00:00:51,456
+<font color="#FFFFFF" size="20">THEIR</font><font color=#FAFF00 size="20"> PAYROLL </font><font color="#FFFFFF" size="20">SOFTWARE TO PROCESS AND</font>
+
+3
+00:00:51,456 --> 00:00:52,420
+<font color="#FFFFFF" size="20">THEIR PAYROLL</font><font color=#FAFF00 size="20"> SOFTWARE </font><font color="#FFFFFF" size="20">TO PROCESS AND</font>
+
+4
+00:00:52,420 --> 00:00:52,964
+<font color="#FFFFFF" size="20">THEIR PAYROLL SOFTWARE</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">PROCESS AND</font>
+
+5
+00:00:52,964 --> 00:00:53,448
+<font color="#FFFFFF" size="20">THEIR PAYROLL SOFTWARE TO</font><font color=#FAFF00 size="20"> PROCESS </font><font color="#FFFFFF" size="20">AND</font>
+
+6
+00:00:53,448 --> 00:00:53,730
+<font color="#FFFFFF" size="20">THEIR PAYROLL SOFTWARE TO PROCESS</font><font color=#FAFF00 size="20"> AND</font>
+

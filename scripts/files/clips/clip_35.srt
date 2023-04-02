@@ -1,0 +1,16 @@
+1
+00:00:55,824 --> 00:00:55,925
+<font color=#FAFF00 size="20">HOW </font><font color="#FFFFFF" size="20">THERE CAN BE</font>
+
+2
+00:00:55,925 --> 00:00:56,086
+<font color="#FFFFFF" size="20">HOW</font><font color=#FAFF00 size="20"> THERE </font><font color="#FFFFFF" size="20">CAN BE</font>
+
+3
+00:00:56,086 --> 00:00:56,227
+<font color="#FFFFFF" size="20">HOW THERE</font><font color=#FAFF00 size="20"> CAN </font><font color="#FFFFFF" size="20">BE</font>
+
+4
+00:00:56,227 --> 00:00:56,368
+<font color="#FFFFFF" size="20">HOW THERE CAN</font><font color=#FAFF00 size="20"> BE</font>
+

@@ -1,0 +1,24 @@
+1
+00:01:21,084 --> 00:01:21,245
+<font color=#FAFF00 size="20">BIDDING </font><font color="#FFFFFF" size="20">50 CENTS OR 60 CENTS</font>
+
+2
+00:01:21,245 --> 00:01:21,366
+<font color="#FFFFFF" size="20">BIDDING</font><font color=#FAFF00 size="20"> 50 </font><font color="#FFFFFF" size="20">CENTS OR 60 CENTS</font>
+
+3
+00:01:21,366 --> 00:01:21,487
+<font color="#FFFFFF" size="20">BIDDING 50</font><font color=#FAFF00 size="20"> CENTS </font><font color="#FFFFFF" size="20">OR 60 CENTS</font>
+
+4
+00:01:21,487 --> 00:01:21,547
+<font color="#FFFFFF" size="20">BIDDING 50 CENTS</font><font color=#FAFF00 size="20"> OR </font><font color="#FFFFFF" size="20">60 CENTS</font>
+
+5
+00:01:21,547 --> 00:01:21,789
+<font color="#FFFFFF" size="20">BIDDING 50 CENTS OR</font><font color=#FAFF00 size="20"> 60 </font><font color="#FFFFFF" size="20">CENTS</font>
+
+6
+00:01:21,789 --> 00:01:22,051
+<font color="#FFFFFF" size="20">BIDDING 50 CENTS OR 60</font><font color=#FAFF00 size="20"> CENTS</font>
+

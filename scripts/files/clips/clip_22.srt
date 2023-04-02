@@ -1,0 +1,28 @@
+1
+00:00:35,387 --> 00:00:35,608
+<font color=#FAFF00 size="20">BECAUSE </font><font color="#FFFFFF" size="20">THEY HAD MONEY TIED UP AT</font>
+
+2
+00:00:35,608 --> 00:00:35,729
+<font color="#FFFFFF" size="20">BECAUSE</font><font color=#FAFF00 size="20"> THEY </font><font color="#FFFFFF" size="20">HAD MONEY TIED UP AT</font>
+
+3
+00:00:35,729 --> 00:00:35,890
+<font color="#FFFFFF" size="20">BECAUSE THEY</font><font color=#FAFF00 size="20"> HAD </font><font color="#FFFFFF" size="20">MONEY TIED UP AT</font>
+
+4
+00:00:35,890 --> 00:00:36,131
+<font color="#FFFFFF" size="20">BECAUSE THEY HAD</font><font color=#FAFF00 size="20"> MONEY </font><font color="#FFFFFF" size="20">TIED UP AT</font>
+
+5
+00:00:36,131 --> 00:00:36,353
+<font color="#FFFFFF" size="20">BECAUSE THEY HAD MONEY</font><font color=#FAFF00 size="20"> TIED </font><font color="#FFFFFF" size="20">UP AT</font>
+
+6
+00:00:36,353 --> 00:00:36,453
+<font color="#FFFFFF" size="20">BECAUSE THEY HAD MONEY TIED</font><font color=#FAFF00 size="20"> UP </font><font color="#FFFFFF" size="20">AT</font>
+
+7
+00:00:36,453 --> 00:00:36,534
+<font color="#FFFFFF" size="20">BECAUSE THEY HAD MONEY TIED UP</font><font color=#FAFF00 size="20"> AT</font>
+

@@ -1,0 +1,28 @@
+1
+00:00:41,581 --> 00:00:41,722
+<font color=#FAFF00 size="20">BE </font><font color="#FFFFFF" size="20">ABLE TO KIND OF GET THE</font>
+
+2
+00:00:41,722 --> 00:00:41,963
+<font color="#FFFFFF" size="20">BE</font><font color=#FAFF00 size="20"> ABLE </font><font color="#FFFFFF" size="20">TO KIND OF GET THE</font>
+
+3
+00:00:41,963 --> 00:00:42,365
+<font color="#FFFFFF" size="20">BE ABLE</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">KIND OF GET THE</font>
+
+4
+00:00:42,365 --> 00:00:42,505
+<font color="#FFFFFF" size="20">BE ABLE TO</font><font color=#FAFF00 size="20"> KIND </font><font color="#FFFFFF" size="20">OF GET THE</font>
+
+5
+00:00:42,505 --> 00:00:42,586
+<font color="#FFFFFF" size="20">BE ABLE TO KIND</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">GET THE</font>
+
+6
+00:00:42,586 --> 00:00:42,726
+<font color="#FFFFFF" size="20">BE ABLE TO KIND OF</font><font color=#FAFF00 size="20"> GET </font><font color="#FFFFFF" size="20">THE</font>
+
+7
+00:00:42,726 --> 00:00:43,309
+<font color="#FFFFFF" size="20">BE ABLE TO KIND OF GET</font><font color=#FAFF00 size="20"> THE</font>
+

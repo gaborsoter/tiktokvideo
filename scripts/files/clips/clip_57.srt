@@ -1,0 +1,24 @@
+1
+00:01:26,074 --> 00:01:26,195
+<font color=#FAFF00 size="20">AND </font><font color="#FFFFFF" size="20">THAT CASH NEEDS TO BE</font>
+
+2
+00:01:26,195 --> 00:01:26,376
+<font color="#FFFFFF" size="20">AND</font><font color=#FAFF00 size="20"> THAT </font><font color="#FFFFFF" size="20">CASH NEEDS TO BE</font>
+
+3
+00:01:26,376 --> 00:01:26,677
+<font color="#FFFFFF" size="20">AND THAT</font><font color=#FAFF00 size="20"> CASH </font><font color="#FFFFFF" size="20">NEEDS TO BE</font>
+
+4
+00:01:26,677 --> 00:01:26,858
+<font color="#FFFFFF" size="20">AND THAT CASH</font><font color=#FAFF00 size="20"> NEEDS </font><font color="#FFFFFF" size="20">TO BE</font>
+
+5
+00:01:26,858 --> 00:01:26,939
+<font color="#FFFFFF" size="20">AND THAT CASH NEEDS</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">BE</font>
+
+6
+00:01:26,939 --> 00:01:26,999
+<font color="#FFFFFF" size="20">AND THAT CASH NEEDS TO</font><font color=#FAFF00 size="20"> BE</font>
+

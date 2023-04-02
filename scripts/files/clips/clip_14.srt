@@ -1,16 +1,24 @@
 1
-00:00:16,613 --> 00:00:17,176
-<font color=#FAFF00 size="20">BUTTERFLY </font><font color="#FFFFFF" size="20">AND BIRD TATTOOS</font>
+00:00:20,186 --> 00:00:20,347
+<font color=#FAFF00 size="20">THAT </font><font color="#FFFFFF" size="20">DO PAYROLL FOR MANY BUSINESSES,</font>
 
 2
-00:00:17,176 --> 00:00:17,296
-<font color="#FFFFFF" size="20">BUTTERFLY</font><font color=#FAFF00 size="20"> AND </font><font color="#FFFFFF" size="20">BIRD TATTOOS</font>
+00:00:20,347 --> 00:00:20,547
+<font color="#FFFFFF" size="20">THAT</font><font color=#FAFF00 size="20"> DO </font><font color="#FFFFFF" size="20">PAYROLL FOR MANY BUSINESSES,</font>
 
 3
-00:00:17,296 --> 00:00:17,558
-<font color="#FFFFFF" size="20">BUTTERFLY AND</font><font color=#FAFF00 size="20"> BIRD </font><font color="#FFFFFF" size="20">TATTOOS</font>
+00:00:20,547 --> 00:00:20,989
+<font color="#FFFFFF" size="20">THAT DO</font><font color=#FAFF00 size="20"> PAYROLL </font><font color="#FFFFFF" size="20">FOR MANY BUSINESSES,</font>
 
 4
-00:00:17,558 --> 00:00:18,102
-<font color="#FFFFFF" size="20">BUTTERFLY AND BIRD</font><font color=#FAFF00 size="20"> TATTOOS</font>
+00:00:20,989 --> 00:00:21,150
+<font color="#FFFFFF" size="20">THAT DO PAYROLL</font><font color=#FAFF00 size="20"> FOR </font><font color="#FFFFFF" size="20">MANY BUSINESSES,</font>
+
+5
+00:00:21,150 --> 00:00:21,551
+<font color="#FFFFFF" size="20">THAT DO PAYROLL FOR</font><font color=#FAFF00 size="20"> MANY </font><font color="#FFFFFF" size="20">BUSINESSES,</font>
+
+6
+00:00:21,551 --> 00:00:22,114
+<font color="#FFFFFF" size="20">THAT DO PAYROLL FOR MANY</font><font color=#FAFF00 size="20"> BUSINESSES,</font>
 

@@ -1,0 +1,12 @@
+1
+00:02:18,800 --> 00:02:18,882
+<font color=#FAFF00 size="20">YOU </font><font color="#FFFFFF" size="20">HAD SOMETHING</font>
+
+2
+00:02:18,882 --> 00:02:18,964
+<font color="#FFFFFF" size="20">YOU</font><font color=#FAFF00 size="20"> HAD </font><font color="#FFFFFF" size="20">SOMETHING</font>
+
+3
+00:02:18,964 --> 00:02:19,170
+<font color="#FFFFFF" size="20">YOU HAD</font><font color=#FAFF00 size="20"> SOMETHING</font>
+

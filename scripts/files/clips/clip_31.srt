@@ -1,0 +1,20 @@
+1
+00:00:48,485 --> 00:00:48,947
+<font color=#FAFF00 size="20">THOUSANDS </font><font color="#FFFFFF" size="20">OF COMPANIES THAT USE</font>
+
+2
+00:00:48,947 --> 00:00:49,068
+<font color="#FFFFFF" size="20">THOUSANDS</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">COMPANIES THAT USE</font>
+
+3
+00:00:49,068 --> 00:00:49,931
+<font color="#FFFFFF" size="20">THOUSANDS OF</font><font color=#FAFF00 size="20"> COMPANIES </font><font color="#FFFFFF" size="20">THAT USE</font>
+
+4
+00:00:49,931 --> 00:00:50,212
+<font color="#FFFFFF" size="20">THOUSANDS OF COMPANIES</font><font color=#FAFF00 size="20"> THAT </font><font color="#FFFFFF" size="20">USE</font>
+
+5
+00:00:50,212 --> 00:00:50,372
+<font color="#FFFFFF" size="20">THOUSANDS OF COMPANIES THAT</font><font color=#FAFF00 size="20"> USE</font>
+

@@ -1,0 +1,20 @@
+1
+00:01:00,369 --> 00:01:00,650
+<font color=#FAFF00 size="20">PERHAPS </font><font color="#FFFFFF" size="20">TO A DIFFERENT DEGREE,</font>
+
+2
+00:01:00,650 --> 00:01:00,811
+<font color="#FFFFFF" size="20">PERHAPS</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">A DIFFERENT DEGREE,</font>
+
+3
+00:01:00,811 --> 00:01:00,931
+<font color="#FFFFFF" size="20">PERHAPS TO</font><font color=#FAFF00 size="20"> A </font><font color="#FFFFFF" size="20">DIFFERENT DEGREE,</font>
+
+4
+00:01:00,931 --> 00:01:01,253
+<font color="#FFFFFF" size="20">PERHAPS TO A</font><font color=#FAFF00 size="20"> DIFFERENT </font><font color="#FFFFFF" size="20">DEGREE,</font>
+
+5
+00:01:01,253 --> 00:01:01,976
+<font color="#FFFFFF" size="20">PERHAPS TO A DIFFERENT</font><font color=#FAFF00 size="20"> DEGREE,</font>
+

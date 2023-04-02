@@ -1,0 +1,12 @@
+1
+00:01:45,640 --> 00:01:45,761
+<font color=#FAFF00 size="20">THAT'S </font><font color="#FFFFFF" size="20">GOING TO</font>
+
+2
+00:01:45,761 --> 00:01:45,883
+<font color="#FFFFFF" size="20">THAT'S</font><font color=#FAFF00 size="20"> GOING </font><font color="#FFFFFF" size="20">TO</font>
+
+3
+00:01:45,883 --> 00:01:45,964
+<font color="#FFFFFF" size="20">THAT'S GOING</font><font color=#FAFF00 size="20"> TO</font>
+

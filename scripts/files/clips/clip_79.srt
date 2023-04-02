@@ -1,0 +1,28 @@
+1
+00:02:08,328 --> 00:02:08,529
+<font color=#FAFF00 size="20">LET </font><font color="#FFFFFF" size="20">THE PORTFOLIO OF ASSETS RUN ITS</font>
+
+2
+00:02:08,529 --> 00:02:08,629
+<font color="#FFFFFF" size="20">LET</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">PORTFOLIO OF ASSETS RUN ITS</font>
+
+3
+00:02:08,629 --> 00:02:09,132
+<font color="#FFFFFF" size="20">LET THE</font><font color=#FAFF00 size="20"> PORTFOLIO </font><font color="#FFFFFF" size="20">OF ASSETS RUN ITS</font>
+
+4
+00:02:09,132 --> 00:02:09,252
+<font color="#FFFFFF" size="20">LET THE PORTFOLIO</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">ASSETS RUN ITS</font>
+
+5
+00:02:09,252 --> 00:02:09,574
+<font color="#FFFFFF" size="20">LET THE PORTFOLIO OF</font><font color=#FAFF00 size="20"> ASSETS </font><font color="#FFFFFF" size="20">RUN ITS</font>
+
+6
+00:02:09,574 --> 00:02:09,734
+<font color="#FFFFFF" size="20">LET THE PORTFOLIO OF ASSETS</font><font color=#FAFF00 size="20"> RUN </font><font color="#FFFFFF" size="20">ITS</font>
+
+7
+00:02:09,734 --> 00:02:09,875
+<font color="#FFFFFF" size="20">LET THE PORTFOLIO OF ASSETS RUN</font><font color=#FAFF00 size="20"> ITS</font>
+

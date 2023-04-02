@@ -1,0 +1,28 @@
+1
+00:02:06,299 --> 00:02:06,460
+<font color=#FAFF00 size="20">THAT </font><font color="#FFFFFF" size="20">TAKES OVER THIS PORTFOLIO, AND SAYS,</font>
+
+2
+00:02:06,460 --> 00:02:06,741
+<font color="#FFFFFF" size="20">THAT</font><font color=#FAFF00 size="20"> TAKES </font><font color="#FFFFFF" size="20">OVER THIS PORTFOLIO, AND SAYS,</font>
+
+3
+00:02:06,741 --> 00:02:06,902
+<font color="#FFFFFF" size="20">THAT TAKES</font><font color=#FAFF00 size="20"> OVER </font><font color="#FFFFFF" size="20">THIS PORTFOLIO, AND SAYS,</font>
+
+4
+00:02:06,902 --> 00:02:07,042
+<font color="#FFFFFF" size="20">THAT TAKES OVER</font><font color=#FAFF00 size="20"> THIS </font><font color="#FFFFFF" size="20">PORTFOLIO, AND SAYS,</font>
+
+5
+00:02:07,042 --> 00:02:07,926
+<font color="#FFFFFF" size="20">THAT TAKES OVER THIS</font><font color=#FAFF00 size="20"> PORTFOLIO, </font><font color="#FFFFFF" size="20">AND SAYS,</font>
+
+6
+00:02:07,926 --> 00:02:08,047
+<font color="#FFFFFF" size="20">THAT TAKES OVER THIS PORTFOLIO,</font><font color=#FAFF00 size="20"> AND </font><font color="#FFFFFF" size="20">SAYS,</font>
+
+7
+00:02:08,047 --> 00:02:08,328
+<font color="#FFFFFF" size="20">THAT TAKES OVER THIS PORTFOLIO, AND</font><font color=#FAFF00 size="20"> SAYS,</font>
+

@@ -1,0 +1,24 @@
+1
+00:01:47,240 --> 00:01:47,320
+<font color=#FAFF00 size="20">AND </font><font color="#FFFFFF" size="20">SO WHAT HAS TO HAPPEN,</font>
+
+2
+00:01:47,320 --> 00:01:47,601
+<font color="#FFFFFF" size="20">AND</font><font color=#FAFF00 size="20"> SO </font><font color="#FFFFFF" size="20">WHAT HAS TO HAPPEN,</font>
+
+3
+00:01:47,601 --> 00:01:47,782
+<font color="#FFFFFF" size="20">AND SO</font><font color=#FAFF00 size="20"> WHAT </font><font color="#FFFFFF" size="20">HAS TO HAPPEN,</font>
+
+4
+00:01:47,782 --> 00:01:48,043
+<font color="#FFFFFF" size="20">AND SO WHAT</font><font color=#FAFF00 size="20"> HAS </font><font color="#FFFFFF" size="20">TO HAPPEN,</font>
+
+5
+00:01:48,043 --> 00:01:48,183
+<font color="#FFFFFF" size="20">AND SO WHAT HAS</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">HAPPEN,</font>
+
+6
+00:01:48,183 --> 00:01:48,625
+<font color="#FFFFFF" size="20">AND SO WHAT HAS TO</font><font color=#FAFF00 size="20"> HAPPEN,</font>
+

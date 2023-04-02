@@ -1,20 +1,20 @@
 1
-00:00:00,927 --> 00:00:01,028
-<font color=#FAFF00 size="20">A </font><font color="#FFFFFF" size="20">NIGHT FOR THE BOOKS.</font>
+00:00:01,023 --> 00:00:01,947
+<font color=#FAFF00 size="20">HIGHLIGHT </font><font color="#FFFFFF" size="20">WHY IT'S NOT JUST</font>
 
 2
-00:00:01,028 --> 00:00:01,250
-<font color="#FFFFFF" size="20">A</font><font color=#FAFF00 size="20"> NIGHT </font><font color="#FFFFFF" size="20">FOR THE BOOKS.</font>
+00:00:01,947 --> 00:00:02,328
+<font color="#FFFFFF" size="20">HIGHLIGHT</font><font color=#FAFF00 size="20"> WHY </font><font color="#FFFFFF" size="20">IT'S NOT JUST</font>
 
 3
-00:00:01,250 --> 00:00:01,391
-<font color="#FFFFFF" size="20">A NIGHT</font><font color=#FAFF00 size="20"> FOR </font><font color="#FFFFFF" size="20">THE BOOKS.</font>
+00:00:02,328 --> 00:00:02,509
+<font color="#FFFFFF" size="20">HIGHLIGHT WHY</font><font color=#FAFF00 size="20"> IT'S </font><font color="#FFFFFF" size="20">NOT JUST</font>
 
 4
-00:00:01,391 --> 00:00:01,512
-<font color="#FFFFFF" size="20">A NIGHT FOR</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">BOOKS.</font>
+00:00:02,509 --> 00:00:02,710
+<font color="#FFFFFF" size="20">HIGHLIGHT WHY IT'S</font><font color=#FAFF00 size="20"> NOT </font><font color="#FFFFFF" size="20">JUST</font>
 
 5
-00:00:01,512 --> 00:00:02,440
-<font color="#FFFFFF" size="20">A NIGHT FOR THE</font><font color=#FAFF00 size="20"> BOOKS.</font>
+00:00:02,710 --> 00:00:02,971
+<font color="#FFFFFF" size="20">HIGHLIGHT WHY IT'S NOT</font><font color=#FAFF00 size="20"> JUST</font>
 

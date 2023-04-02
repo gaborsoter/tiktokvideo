@@ -1,20 +1,20 @@
 1
-00:00:10,388 --> 00:00:10,629
-<font color=#FAFF00 size="20">BY </font><font color="#FFFFFF" size="20">STORM IN A VIBRANT</font>
+00:00:12,671 --> 00:00:12,771
+<font color=#FAFF00 size="20">IN </font><font color="#FFFFFF" size="20">SILICON VALLEY THAT USE</font>
 
 2
-00:00:10,629 --> 00:00:11,030
-<font color="#FFFFFF" size="20">BY</font><font color=#FAFF00 size="20"> STORM </font><font color="#FFFFFF" size="20">IN A VIBRANT</font>
+00:00:12,771 --> 00:00:13,133
+<font color="#FFFFFF" size="20">IN</font><font color=#FAFF00 size="20"> SILICON </font><font color="#FFFFFF" size="20">VALLEY THAT USE</font>
 
 3
-00:00:11,030 --> 00:00:11,131
-<font color="#FFFFFF" size="20">BY STORM</font><font color=#FAFF00 size="20"> IN </font><font color="#FFFFFF" size="20">A VIBRANT</font>
+00:00:13,133 --> 00:00:13,796
+<font color="#FFFFFF" size="20">IN SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">THAT USE</font>
 
 4
-00:00:11,131 --> 00:00:11,271
-<font color="#FFFFFF" size="20">BY STORM IN</font><font color=#FAFF00 size="20"> A </font><font color="#FFFFFF" size="20">VIBRANT</font>
+00:00:13,796 --> 00:00:14,098
+<font color="#FFFFFF" size="20">IN SILICON VALLEY</font><font color=#FAFF00 size="20"> THAT </font><font color="#FFFFFF" size="20">USE</font>
 
 5
-00:00:11,271 --> 00:00:11,813
-<font color="#FFFFFF" size="20">BY STORM IN A</font><font color=#FAFF00 size="20"> VIBRANT</font>
+00:00:14,098 --> 00:00:14,238
+<font color="#FFFFFF" size="20">IN SILICON VALLEY THAT</font><font color=#FAFF00 size="20"> USE</font>
 

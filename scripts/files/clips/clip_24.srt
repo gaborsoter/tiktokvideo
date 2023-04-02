@@ -1,0 +1,16 @@
+1
+00:00:37,400 --> 00:00:37,782
+<font color=#FAFF00 size="20">FORTUNATELY, </font><font color="#FFFFFF" size="20">THEY ANNOUNCED THAT</font>
+
+2
+00:00:37,782 --> 00:00:37,922
+<font color="#FFFFFF" size="20">FORTUNATELY,</font><font color=#FAFF00 size="20"> THEY </font><font color="#FFFFFF" size="20">ANNOUNCED THAT</font>
+
+3
+00:00:37,922 --> 00:00:38,525
+<font color="#FFFFFF" size="20">FORTUNATELY, THEY</font><font color=#FAFF00 size="20"> ANNOUNCED </font><font color="#FFFFFF" size="20">THAT</font>
+
+4
+00:00:38,525 --> 00:00:38,646
+<font color="#FFFFFF" size="20">FORTUNATELY, THEY ANNOUNCED</font><font color=#FAFF00 size="20"> THAT</font>
+

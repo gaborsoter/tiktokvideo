@@ -1,0 +1,28 @@
+1
+00:00:33,315 --> 00:00:33,536
+<font color=#FAFF00 size="20">COULD </font><font color="#FFFFFF" size="20">NOT HIT THEIR PAYROLL CYCLE TODAY</font>
+
+2
+00:00:33,536 --> 00:00:33,697
+<font color="#FFFFFF" size="20">COULD</font><font color=#FAFF00 size="20"> NOT </font><font color="#FFFFFF" size="20">HIT THEIR PAYROLL CYCLE TODAY</font>
+
+3
+00:00:33,697 --> 00:00:33,857
+<font color="#FFFFFF" size="20">COULD NOT</font><font color=#FAFF00 size="20"> HIT </font><font color="#FFFFFF" size="20">THEIR PAYROLL CYCLE TODAY</font>
+
+4
+00:00:33,857 --> 00:00:34,038
+<font color="#FFFFFF" size="20">COULD NOT HIT</font><font color=#FAFF00 size="20"> THEIR </font><font color="#FFFFFF" size="20">PAYROLL CYCLE TODAY</font>
+
+5
+00:00:34,038 --> 00:00:34,420
+<font color="#FFFFFF" size="20">COULD NOT HIT THEIR</font><font color=#FAFF00 size="20"> PAYROLL </font><font color="#FFFFFF" size="20">CYCLE TODAY</font>
+
+6
+00:00:34,420 --> 00:00:34,783
+<font color="#FFFFFF" size="20">COULD NOT HIT THEIR PAYROLL</font><font color=#FAFF00 size="20"> CYCLE </font><font color="#FFFFFF" size="20">TODAY</font>
+
+7
+00:00:34,783 --> 00:00:35,387
+<font color="#FFFFFF" size="20">COULD NOT HIT THEIR PAYROLL CYCLE</font><font color=#FAFF00 size="20"> TODAY</font>
+

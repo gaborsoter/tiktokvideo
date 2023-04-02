@@ -1,0 +1,24 @@
+1
+00:01:18,454 --> 00:01:18,716
+<font color=#FAFF00 size="20">SHORE </font><font color="#FFFFFF" size="20">UP THE PROBLEM THIS WEEKEND.</font>
+
+2
+00:01:18,716 --> 00:01:18,836
+<font color="#FFFFFF" size="20">SHORE</font><font color=#FAFF00 size="20"> UP </font><font color="#FFFFFF" size="20">THE PROBLEM THIS WEEKEND.</font>
+
+3
+00:01:18,836 --> 00:01:18,937
+<font color="#FFFFFF" size="20">SHORE UP</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">PROBLEM THIS WEEKEND.</font>
+
+4
+00:01:18,937 --> 00:01:19,318
+<font color="#FFFFFF" size="20">SHORE UP THE</font><font color=#FAFF00 size="20"> PROBLEM </font><font color="#FFFFFF" size="20">THIS WEEKEND.</font>
+
+5
+00:01:19,318 --> 00:01:19,560
+<font color="#FFFFFF" size="20">SHORE UP THE PROBLEM</font><font color=#FAFF00 size="20"> THIS </font><font color="#FFFFFF" size="20">WEEKEND.</font>
+
+6
+00:01:19,560 --> 00:01:20,560
+<font color="#FFFFFF" size="20">SHORE UP THE PROBLEM THIS</font><font color=#FAFF00 size="20"> WEEKEND.</font>
+

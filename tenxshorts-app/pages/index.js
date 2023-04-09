@@ -8,23 +8,21 @@ function Home() {
   const [videos, setVideos] = useState([])
   const {signOut} = useAuthenticator((context)=>[context.signOut])
 
-  async function callApi(fileURL) {
-    const user = await Auth.currentAuthenticatedUser()
-    const token = user.signInUserSession.idToken.jwtToken
-
-    console.log('token:', token)
-
-    const requestInfo = {
+  async function callApi() {
+    const user = await Auth.currentAuthenticatedUser();
+    const token = user.signInUserSession.idToken.jwtToken;
+  
+    const params = {
+      body: {
+        videoKey: "Gabor"
+      },
       headers: {
         Authorization: token
-      },
-      body: {
-        fileURL: fileURL
       }
-    }
-
-    const apiData = await API.get('api10xshorts', '/processvideo', requestInfo)
-    console.log('apiData:', apiData)
+    };
+  
+    const apiData = await API.post('api10xshorts', '/processvideo', params);
+    console.log('apiData:', apiData);
   }
 
   const fetchVideos = async () => {
@@ -75,7 +73,7 @@ function Home() {
               <View padding="xs">
                 <Divider padding="xs" />
                 <Heading padding="medium">{item.title}</Heading>
-                <Button onClick={callApi(item)} variation="primary" isFullWidth>
+                <Button onClick={callApi} variation="primary" isFullWidth>
                   Process video
                 </Button>
               </View>

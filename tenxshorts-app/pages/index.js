@@ -1,27 +1,27 @@
 import { useState, useEffect } from 'react'
 import { withAuthenticator, useAuthenticator } from '@aws-amplify/ui-react'
 import { Storage, API, Auth } from "aws-amplify"
-import { FileUploader, Collection, Image, Card, Button, View, Flex, Divider, Heading } from '@aws-amplify/ui-react'
+import { FileUploader, Collection, Image, Card, Button, View, Divider, Heading } from '@aws-amplify/ui-react'
 
 function Home() {
   const [videoKeys, setVideoKeys] = useState([])
   const [videos, setVideos] = useState([])
   const {signOut} = useAuthenticator((context)=>[context.signOut])
 
-  async function callApi() {
+  async function callApi(item) {
     const user = await Auth.currentAuthenticatedUser();
     const token = user.signInUserSession.idToken.jwtToken;
   
     const params = {
       body: {
-        videoKey: "Gabor"
+        videoKey: item
       },
       headers: {
         Authorization: token
       }
     };
   
-    const apiData = await API.post('api10xshorts', '/processvideo', params);
+    const apiData = await API.post('tenxshorts', '/audio', params);
     console.log('apiData:', apiData);
   }
 
@@ -72,8 +72,8 @@ function Home() {
               />
               <View padding="xs">
                 <Divider padding="xs" />
-                <Heading padding="medium">{item.title}</Heading>
-                <Button onClick={callApi} variation="primary" isFullWidth>
+                <Heading padding="medium">{videoKeys[index].key}</Heading>
+                <Button onClick={() => callApi(item)} variation="primary" isFullWidth>
                   Process video
                 </Button>
               </View>

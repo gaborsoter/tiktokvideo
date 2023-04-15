@@ -16,17 +16,17 @@
       "auth": {
         "10xshorts": {}
       },
-      "function": {
-        "videoProcessing": {
-          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
-          "s3Key": "amplify-builds/videoProcessing-5a7952664c574b6d6b37-build.zip"
-        }
-      },
       "storage": {
         "s310xshortsstorageb043c5c4": {}
       },
+      "function": {
+        "audio": {
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/audio-314c50363478695a4151-build.zip"
+        }
+      },
       "api": {
-        "api10xshorts": {}
+        "tenxshorts": {}
       }
     }
   }

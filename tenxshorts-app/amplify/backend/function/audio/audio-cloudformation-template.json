@@ -15,6 +15,10 @@
     },
     "s3Key": {
       "Type": "String"
+    },
+    "storages310xshortsstorageb043c5c4BucketName": {
+      "Type": "String",
+      "Default": "storages310xshortsstorageb043c5c4BucketName"
     }
   },
   "Conditions": {
@@ -47,12 +51,12 @@
         "FunctionName": {
           "Fn::If": [
             "ShouldNotCreateEnvResources",
-            "videoProcessing",
+            "audio",
             {
               "Fn::Join": [
                 "",
                 [
-                  "videoProcessing",
+                  "audio",
                   "-",
                   {
                     "Ref": "env"
@@ -69,6 +73,9 @@
             },
             "REGION": {
               "Ref": "AWS::Region"
+            },
+            "STORAGE_S310XSHORTSSTORAGEB043C5C4_BUCKETNAME": {
+              "Ref": "storages310xshortsstorageb043c5c4BucketName"
             }
           }
         },
@@ -79,8 +86,11 @@
           ]
         },
         "Runtime": "python3.8",
-        "Layers": [],
-        "Timeout": 25
+        "Layers": [
+          "arn:aws:lambda:eu-west-2:254108557594:layer:ffmpeg:4"
+        ],
+        "MemorySize": 2240,
+        "Timeout": 60
       }
     },
     "LambdaExecutionRole": {
@@ -89,12 +99,12 @@
         "RoleName": {
           "Fn::If": [
             "ShouldNotCreateEnvResources",
-            "10xshortsLambdaRolec35b3912",
+            "10xshortsLambdaRole5fbaabbf",
             {
               "Fn::Join": [
                 "",
                 [
-                  "10xshortsLambdaRolec35b3912",
+                  "10xshortsLambdaRole5fbaabbf",
                   "-",
                   {
                     "Ref": "env"
@@ -164,6 +174,110 @@
           ]
         }
       }
+    },
+    "AmplifyResourcesPolicy": {
+      "DependsOn": [
+        "LambdaExecutionRole"
+      ],
+      "Type": "AWS::IAM::Policy",
+      "Properties": {
+        "PolicyName": "amplify-lambda-execution-policy",
+        "Roles": [
+          {
+            "Ref": "LambdaExecutionRole"
+          }
+        ],
+        "PolicyDocument": {
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Effect": "Allow",
+              "Action": "s3:ListBucket",
+              "Resource": [
+                {
+                  "Fn::Join": [
+                    "",
+                    [
+                      "arn:aws:s3:::",
+                      {
+                        "Ref": "storages310xshortsstorageb043c5c4BucketName"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "Effect": "Allow",
+              "Action": [
+                "s3:PutObject",
+                "s3:GetObject",
+                "s3:DeleteObject"
+              ],
+              "Resource": [
+                {
+                  "Fn::Join": [
+                    "",
+                    [
+                      "arn:aws:s3:::",
+                      {
+                        "Ref": "storages310xshortsstorageb043c5c4BucketName"
+                      },
+                      "/*"
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "CustomLambdaExecutionPolicy": {
+      "Type": "AWS::IAM::Policy",
+      "Properties": {
+        "PolicyName": "custom-lambda-execution-policy",
+        "PolicyDocument": {
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Action": [
+                "s3:GetObject"
+              ],
+              "Resource": [
+                "arn:aws:s3:::10xshorts-storage-b043c5c4165946-staging"
+              ],
+              "Effect": "Allow"
+            },
+            {
+              "Action": [
+                "s3:PutObject"
+              ],
+              "Resource": [
+                "arn:aws:s3:::10xshorts-storage-b043c5c4165946-staging"
+              ],
+              "Effect": "Allow"
+            },
+            {
+              "Action": [
+                "logs:PutLogEvents",
+                "logs:CreateLogStream",
+                "logs:CreateLogGroup"
+              ],
+              "Resource": [
+                "*"
+              ],
+              "Effect": "Allow"
+            }
+          ]
+        },
+        "Roles": [
+          {
+            "Ref": "LambdaExecutionRole"
+          }
+        ]
+      },
+      "DependsOn": "LambdaExecutionRole"
     }
   },
   "Outputs": {

@@ -1,9 +1,9 @@
 {
   "version": 1,
   "paths": {
-    "/processvideo": {
-      "name": "/processvideo",
-      "lambdaFunction": "videoProcessing",
+    "/audio": {
+      "name": "/audio",
+      "lambdaFunction": "audio",
       "permissions": {
         "setting": "private",
         "auth": [

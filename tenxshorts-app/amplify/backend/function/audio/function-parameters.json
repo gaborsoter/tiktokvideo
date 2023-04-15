@@ -1,0 +1,18 @@
+{
+  "lambdaLayers": [
+    {
+      "type": "ExternalLayer",
+      "arn": "arn:aws:lambda:eu-west-2:254108557594:layer:ffmpeg:4"
+    }
+  ],
+  "permissions": {
+    "storage": {
+      "s310xshortsstorageb043c5c4": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  }
+}

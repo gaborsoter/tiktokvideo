@@ -1,6 +1,6 @@
 {
   "api": {
-    "api10xshorts": {
+    "tenxshorts": {
       "dependsOn": [
         {
           "attributes": [
@@ -8,7 +8,7 @@
             "Arn"
           ],
           "category": "function",
-          "resourceName": "videoProcessing"
+          "resourceName": "audio"
         }
       ],
       "providerPlugin": "awscloudformation",
@@ -47,26 +47,35 @@
     }
   },
   "function": {
-    "videoProcessing": {
+    "audio": {
       "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "BucketName"
+          ],
+          "category": "storage",
+          "resourceName": "s310xshortsstorageb043c5c4"
+        }
+      ],
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
     }
   },
   "parameters": {
-    "AMPLIFY_function_videoProcessing_deploymentBucketName": {
+    "AMPLIFY_function_audio_deploymentBucketName": {
       "usedBy": [
         {
           "category": "function",
-          "resourceName": "videoProcessing"
+          "resourceName": "audio"
         }
       ]
     },
-    "AMPLIFY_function_videoProcessing_s3Key": {
+    "AMPLIFY_function_audio_s3Key": {
       "usedBy": [
         {
           "category": "function",
-          "resourceName": "videoProcessing"
+          "resourceName": "audio"
         }
       ]
     }

@@ -1,0 +1,18 @@
+[
+  {
+    "Action": ["s3:GetObject"],
+    "Resource": ["arn:aws:s3:::10xshorts-storage-b043c5c4165946-staging"]
+  },
+  {
+    "Action": ["s3:PutObject"],
+    "Resource": ["arn:aws:s3:::10xshorts-storage-b043c5c4165946-staging"]
+  },
+  {
+    "Action": [
+      "logs:PutLogEvents",
+      "logs:CreateLogStream",
+      "logs:CreateLogGroup"
+    ],
+    "Resource": ["*"]
+  }
+]

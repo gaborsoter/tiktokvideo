@@ -242,6 +242,15 @@
           "Statement": [
             {
               "Action": [
+                "cognito-idp:ListUsers"
+              ],
+              "Resource": [
+                "arn:aws:cognito-idp:eu-west-2:254108557594:userpool/eu-west-2_wYUHJ7g30"
+              ],
+              "Effect": "Allow"
+            },
+            {
+              "Action": [
                 "s3:GetObject"
               ],
               "Resource": [

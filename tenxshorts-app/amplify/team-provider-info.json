@@ -22,7 +22,7 @@
       "function": {
         "audio": {
           "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
-          "s3Key": "amplify-builds/audio-314c50363478695a4151-build.zip"
+          "s3Key": "amplify-builds/audio-4857557855356467426c-build.zip"
         }
       },
       "api": {

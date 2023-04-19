@@ -11,10 +11,18 @@ function Home() {
   async function callApi(item) {
     const user = await Auth.currentAuthenticatedUser();
     const token = user.signInUserSession.idToken.jwtToken;
+    const identityId = user.attributes.sub;
+
+    // Update the user's address attribute with their identityId
+    const credentials = await Auth.currentCredentials();
+    await Auth.updateUserAttributes(user, {
+      'address': credentials.identityId,
+    });
   
     const params = {
       body: {
-        videoKey: item
+        videoKey: item,
+        identityId: identityId
       },
       headers: {
         Authorization: token
@@ -26,7 +34,8 @@ function Home() {
   }
 
   const fetchVideos = async () => {
-    const {results} = await Storage.list('', {level: 'private'}) 
+    const {results} = await Storage.list('', {level: 'private'})
+    console.log(results) 
     setVideoKeys(results)
     const s3Videos = await Promise.all(
       results.map(
@@ -73,7 +82,7 @@ function Home() {
               <View padding="xs">
                 <Divider padding="xs" />
                 <Heading padding="medium">{videoKeys[index].key}</Heading>
-                <Button onClick={() => callApi(item)} variation="primary" isFullWidth>
+                <Button onClick={() => callApi(videoKeys[index].key)} variation="primary" isFullWidth>
                   Process video
                 </Button>
               </View>

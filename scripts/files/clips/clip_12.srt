@@ -1,8 +1,4 @@
 1
-00:00:17,655 --> 00:00:17,876
-<font color=#FAFF00 size="20">MONEY </font><font color="#FFFFFF" size="20">AROUND.</font>
-
-2
-00:00:17,876 --> 00:00:18,580
-<font color="#FFFFFF" size="20">MONEY</font><font color=#FAFF00 size="20"> AROUND.</font>
+00:00:20,350 --> 00:00:21,969
+DO PAYROLL FOR MANY BUSINESSES,
 

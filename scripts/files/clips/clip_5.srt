@@ -1,12 +1,4 @@
 1
-00:00:07,548 --> 00:00:07,669
-<font color=#FAFF00 size="20">BUT </font><font color="#FFFFFF" size="20">THERE'S IMPORTANT</font>
-
-2
-00:00:07,669 --> 00:00:07,990
-<font color="#FFFFFF" size="20">BUT</font><font color=#FAFF00 size="20"> THERE'S </font><font color="#FFFFFF" size="20">IMPORTANT</font>
-
-3
-00:00:07,990 --> 00:00:08,492
-<font color="#FFFFFF" size="20">BUT THERE'S</font><font color=#FAFF00 size="20"> IMPORTANT</font>
+00:00:07,440 --> 00:00:09,539
+BUT THERE'S IMPORTANT DOWNSTREAM CONSEQUENCES
 

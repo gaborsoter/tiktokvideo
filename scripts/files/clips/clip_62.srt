@@ -1,44 +1,4 @@
 1
-00:01:35,406 --> 00:01:35,567
-<font color=#FAFF00 size="20">THEN </font><font color="#FFFFFF" size="20">WE'RE GOING TO HAVE A REAL CRISIS ON OUR HANDS,</font>
-
-2
-00:01:35,567 --> 00:01:35,748
-<font color="#FFFFFF" size="20">THEN</font><font color=#FAFF00 size="20"> WE'RE </font><font color="#FFFFFF" size="20">GOING TO HAVE A REAL CRISIS ON OUR HANDS,</font>
-
-3
-00:01:35,748 --> 00:01:35,869
-<font color="#FFFFFF" size="20">THEN WE'RE</font><font color=#FAFF00 size="20"> GOING </font><font color="#FFFFFF" size="20">TO HAVE A REAL CRISIS ON OUR HANDS,</font>
-
-4
-00:01:35,869 --> 00:01:35,929
-<font color="#FFFFFF" size="20">THEN WE'RE GOING</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">HAVE A REAL CRISIS ON OUR HANDS,</font>
-
-5
-00:01:35,929 --> 00:01:36,030
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO</font><font color=#FAFF00 size="20"> HAVE </font><font color="#FFFFFF" size="20">A REAL CRISIS ON OUR HANDS,</font>
-
-6
-00:01:36,030 --> 00:01:36,070
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO HAVE</font><font color=#FAFF00 size="20"> A </font><font color="#FFFFFF" size="20">REAL CRISIS ON OUR HANDS,</font>
-
-7
-00:01:36,070 --> 00:01:36,311
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO HAVE A</font><font color=#FAFF00 size="20"> REAL </font><font color="#FFFFFF" size="20">CRISIS ON OUR HANDS,</font>
-
-8
-00:01:36,311 --> 00:01:36,673
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO HAVE A REAL</font><font color=#FAFF00 size="20"> CRISIS </font><font color="#FFFFFF" size="20">ON OUR HANDS,</font>
-
-9
-00:01:36,673 --> 00:01:36,774
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO HAVE A REAL CRISIS</font><font color=#FAFF00 size="20"> ON </font><font color="#FFFFFF" size="20">OUR HANDS,</font>
-
-10
-00:01:36,774 --> 00:01:36,895
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO HAVE A REAL CRISIS ON</font><font color=#FAFF00 size="20"> OUR </font><font color="#FFFFFF" size="20">HANDS,</font>
-
-11
-00:01:36,895 --> 00:01:37,297
-<font color="#FFFFFF" size="20">THEN WE'RE GOING TO HAVE A REAL CRISIS ON OUR</font><font color=#FAFF00 size="20"> HANDS,</font>
+00:01:32,545 --> 00:01:33,825
+OR SEVENTY TWO HOURS OF
 

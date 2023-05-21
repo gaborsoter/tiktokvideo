@@ -1,24 +1,4 @@
 1
-00:00:40,094 --> 00:00:40,174
-<font color=#FAFF00 size="20">AND </font><font color="#FFFFFF" size="20">OTHER PLACES, SO THEY WILL</font>
-
-2
-00:00:40,174 --> 00:00:40,335
-<font color="#FFFFFF" size="20">AND</font><font color=#FAFF00 size="20"> OTHER </font><font color="#FFFFFF" size="20">PLACES, SO THEY WILL</font>
-
-3
-00:00:40,335 --> 00:00:40,717
-<font color="#FFFFFF" size="20">AND OTHER</font><font color=#FAFF00 size="20"> PLACES, </font><font color="#FFFFFF" size="20">SO THEY WILL</font>
-
-4
-00:00:40,717 --> 00:00:41,240
-<font color="#FFFFFF" size="20">AND OTHER PLACES,</font><font color=#FAFF00 size="20"> SO </font><font color="#FFFFFF" size="20">THEY WILL</font>
-
-5
-00:00:41,240 --> 00:00:41,380
-<font color="#FFFFFF" size="20">AND OTHER PLACES, SO</font><font color=#FAFF00 size="20"> THEY </font><font color="#FFFFFF" size="20">WILL</font>
-
-6
-00:00:41,380 --> 00:00:41,581
-<font color="#FFFFFF" size="20">AND OTHER PLACES, SO THEY</font><font color=#FAFF00 size="20"> WILL</font>
+00:00:41,274 --> 00:00:42,554
+WILL BE ABLE TO KINDA
 

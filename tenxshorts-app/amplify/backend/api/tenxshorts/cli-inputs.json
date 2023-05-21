@@ -13,6 +13,45 @@
           "delete"
         ]
       }
+    },
+    "/transcribe": {
+      "name": "/transcribe",
+      "lambdaFunction": "transcribe",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    },
+    "/createSubtitle": {
+      "name": "/createSubtitle",
+      "lambdaFunction": "createSubtitleTrigger",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    },
+    "/burnSubtitles": {
+      "name": "/burnSubtitles",
+      "lambdaFunction": "burnSubtitlesTrigger",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
     }
   }
 }

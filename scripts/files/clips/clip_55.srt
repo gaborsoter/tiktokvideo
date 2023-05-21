@@ -1,20 +1,4 @@
 1
-00:01:23,080 --> 00:01:23,200
-<font color=#FAFF00 size="20">EVERY </font><font color="#FFFFFF" size="20">DEPOSITOR NEEDS TO GET</font>
-
-2
-00:01:23,200 --> 00:01:24,205
-<font color="#FFFFFF" size="20">EVERY</font><font color=#FAFF00 size="20"> DEPOSITOR </font><font color="#FFFFFF" size="20">NEEDS TO GET</font>
-
-3
-00:01:24,205 --> 00:01:24,366
-<font color="#FFFFFF" size="20">EVERY DEPOSITOR</font><font color=#FAFF00 size="20"> NEEDS </font><font color="#FFFFFF" size="20">TO GET</font>
-
-4
-00:01:24,366 --> 00:01:24,466
-<font color="#FFFFFF" size="20">EVERY DEPOSITOR NEEDS</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">GET</font>
-
-5
-00:01:24,466 --> 00:01:24,607
-<font color="#FFFFFF" size="20">EVERY DEPOSITOR NEEDS TO</font><font color=#FAFF00 size="20"> GET</font>
+00:01:25,370 --> 00:01:25,609
+THEIR MONEY.
 

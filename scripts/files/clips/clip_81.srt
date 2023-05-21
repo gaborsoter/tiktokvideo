@@ -1,40 +1,4 @@
 1
-00:02:11,986 --> 00:02:12,308
-<font color=#FAFF00 size="20">WHATEVER </font><font color="#FFFFFF" size="20">THE DELTA IS, WE'LL MAKE IT UP TO YOU.</font>
-
-2
-00:02:12,308 --> 00:02:12,408
-<font color="#FFFFFF" size="20">WHATEVER</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">DELTA IS, WE'LL MAKE IT UP TO YOU.</font>
-
-3
-00:02:12,408 --> 00:02:12,791
-<font color="#FFFFFF" size="20">WHATEVER THE</font><font color=#FAFF00 size="20"> DELTA </font><font color="#FFFFFF" size="20">IS, WE'LL MAKE IT UP TO YOU.</font>
-
-4
-00:02:12,791 --> 00:02:12,952
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA</font><font color=#FAFF00 size="20"> IS, </font><font color="#FFFFFF" size="20">WE'LL MAKE IT UP TO YOU.</font>
-
-5
-00:02:12,952 --> 00:02:13,153
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA IS,</font><font color=#FAFF00 size="20"> WE'LL </font><font color="#FFFFFF" size="20">MAKE IT UP TO YOU.</font>
-
-6
-00:02:13,153 --> 00:02:13,334
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA IS, WE'LL</font><font color=#FAFF00 size="20"> MAKE </font><font color="#FFFFFF" size="20">IT UP TO YOU.</font>
-
-7
-00:02:13,334 --> 00:02:13,455
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA IS, WE'LL MAKE</font><font color=#FAFF00 size="20"> IT </font><font color="#FFFFFF" size="20">UP TO YOU.</font>
-
-8
-00:02:13,455 --> 00:02:13,555
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA IS, WE'LL MAKE IT</font><font color=#FAFF00 size="20"> UP </font><font color="#FFFFFF" size="20">TO YOU.</font>
-
-9
-00:02:13,555 --> 00:02:13,696
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA IS, WE'LL MAKE IT UP</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">YOU.</font>
-
-10
-00:02:13,696 --> 00:02:14,280
-<font color="#FFFFFF" size="20">WHATEVER THE DELTA IS, WE'LL MAKE IT UP TO</font><font color=#FAFF00 size="20"> YOU.</font>
+00:02:00,819 --> 00:02:02,245
+HAS TO SAY, WE WILL GUARANTEE
 

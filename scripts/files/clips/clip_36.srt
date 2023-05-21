@@ -1,16 +1,4 @@
 1
-00:00:56,368 --> 00:00:56,951
-<font color=#FAFF00 size="20">VERY </font><font color="#FFFFFF" size="20">SIGNIFICANT TRICKLING EFFECTS.</font>
-
-2
-00:00:56,951 --> 00:00:57,455
-<font color="#FFFFFF" size="20">VERY</font><font color=#FAFF00 size="20"> SIGNIFICANT </font><font color="#FFFFFF" size="20">TRICKLING EFFECTS.</font>
-
-3
-00:00:57,455 --> 00:00:57,837
-<font color="#FFFFFF" size="20">VERY SIGNIFICANT</font><font color=#FAFF00 size="20"> TRICKLING </font><font color="#FFFFFF" size="20">EFFECTS.</font>
-
-4
-00:00:57,837 --> 00:00:58,240
-<font color="#FFFFFF" size="20">VERY SIGNIFICANT TRICKLING</font><font color=#FAFF00 size="20"> EFFECTS.</font>
+00:00:58,225 --> 00:00:59,585
+IMPORTANTLY, LIKE WE SAW IN
 

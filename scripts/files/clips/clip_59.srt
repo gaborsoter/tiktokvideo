@@ -1,12 +1,4 @@
 1
-00:01:28,412 --> 00:01:28,695
-<font color=#FAFF00 size="20">EARLY </font><font color="#FFFFFF" size="20">NEXT WEEK.</font>
-
-2
-00:01:28,695 --> 00:01:28,917
-<font color="#FFFFFF" size="20">EARLY</font><font color=#FAFF00 size="20"> NEXT </font><font color="#FFFFFF" size="20">WEEK.</font>
-
-3
-00:01:28,917 --> 00:01:29,340
-<font color="#FFFFFF" size="20">EARLY NEXT</font><font color=#FAFF00 size="20"> WEEK.</font>
+00:01:28,890 --> 00:01:29,769
+AND IF THAT MONEY IS
 

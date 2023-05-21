@@ -1,16 +1,4 @@
 1
-00:02:17,739 --> 00:02:17,861
-<font color=#FAFF00 size="20">TO </font><font color="#FFFFFF" size="20">GET PAID TOMORROW.</font>
-
-2
-00:02:17,861 --> 00:02:18,024
-<font color="#FFFFFF" size="20">TO</font><font color=#FAFF00 size="20"> GET </font><font color="#FFFFFF" size="20">PAID TOMORROW.</font>
-
-3
-00:02:18,024 --> 00:02:18,167
-<font color="#FFFFFF" size="20">TO GET</font><font color=#FAFF00 size="20"> PAID </font><font color="#FFFFFF" size="20">TOMORROW.</font>
-
-4
-00:02:18,167 --> 00:02:18,800
-<font color="#FFFFFF" size="20">TO GET PAID</font><font color=#FAFF00 size="20"> TOMORROW.</font>
+00:02:07,045 --> 00:02:09,925
+AND SAYS, LET THE PORTFOLIO OF ASSETS RUN ITS LIFETIME
 

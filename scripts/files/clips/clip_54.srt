@@ -1,12 +1,4 @@
 1
-00:01:22,051 --> 00:01:22,132
-<font color=#FAFF00 size="20">ON </font><font color="#FFFFFF" size="20">THE DOLLAR.</font>
-
-2
-00:01:22,132 --> 00:01:22,233
-<font color="#FFFFFF" size="20">ON</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">DOLLAR.</font>
-
-3
-00:01:22,233 --> 00:01:23,080
-<font color="#FFFFFF" size="20">ON THE</font><font color=#FAFF00 size="20"> DOLLAR.</font>
+00:01:24,409 --> 00:01:25,370
+PAID A HUNDRED PERCENT OF
 

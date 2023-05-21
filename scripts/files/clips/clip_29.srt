@@ -1,24 +1,4 @@
 1
-00:00:45,117 --> 00:00:45,398
-<font color=#FAFF00 size="20">AND </font><font color="#FFFFFF" size="20">GET EVERYONE BACK ON TRACK.</font>
-
-2
-00:00:45,398 --> 00:00:45,519
-<font color="#FFFFFF" size="20">AND</font><font color=#FAFF00 size="20"> GET </font><font color="#FFFFFF" size="20">EVERYONE BACK ON TRACK.</font>
-
-3
-00:00:45,519 --> 00:00:45,781
-<font color="#FFFFFF" size="20">AND GET</font><font color=#FAFF00 size="20"> EVERYONE </font><font color="#FFFFFF" size="20">BACK ON TRACK.</font>
-
-4
-00:00:45,781 --> 00:00:45,984
-<font color="#FFFFFF" size="20">AND GET EVERYONE</font><font color=#FAFF00 size="20"> BACK </font><font color="#FFFFFF" size="20">ON TRACK.</font>
-
-5
-00:00:45,984 --> 00:00:46,106
-<font color="#FFFFFF" size="20">AND GET EVERYONE BACK</font><font color=#FAFF00 size="20"> ON </font><font color="#FFFFFF" size="20">TRACK.</font>
-
-6
-00:00:46,106 --> 00:00:46,920
-<font color="#FFFFFF" size="20">AND GET EVERYONE BACK ON</font><font color=#FAFF00 size="20"> TRACK.</font>
+00:00:46,155 --> 00:00:47,674
+BUT THIS IS HUNDREDS AND
 

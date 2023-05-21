@@ -1,20 +1,4 @@
 1
-00:00:43,309 --> 00:00:43,691
-<font color=#FAFF00 size="20">PAYROLL </font><font color="#FFFFFF" size="20">PROCESSED EARLY NEXT WEEK</font>
-
-2
-00:00:43,691 --> 00:00:44,394
-<font color="#FFFFFF" size="20">PAYROLL</font><font color=#FAFF00 size="20"> PROCESSED </font><font color="#FFFFFF" size="20">EARLY NEXT WEEK</font>
-
-3
-00:00:44,394 --> 00:00:44,655
-<font color="#FFFFFF" size="20">PAYROLL PROCESSED</font><font color=#FAFF00 size="20"> EARLY </font><font color="#FFFFFF" size="20">NEXT WEEK</font>
-
-4
-00:00:44,655 --> 00:00:44,876
-<font color="#FFFFFF" size="20">PAYROLL PROCESSED EARLY</font><font color=#FAFF00 size="20"> NEXT </font><font color="#FFFFFF" size="20">WEEK</font>
-
-5
-00:00:44,876 --> 00:00:45,117
-<font color="#FFFFFF" size="20">PAYROLL PROCESSED EARLY NEXT</font><font color=#FAFF00 size="20"> WEEK</font>
+00:00:44,234 --> 00:00:46,155
+NEXT WEEK AND AND GET EVERYONE BACK ON TRACK.
 

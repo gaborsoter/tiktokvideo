@@ -1,24 +1,4 @@
 1
-00:01:59,169 --> 00:01:59,370
-<font color=#FAFF00 size="20">HATE </font><font color="#FFFFFF" size="20">THE FEDERAL GOVERNMENT HAVING A</font>
-
-2
-00:01:59,370 --> 00:01:59,470
-<font color="#FFFFFF" size="20">HATE</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">FEDERAL GOVERNMENT HAVING A</font>
-
-3
-00:01:59,470 --> 00:01:59,752
-<font color="#FFFFFF" size="20">HATE THE</font><font color=#FAFF00 size="20"> FEDERAL </font><font color="#FFFFFF" size="20">GOVERNMENT HAVING A</font>
-
-4
-00:01:59,752 --> 00:02:00,033
-<font color="#FFFFFF" size="20">HATE THE FEDERAL</font><font color=#FAFF00 size="20"> GOVERNMENT </font><font color="#FFFFFF" size="20">HAVING A</font>
-
-5
-00:02:00,033 --> 00:02:00,234
-<font color="#FFFFFF" size="20">HATE THE FEDERAL GOVERNMENT</font><font color=#FAFF00 size="20"> HAVING </font><font color="#FFFFFF" size="20">A</font>
-
-6
-00:02:00,234 --> 00:02:00,294
-<font color="#FFFFFF" size="20">HATE THE FEDERAL GOVERNMENT HAVING</font><font color=#FAFF00 size="20"> A</font>
+00:01:46,609 --> 00:01:48,125
+AND SO WHAT HAS TO HAPPEN,
 

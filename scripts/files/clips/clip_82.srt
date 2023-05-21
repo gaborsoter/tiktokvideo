@@ -1,24 +1,4 @@
 1
-00:02:14,280 --> 00:02:14,360
-<font color=#FAFF00 size="20">BUT </font><font color="#FFFFFF" size="20">WE NEED TO MAKE SURE</font>
-
-2
-00:02:14,360 --> 00:02:14,440
-<font color="#FFFFFF" size="20">BUT</font><font color=#FAFF00 size="20"> WE </font><font color="#FFFFFF" size="20">NEED TO MAKE SURE</font>
-
-3
-00:02:14,440 --> 00:02:14,581
-<font color="#FFFFFF" size="20">BUT WE</font><font color=#FAFF00 size="20"> NEED </font><font color="#FFFFFF" size="20">TO MAKE SURE</font>
-
-4
-00:02:14,581 --> 00:02:14,682
-<font color="#FFFFFF" size="20">BUT WE NEED</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">MAKE SURE</font>
-
-5
-00:02:14,682 --> 00:02:14,843
-<font color="#FFFFFF" size="20">BUT WE NEED TO</font><font color=#FAFF00 size="20"> MAKE </font><font color="#FFFFFF" size="20">SURE</font>
-
-6
-00:02:14,843 --> 00:02:15,004
-<font color="#FFFFFF" size="20">BUT WE NEED TO MAKE</font><font color=#FAFF00 size="20"> SURE</font>
+00:02:02,245 --> 00:02:03,685
+A HUNDRED PERCENT OF THOSE DEPOSITS
 

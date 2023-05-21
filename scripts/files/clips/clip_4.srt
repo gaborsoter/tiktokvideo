@@ -1,20 +1,4 @@
 1
-00:00:06,384 --> 00:00:06,564
-<font color=#FAFF00 size="20">BEING </font><font color="#FFFFFF" size="20">ABLE TO MAKE PAYROLL,</font>
-
-2
-00:00:06,564 --> 00:00:06,705
-<font color="#FFFFFF" size="20">BEING</font><font color=#FAFF00 size="20"> ABLE </font><font color="#FFFFFF" size="20">TO MAKE PAYROLL,</font>
-
-3
-00:00:06,705 --> 00:00:06,785
-<font color="#FFFFFF" size="20">BEING ABLE</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">MAKE PAYROLL,</font>
-
-4
-00:00:06,785 --> 00:00:06,946
-<font color="#FFFFFF" size="20">BEING ABLE TO</font><font color=#FAFF00 size="20"> MAKE </font><font color="#FFFFFF" size="20">PAYROLL,</font>
-
-5
-00:00:06,946 --> 00:00:07,548
-<font color="#FFFFFF" size="20">BEING ABLE TO MAKE</font><font color=#FAFF00 size="20"> PAYROLL,</font>
+00:00:06,160 --> 00:00:07,440
+NOT BEING ABLE TO MAKE PAYROLL.
 

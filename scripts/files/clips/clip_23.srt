@@ -1,12 +1,4 @@
 1
-00:00:36,534 --> 00:00:36,836
-<font color=#FAFF00 size="20">SILICON </font><font color="#FFFFFF" size="20">VALLEY BANK.</font>
-
-2
-00:00:36,836 --> 00:00:37,077
-<font color="#FFFFFF" size="20">SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">BANK.</font>
-
-3
-00:00:37,077 --> 00:00:37,400
-<font color="#FFFFFF" size="20">SILICON VALLEY</font><font color=#FAFF00 size="20"> BANK.</font>
+00:00:37,289 --> 00:00:38,649
+FORTUNATELY, THEY ANNOUNCED THAT THEY
 

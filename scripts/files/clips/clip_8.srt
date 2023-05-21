@@ -1,20 +1,4 @@
 1
-00:00:10,942 --> 00:00:11,103
-<font color=#FAFF00 size="20">THERE </font><font color="#FFFFFF" size="20">ARE PAYMENT PROCESSING COMPANIES</font>
-
-2
-00:00:11,103 --> 00:00:11,224
-<font color="#FFFFFF" size="20">THERE</font><font color=#FAFF00 size="20"> ARE </font><font color="#FFFFFF" size="20">PAYMENT PROCESSING COMPANIES</font>
-
-3
-00:00:11,224 --> 00:00:11,625
-<font color="#FFFFFF" size="20">THERE ARE</font><font color=#FAFF00 size="20"> PAYMENT </font><font color="#FFFFFF" size="20">PROCESSING COMPANIES</font>
-
-4
-00:00:11,625 --> 00:00:12,249
-<font color="#FFFFFF" size="20">THERE ARE PAYMENT</font><font color=#FAFF00 size="20"> PROCESSING </font><font color="#FFFFFF" size="20">COMPANIES</font>
-
-5
-00:00:12,249 --> 00:00:12,671
-<font color="#FFFFFF" size="20">THERE ARE PAYMENT PROCESSING</font><font color=#FAFF00 size="20"> COMPANIES</font>
+00:00:13,664 --> 00:00:15,445
+THAT USE SILICON VALLEY BANK
 

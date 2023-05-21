@@ -1,20 +1,4 @@
 1
-00:01:03,863 --> 00:01:04,826
-<font color=#FAFF00 size="20">IS </font><font color="#FFFFFF" size="20">THE CONTAGION OF PANIC,</font>
-
-2
-00:01:04,826 --> 00:01:05,007
-<font color="#FFFFFF" size="20">IS</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">CONTAGION OF PANIC,</font>
-
-3
-00:01:05,007 --> 00:01:05,529
-<font color="#FFFFFF" size="20">IS THE</font><font color=#FAFF00 size="20"> CONTAGION </font><font color="#FFFFFF" size="20">OF PANIC,</font>
-
-4
-00:01:05,529 --> 00:01:05,649
-<font color="#FFFFFF" size="20">IS THE CONTAGION</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">PANIC,</font>
-
-5
-00:01:05,649 --> 00:01:06,432
-<font color="#FFFFFF" size="20">IS THE CONTAGION OF</font><font color=#FAFF00 size="20"> PANIC,</font>
+00:01:05,584 --> 00:01:07,140
+WHERE PEOPLE SAY IF THERE
 

@@ -1,12 +1,4 @@
 1
-00:00:53,730 --> 00:00:53,891
-<font color=#FAFF00 size="20">PAY </font><font color="#FFFFFF" size="20">THEIR EMPLOYEES.</font>
-
-2
-00:00:53,891 --> 00:00:54,052
-<font color="#FFFFFF" size="20">PAY</font><font color=#FAFF00 size="20"> THEIR </font><font color="#FFFFFF" size="20">EMPLOYEES.</font>
-
-3
-00:00:54,052 --> 00:00:55,040
-<font color="#FFFFFF" size="20">PAY THEIR</font><font color=#FAFF00 size="20"> EMPLOYEES.</font>
+00:00:54,030 --> 00:00:55,630
+YOU CAN START TO SEE
 

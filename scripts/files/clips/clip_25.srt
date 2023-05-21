@@ -1,24 +1,4 @@
 1
-00:00:38,646 --> 00:00:38,787
-<font color=#FAFF00 size="20">THEY </font><font color="#FFFFFF" size="20">ALSO HAVE MONEY AT JPMORGAN</font>
-
-2
-00:00:38,787 --> 00:00:39,028
-<font color="#FFFFFF" size="20">THEY</font><font color=#FAFF00 size="20"> ALSO </font><font color="#FFFFFF" size="20">HAVE MONEY AT JPMORGAN</font>
-
-3
-00:00:39,028 --> 00:00:39,169
-<font color="#FFFFFF" size="20">THEY ALSO</font><font color=#FAFF00 size="20"> HAVE </font><font color="#FFFFFF" size="20">MONEY AT JPMORGAN</font>
-
-4
-00:00:39,169 --> 00:00:39,390
-<font color="#FFFFFF" size="20">THEY ALSO HAVE</font><font color=#FAFF00 size="20"> MONEY </font><font color="#FFFFFF" size="20">AT JPMORGAN</font>
-
-5
-00:00:39,390 --> 00:00:39,531
-<font color="#FFFFFF" size="20">THEY ALSO HAVE MONEY</font><font color=#FAFF00 size="20"> AT </font><font color="#FFFFFF" size="20">JPMORGAN</font>
-
-6
-00:00:39,531 --> 00:00:40,094
-<font color="#FFFFFF" size="20">THEY ALSO HAVE MONEY AT</font><font color=#FAFF00 size="20"> JPMORGAN</font>
+00:00:39,929 --> 00:00:41,274
+AND OTHER PLACES SO THEY
 

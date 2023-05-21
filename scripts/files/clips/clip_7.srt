@@ -1,8 +1,4 @@
 1
-00:00:10,400 --> 00:00:10,520
-<font color=#FAFF00 size="20">FOR </font><font color="#FFFFFF" size="20">EXAMPLE,</font>
-
-2
-00:00:10,520 --> 00:00:10,942
-<font color="#FFFFFF" size="20">FOR</font><font color=#FAFF00 size="20"> EXAMPLE,</font>
+00:00:11,585 --> 00:00:13,605
+PROCESSING COMPANIES IN SILICON VALLEY
 

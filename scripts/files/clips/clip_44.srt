@@ -1,24 +1,4 @@
 1
-00:01:08,359 --> 00:01:08,439
-<font color=#FAFF00 size="20">IN </font><font color="#FFFFFF" size="20">THE THINGS THAT I THOUGHT</font>
-
-2
-00:01:08,439 --> 00:01:08,519
-<font color="#FFFFFF" size="20">IN</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">THINGS THAT I THOUGHT</font>
-
-3
-00:01:08,519 --> 00:01:08,740
-<font color="#FFFFFF" size="20">IN THE</font><font color=#FAFF00 size="20"> THINGS </font><font color="#FFFFFF" size="20">THAT I THOUGHT</font>
-
-4
-00:01:08,740 --> 00:01:08,880
-<font color="#FFFFFF" size="20">IN THE THINGS</font><font color=#FAFF00 size="20"> THAT </font><font color="#FFFFFF" size="20">I THOUGHT</font>
-
-5
-00:01:08,880 --> 00:01:08,981
-<font color="#FFFFFF" size="20">IN THE THINGS THAT</font><font color=#FAFF00 size="20"> I </font><font color="#FFFFFF" size="20">THOUGHT</font>
-
-6
-00:01:08,981 --> 00:01:09,603
-<font color="#FFFFFF" size="20">IN THE THINGS THAT I</font><font color=#FAFF00 size="20"> THOUGHT</font>
+00:01:09,780 --> 00:01:12,019
+BEFORE, I START TO HAVE
 

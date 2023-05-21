@@ -1,24 +1,4 @@
 1
-00:00:46,920 --> 00:00:47,020
-<font color=#FAFF00 size="20">BUT </font><font color="#FFFFFF" size="20">THIS IS HUNDREDS AND POTENTIALLY</font>
-
-2
-00:00:47,020 --> 00:00:47,120
-<font color="#FFFFFF" size="20">BUT</font><font color=#FAFF00 size="20"> THIS </font><font color="#FFFFFF" size="20">IS HUNDREDS AND POTENTIALLY</font>
-
-3
-00:00:47,120 --> 00:00:47,281
-<font color="#FFFFFF" size="20">BUT THIS</font><font color=#FAFF00 size="20"> IS </font><font color="#FFFFFF" size="20">HUNDREDS AND POTENTIALLY</font>
-
-4
-00:00:47,281 --> 00:00:47,682
-<font color="#FFFFFF" size="20">BUT THIS IS</font><font color=#FAFF00 size="20"> HUNDREDS </font><font color="#FFFFFF" size="20">AND POTENTIALLY</font>
-
-5
-00:00:47,682 --> 00:00:47,803
-<font color="#FFFFFF" size="20">BUT THIS IS HUNDREDS</font><font color=#FAFF00 size="20"> AND </font><font color="#FFFFFF" size="20">POTENTIALLY</font>
-
-6
-00:00:47,803 --> 00:00:48,485
-<font color="#FFFFFF" size="20">BUT THIS IS HUNDREDS AND</font><font color=#FAFF00 size="20"> POTENTIALLY</font>
+00:00:47,674 --> 00:00:49,710
+POTENTIALLY THOUSANDS OF COMPANIES THAT
 

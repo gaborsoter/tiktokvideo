@@ -1,8 +1,4 @@
 1
-00:00:08,492 --> 00:00:09,114
-<font color=#FAFF00 size="20">DOWNSTREAM </font><font color="#FFFFFF" size="20">CONSEQUENCES.</font>
-
-2
-00:00:09,114 --> 00:00:10,400
-<font color="#FFFFFF" size="20">DOWNSTREAM</font><font color=#FAFF00 size="20"> CONSEQUENCES.</font>
+00:00:10,224 --> 00:00:11,585
+FOR EXAMPLE, THERE ARE PAYMENT
 

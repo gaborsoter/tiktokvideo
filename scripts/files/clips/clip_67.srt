@@ -1,16 +1,4 @@
 1
-00:01:45,964 --> 00:01:46,105
-<font color=#FAFF00 size="20">CAUSE </font><font color="#FFFFFF" size="20">A MASSIVE RUN.</font>
-
-2
-00:01:46,105 --> 00:01:46,186
-<font color="#FFFFFF" size="20">CAUSE</font><font color=#FAFF00 size="20"> A </font><font color="#FFFFFF" size="20">MASSIVE RUN.</font>
-
-3
-00:01:46,186 --> 00:01:46,672
-<font color="#FFFFFF" size="20">CAUSE A</font><font color=#FAFF00 size="20"> MASSIVE </font><font color="#FFFFFF" size="20">RUN.</font>
-
-4
-00:01:46,672 --> 00:01:47,240
-<font color="#FFFFFF" size="20">CAUSE A MASSIVE</font><font color=#FAFF00 size="20"> RUN.</font>
+00:01:37,665 --> 00:01:38,784
+WILL SEE A LOT OF PEOPLE
 

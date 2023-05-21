@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "function": {
+      "burnSubtitles": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

@@ -34,8 +34,6 @@ for phrase in phrases:
     sentences.append(sentence)
 
 
-
-
 # Manipulating the GPT-3 output
 array = np.array(sentences).flatten()
 

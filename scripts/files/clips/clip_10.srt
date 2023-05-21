@@ -1,20 +1,4 @@
 1
-00:00:14,238 --> 00:00:14,580
-<font color=#FAFF00 size="20">SILICON </font><font color="#FFFFFF" size="20">VALLEY BANK TO STORE</font>
-
-2
-00:00:14,580 --> 00:00:14,881
-<font color="#FFFFFF" size="20">SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">BANK TO STORE</font>
-
-3
-00:00:14,881 --> 00:00:15,665
-<font color="#FFFFFF" size="20">SILICON VALLEY</font><font color=#FAFF00 size="20"> BANK </font><font color="#FFFFFF" size="20">TO STORE</font>
-
-4
-00:00:15,665 --> 00:00:16,228
-<font color="#FFFFFF" size="20">SILICON VALLEY BANK</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">STORE</font>
-
-5
-00:00:16,228 --> 00:00:16,489
-<font color="#FFFFFF" size="20">SILICON VALLEY BANK TO</font><font color=#FAFF00 size="20"> STORE</font>
+00:00:17,184 --> 00:00:18,350
+TO MOVE MONEY AROUND.
 

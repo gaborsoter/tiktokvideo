@@ -1,20 +1,20 @@
 1
-00:00:00,100 --> 00:00:00,160
+00:00:00,000 --> 00:00:00,080
 <font color=#FAFF00 size="20">I </font><font color="#FFFFFF" size="20">THINK IT'S IMPORTANT TO</font>
 
 2
-00:00:00,160 --> 00:00:00,321
+00:00:00,080 --> 00:00:00,320
 <font color="#FFFFFF" size="20">I</font><font color=#FAFF00 size="20"> THINK </font><font color="#FFFFFF" size="20">IT'S IMPORTANT TO</font>
 
 3
-00:00:00,321 --> 00:00:00,481
+00:00:00,320 --> 00:00:00,480
 <font color="#FFFFFF" size="20">I THINK</font><font color=#FAFF00 size="20"> IT'S </font><font color="#FFFFFF" size="20">IMPORTANT TO</font>
 
 4
-00:00:00,481 --> 00:00:00,903
+00:00:00,480 --> 00:00:00,880
 <font color="#FFFFFF" size="20">I THINK IT'S</font><font color=#FAFF00 size="20"> IMPORTANT </font><font color="#FFFFFF" size="20">TO</font>
 
 5
-00:00:00,903 --> 00:00:01,023
+00:00:00,880 --> 00:00:01,040
 <font color="#FFFFFF" size="20">I THINK IT'S IMPORTANT</font><font color=#FAFF00 size="20"> TO</font>
 

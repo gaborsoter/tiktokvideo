@@ -1,20 +1,4 @@
 1
-00:00:02,971 --> 00:00:03,332
-<font color=#FAFF00 size="20">ABOUT </font><font color="#FFFFFF" size="20">A COUPLE HUNDRED TECH</font>
-
-2
-00:00:03,332 --> 00:00:03,954
-<font color="#FFFFFF" size="20">ABOUT</font><font color=#FAFF00 size="20"> A </font><font color="#FFFFFF" size="20">COUPLE HUNDRED TECH</font>
-
-3
-00:00:03,954 --> 00:00:04,276
-<font color="#FFFFFF" size="20">ABOUT A</font><font color=#FAFF00 size="20"> COUPLE </font><font color="#FFFFFF" size="20">HUNDRED TECH</font>
-
-4
-00:00:04,276 --> 00:00:04,838
-<font color="#FFFFFF" size="20">ABOUT A COUPLE</font><font color=#FAFF00 size="20"> HUNDRED </font><font color="#FFFFFF" size="20">TECH</font>
-
-5
-00:00:04,838 --> 00:00:05,079
-<font color="#FFFFFF" size="20">ABOUT A COUPLE HUNDRED</font><font color=#FAFF00 size="20"> TECH</font>
+00:00:02,720 --> 00:00:04,719
+JUST ABOUT A COUPLE HUNDRED
 

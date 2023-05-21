@@ -1,36 +1,4 @@
 1
-00:00:23,620 --> 00:00:23,720
-<font color=#FAFF00 size="20">BUT </font><font color="#FFFFFF" size="20">MANY BUSINESSES IN DIFFERENT PARTS OF THE ECONOMY</font>
-
-2
-00:00:23,720 --> 00:00:23,921
-<font color="#FFFFFF" size="20">BUT</font><font color=#FAFF00 size="20"> MANY </font><font color="#FFFFFF" size="20">BUSINESSES IN DIFFERENT PARTS OF THE ECONOMY</font>
-
-3
-00:00:23,921 --> 00:00:24,444
-<font color="#FFFFFF" size="20">BUT MANY</font><font color=#FAFF00 size="20"> BUSINESSES </font><font color="#FFFFFF" size="20">IN DIFFERENT PARTS OF THE ECONOMY</font>
-
-4
-00:00:24,444 --> 00:00:24,544
-<font color="#FFFFFF" size="20">BUT MANY BUSINESSES</font><font color=#FAFF00 size="20"> IN </font><font color="#FFFFFF" size="20">DIFFERENT PARTS OF THE ECONOMY</font>
-
-5
-00:00:24,544 --> 00:00:24,806
-<font color="#FFFFFF" size="20">BUT MANY BUSINESSES IN</font><font color=#FAFF00 size="20"> DIFFERENT </font><font color="#FFFFFF" size="20">PARTS OF THE ECONOMY</font>
-
-6
-00:00:24,806 --> 00:00:24,987
-<font color="#FFFFFF" size="20">BUT MANY BUSINESSES IN DIFFERENT</font><font color=#FAFF00 size="20"> PARTS </font><font color="#FFFFFF" size="20">OF THE ECONOMY</font>
-
-7
-00:00:24,987 --> 00:00:25,047
-<font color="#FFFFFF" size="20">BUT MANY BUSINESSES IN DIFFERENT PARTS</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">THE ECONOMY</font>
-
-8
-00:00:25,047 --> 00:00:25,147
-<font color="#FFFFFF" size="20">BUT MANY BUSINESSES IN DIFFERENT PARTS OF</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">ECONOMY</font>
-
-9
-00:00:25,147 --> 00:00:25,891
-<font color="#FFFFFF" size="20">BUT MANY BUSINESSES IN DIFFERENT PARTS OF THE</font><font color=#FAFF00 size="20"> ECONOMY</font>
+00:00:26,125 --> 00:00:27,964
+STORE THEIR CASH AT SILICON VALLEY BANK
 

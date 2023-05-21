@@ -1,20 +1,4 @@
 1
-00:02:16,653 --> 00:02:16,794
-<font color=#FAFF00 size="20">FOR </font><font color="#FFFFFF" size="20">ALL OF THESE DEPOSITORS</font>
-
-2
-00:02:16,794 --> 00:02:16,935
-<font color="#FFFFFF" size="20">FOR</font><font color=#FAFF00 size="20"> ALL </font><font color="#FFFFFF" size="20">OF THESE DEPOSITORS</font>
-
-3
-00:02:16,935 --> 00:02:17,015
-<font color="#FFFFFF" size="20">FOR ALL</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">THESE DEPOSITORS</font>
-
-4
-00:02:17,015 --> 00:02:17,176
-<font color="#FFFFFF" size="20">FOR ALL OF</font><font color=#FAFF00 size="20"> THESE </font><font color="#FFFFFF" size="20">DEPOSITORS</font>
-
-5
-00:02:17,176 --> 00:02:17,739
-<font color="#FFFFFF" size="20">FOR ALL OF THESE</font><font color=#FAFF00 size="20"> DEPOSITORS</font>
+00:02:05,685 --> 00:02:07,045
+THE BANK THAT TAKES OVER THIS PORTFOLIO
 

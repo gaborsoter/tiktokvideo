@@ -1,20 +1,16 @@
 1
-00:00:01,023 --> 00:00:01,947
-<font color=#FAFF00 size="20">HIGHLIGHT </font><font color="#FFFFFF" size="20">WHY IT'S NOT JUST</font>
+00:00:01,040 --> 00:00:01,919
+<font color=#FAFF00 size="20">HIGHLIGHT </font><font color="#FFFFFF" size="20">WHY IT'S NOT</font>
 
 2
-00:00:01,947 --> 00:00:02,328
-<font color="#FFFFFF" size="20">HIGHLIGHT</font><font color=#FAFF00 size="20"> WHY </font><font color="#FFFFFF" size="20">IT'S NOT JUST</font>
+00:00:01,919 --> 00:00:02,160
+<font color="#FFFFFF" size="20">HIGHLIGHT</font><font color=#FAFF00 size="20"> WHY </font><font color="#FFFFFF" size="20">IT'S NOT</font>
 
 3
-00:00:02,328 --> 00:00:02,509
-<font color="#FFFFFF" size="20">HIGHLIGHT WHY</font><font color=#FAFF00 size="20"> IT'S </font><font color="#FFFFFF" size="20">NOT JUST</font>
+00:00:02,160 --> 00:00:02,480
+<font color="#FFFFFF" size="20">HIGHLIGHT WHY</font><font color=#FAFF00 size="20"> IT'S </font><font color="#FFFFFF" size="20">NOT</font>
 
 4
-00:00:02,509 --> 00:00:02,710
-<font color="#FFFFFF" size="20">HIGHLIGHT WHY IT'S</font><font color=#FAFF00 size="20"> NOT </font><font color="#FFFFFF" size="20">JUST</font>
-
-5
-00:00:02,710 --> 00:00:02,971
-<font color="#FFFFFF" size="20">HIGHLIGHT WHY IT'S NOT</font><font color=#FAFF00 size="20"> JUST</font>
+00:00:02,480 --> 00:00:02,720
+<font color="#FFFFFF" size="20">HIGHLIGHT WHY IT'S</font><font color=#FAFF00 size="20"> NOT</font>
 

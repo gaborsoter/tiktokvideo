@@ -1,24 +1,4 @@
 1
-00:01:53,163 --> 00:01:53,424
-<font color=#FAFF00 size="20">THIS </font><font color="#FFFFFF" size="20">WEEKEND, AND THAT THE FEDERAL</font>
-
-2
-00:01:53,424 --> 00:01:54,448
-<font color="#FFFFFF" size="20">THIS</font><font color=#FAFF00 size="20"> WEEKEND, </font><font color="#FFFFFF" size="20">AND THAT THE FEDERAL</font>
-
-3
-00:01:54,448 --> 00:01:54,568
-<font color="#FFFFFF" size="20">THIS WEEKEND,</font><font color=#FAFF00 size="20"> AND </font><font color="#FFFFFF" size="20">THAT THE FEDERAL</font>
-
-4
-00:01:54,568 --> 00:01:54,709
-<font color="#FFFFFF" size="20">THIS WEEKEND, AND</font><font color=#FAFF00 size="20"> THAT </font><font color="#FFFFFF" size="20">THE FEDERAL</font>
-
-5
-00:01:54,709 --> 00:01:54,850
-<font color="#FFFFFF" size="20">THIS WEEKEND, AND THAT</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">FEDERAL</font>
-
-6
-00:01:54,850 --> 00:01:55,211
-<font color="#FFFFFF" size="20">THIS WEEKEND, AND THAT THE</font><font color=#FAFF00 size="20"> FEDERAL</font>
+00:01:42,530 --> 00:01:43,650
+OF SECURITY THAT'S NOT
 

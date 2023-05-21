@@ -1,20 +1,4 @@
 1
-00:00:31,144 --> 00:00:32,048
-<font color=#FAFF00 size="20">RIPPLING, </font><font color="#FFFFFF" size="20">ONE OF THOSE COMPANIES,</font>
-
-2
-00:00:32,048 --> 00:00:32,149
-<font color="#FFFFFF" size="20">RIPPLING,</font><font color=#FAFF00 size="20"> ONE </font><font color="#FFFFFF" size="20">OF THOSE COMPANIES,</font>
-
-3
-00:00:32,149 --> 00:00:32,209
-<font color="#FFFFFF" size="20">RIPPLING, ONE</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">THOSE COMPANIES,</font>
-
-4
-00:00:32,209 --> 00:00:32,430
-<font color="#FFFFFF" size="20">RIPPLING, ONE OF</font><font color=#FAFF00 size="20"> THOSE </font><font color="#FFFFFF" size="20">COMPANIES,</font>
-
-5
-00:00:32,430 --> 00:00:33,315
-<font color="#FFFFFF" size="20">RIPPLING, ONE OF THOSE</font><font color=#FAFF00 size="20"> COMPANIES,</font>
+00:00:33,130 --> 00:00:34,810
+COULD NOT HIT THEIR PAYROLL CYCLE
 

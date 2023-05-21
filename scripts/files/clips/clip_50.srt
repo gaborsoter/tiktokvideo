@@ -1,12 +1,4 @@
 1
-00:01:17,389 --> 00:01:17,530
-<font color=#FAFF00 size="20">TO </font><font color="#FFFFFF" size="20">STEP IN,</font>
-
-2
-00:01:17,530 --> 00:01:17,872
-<font color="#FFFFFF" size="20">TO</font><font color=#FAFF00 size="20"> STEP </font><font color="#FFFFFF" size="20">IN,</font>
-
-3
-00:01:17,872 --> 00:01:18,454
-<font color="#FFFFFF" size="20">TO STEP</font><font color=#FAFF00 size="20"> IN,</font>
+00:01:19,415 --> 00:01:20,454
+I DON'T THINK IT'S ABOUT
 

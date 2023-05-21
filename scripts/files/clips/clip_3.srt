@@ -1,20 +1,4 @@
 1
-00:00:05,079 --> 00:00:05,420
-<font color=#FAFF00 size="20">BROS </font><font color="#FFFFFF" size="20">IN SILICON VALLEY NOT</font>
-
-2
-00:00:05,420 --> 00:00:05,520
-<font color="#FFFFFF" size="20">BROS</font><font color=#FAFF00 size="20"> IN </font><font color="#FFFFFF" size="20">SILICON VALLEY NOT</font>
-
-3
-00:00:05,520 --> 00:00:05,902
-<font color="#FFFFFF" size="20">BROS IN</font><font color=#FAFF00 size="20"> SILICON </font><font color="#FFFFFF" size="20">VALLEY NOT</font>
-
-4
-00:00:05,902 --> 00:00:06,243
-<font color="#FFFFFF" size="20">BROS IN SILICON</font><font color=#FAFF00 size="20"> VALLEY </font><font color="#FFFFFF" size="20">NOT</font>
-
-5
-00:00:06,243 --> 00:00:06,384
-<font color="#FFFFFF" size="20">BROS IN SILICON VALLEY</font><font color=#FAFF00 size="20"> NOT</font>
+00:00:04,719 --> 00:00:06,160
+TECH BROS IN SILICON VALLEY
 

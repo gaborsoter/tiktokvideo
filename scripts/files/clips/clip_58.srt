@@ -1,20 +1,4 @@
 1
-00:01:26,999 --> 00:01:27,180
-<font color=#FAFF00 size="20">MADE </font><font color="#FFFFFF" size="20">AVAILABLE TO THEM BY</font>
-
-2
-00:01:27,180 --> 00:01:27,584
-<font color="#FFFFFF" size="20">MADE</font><font color=#FAFF00 size="20"> AVAILABLE </font><font color="#FFFFFF" size="20">TO THEM BY</font>
-
-3
-00:01:27,584 --> 00:01:27,706
-<font color="#FFFFFF" size="20">MADE AVAILABLE</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">THEM BY</font>
-
-4
-00:01:27,706 --> 00:01:28,190
-<font color="#FFFFFF" size="20">MADE AVAILABLE TO</font><font color=#FAFF00 size="20"> THEM </font><font color="#FFFFFF" size="20">BY</font>
-
-5
-00:01:28,190 --> 00:01:28,412
-<font color="#FFFFFF" size="20">MADE AVAILABLE TO THEM</font><font color=#FAFF00 size="20"> BY</font>
+00:01:27,769 --> 00:01:28,890
+BY EARLY NEXT WEEK.
 

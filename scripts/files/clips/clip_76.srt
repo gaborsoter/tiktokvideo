@@ -1,24 +1,4 @@
 1
-00:02:02,444 --> 00:02:02,885
-<font color=#FAFF00 size="20">GUARANTEE </font><font color="#FFFFFF" size="20">100% OF THOSE DEPOSITS TO</font>
-
-2
-00:02:02,885 --> 00:02:03,387
-<font color="#FFFFFF" size="20">GUARANTEE</font><font color=#FAFF00 size="20"> 100% </font><font color="#FFFFFF" size="20">OF THOSE DEPOSITS TO</font>
-
-3
-00:02:03,387 --> 00:02:03,448
-<font color="#FFFFFF" size="20">GUARANTEE 100%</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">THOSE DEPOSITS TO</font>
-
-4
-00:02:03,448 --> 00:02:03,608
-<font color="#FFFFFF" size="20">GUARANTEE 100% OF</font><font color=#FAFF00 size="20"> THOSE </font><font color="#FFFFFF" size="20">DEPOSITS TO</font>
-
-5
-00:02:03,608 --> 00:02:04,472
-<font color="#FFFFFF" size="20">GUARANTEE 100% OF THOSE</font><font color=#FAFF00 size="20"> DEPOSITS </font><font color="#FFFFFF" size="20">TO</font>
-
-6
-00:02:04,472 --> 00:02:04,713
-<font color="#FFFFFF" size="20">GUARANTEE 100% OF THOSE DEPOSITS</font><font color=#FAFF00 size="20"> TO</font>
+00:01:49,724 --> 00:01:51,405
+IS IF SOMEONE TAKES OVER
 

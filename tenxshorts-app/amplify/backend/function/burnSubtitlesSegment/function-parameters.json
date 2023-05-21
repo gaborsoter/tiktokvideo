@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "storage": {
+      "s310xshortsstorageb043c5c4": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": [
+    {
+      "type": "ExternalLayer",
+      "arn": "arn:aws:lambda:eu-west-2:254108557594:layer:ffmpeg:7"
+    },
+    {
+      "type": "ExternalLayer",
+      "arn": "arn:aws:lambda:eu-west-2:254108557594:layer:ffprobe:4"
+    }
+  ]
+}

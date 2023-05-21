@@ -1,28 +1,4 @@
 1
-00:01:13,217 --> 00:01:13,337
-<font color=#FAFF00 size="20">IN </font><font color="#FFFFFF" size="20">THE SOUNDNESS OF THE SYSTEM OVERALL.</font>
-
-2
-00:01:13,337 --> 00:01:13,438
-<font color="#FFFFFF" size="20">IN</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">SOUNDNESS OF THE SYSTEM OVERALL.</font>
-
-3
-00:01:13,438 --> 00:01:13,839
-<font color="#FFFFFF" size="20">IN THE</font><font color=#FAFF00 size="20"> SOUNDNESS </font><font color="#FFFFFF" size="20">OF THE SYSTEM OVERALL.</font>
-
-4
-00:01:13,839 --> 00:01:13,940
-<font color="#FFFFFF" size="20">IN THE SOUNDNESS</font><font color=#FAFF00 size="20"> OF </font><font color="#FFFFFF" size="20">THE SYSTEM OVERALL.</font>
-
-5
-00:01:13,940 --> 00:01:14,062
-<font color="#FFFFFF" size="20">IN THE SOUNDNESS OF</font><font color=#FAFF00 size="20"> THE </font><font color="#FFFFFF" size="20">SYSTEM OVERALL.</font>
-
-6
-00:01:14,062 --> 00:01:14,428
-<font color="#FFFFFF" size="20">IN THE SOUNDNESS OF THE</font><font color=#FAFF00 size="20"> SYSTEM </font><font color="#FFFFFF" size="20">OVERALL.</font>
-
-7
-00:01:14,428 --> 00:01:15,240
-<font color="#FFFFFF" size="20">IN THE SOUNDNESS OF THE SYSTEM</font><font color=#FAFF00 size="20"> OVERALL.</font>
+00:01:14,420 --> 00:01:15,814
+AND THAT'S WHY IT'S SO IMPORTANT
 

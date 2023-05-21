@@ -20,18 +20,15 @@ def list_files(directory):
             print(os.path.join(root, file))
 
 def handler(event, context):
-    #list_files('/opt')
-
     S3_BUCKET = '10xshorts-storage-b043c5c4165946-staging'
     SIGNED_URL_TIMEOUT = 60
 
-    print("Event :", event)
-
+    # Get payload from request
     body = json.loads(event['body'])
-    print(body)
+    filename = body['videoKey']
 
+    # Get user ID from Cognito
     identity_id = event['requestContext']['authorizer']['claims']['cognito:username']
-
     client = boto3.client('cognito-idp')
     user_pool_id = 'eu-west-2_wYUHJ7g30'
     filter = f'sub = "{identity_id}"'
@@ -41,21 +38,26 @@ def handler(event, context):
     )
     user = response['Users'][0]
     user_id = user['Attributes']
-    user_id = next((d['Value'] for d in user_id if d['Name'] == 'address'), None)
+    user_id = next((d['Value'] for d in user_id if d['Name'] == 'address'), None) # Address is the custom attribute that stores the user ID
 
-    print('User ID:', user_id)
-
+    # Get file from S3
     s3 = boto3.client('s3')
 
     s3_source_signed_url = s3.generate_presigned_url('get_object',
-        Params={'Bucket': S3_BUCKET, 'Key': 'private/' + user_id + '/input_old.mp4'},
+        Params={'Bucket': S3_BUCKET, 'Key': 'private/' + user_id + '/' + filename},
         ExpiresIn=SIGNED_URL_TIMEOUT)
     
+    # Convert video to audio
     ffmpeg_cmd = "/opt/bin/ffmpeg -i \"" + s3_source_signed_url + "\" -f wav -ab 160k -ac 1 -ar 16000 -vn -"
     command1 = shlex.split(ffmpeg_cmd)
     p1 = subprocess.run(command1, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
-    resp = s3.put_object(Body=p1.stdout, Bucket=S3_BUCKET, Key="input.wav")
+    # Replace the filename extension with .wav
+    filename_audio = os.path.splitext(filename)[0] + '.wav'
+
+    # Upload audio to S3
+    key = 'private/' + user_id + '/' + filename_audio
+    resp = s3.put_object(Body=p1.stdout, Bucket=S3_BUCKET, Key=key)
 
     response = {}
     response = {

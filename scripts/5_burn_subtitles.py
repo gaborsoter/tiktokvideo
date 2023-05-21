@@ -140,12 +140,12 @@ colour = ["red", "green", "yellow"]
 colour.append("red")
 colour.append("green")
 
-
 # concat subtitles
 
 i = 0
 
-while (os.path.exists("files/clips/clip_"+str(i)+".srt")):
+#while (os.path.exists("files/clips/clip_"+str(i)+".srt")):
+for i in range(0, 1):
     subtitle_path = "files/clips/clip_"+str(i)+".srt"
     #animation_type = random.randint(2, 3)
     animation_type = 3
@@ -165,6 +165,5 @@ while (os.path.exists("files/clips/clip_"+str(i)+".srt")):
     color = "80ff80"
     style = "Alignment="+alignment+",FontName="+fontname+",Outline="+outline+",FontSize="+fontsize+",Shadow="+shadow+",MarginL="+marginL+",MarginR="+marginR+",MarginV="+marginV+",Angle="+angle+", PrimaryColour="+color
     stream = ffmpeg.concat(stream.filter("subtitles", subtitle_path, fontsdir=fonts_dir, force_style=style), audio, v=1, a=1)
-    i += 1
 
 stream.output("files/output.mp4").run(overwrite_output=True)

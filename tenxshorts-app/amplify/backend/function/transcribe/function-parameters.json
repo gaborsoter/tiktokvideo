@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "storage": {
+      "s310xshortsstorageb043c5c4": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": [],
+  "secretNames": [
+    "REPLICATE_API_TOKEN",
+    "deepgram_api_key"
+  ]
+}

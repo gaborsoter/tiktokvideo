@@ -1,20 +1,4 @@
 1
-00:00:55,040 --> 00:00:55,140
-<font color=#FAFF00 size="20">YOU </font><font color="#FFFFFF" size="20">CAN START TO SEE</font>
-
-2
-00:00:55,140 --> 00:00:55,281
-<font color="#FFFFFF" size="20">YOU</font><font color=#FAFF00 size="20"> CAN </font><font color="#FFFFFF" size="20">START TO SEE</font>
-
-3
-00:00:55,281 --> 00:00:55,502
-<font color="#FFFFFF" size="20">YOU CAN</font><font color=#FAFF00 size="20"> START </font><font color="#FFFFFF" size="20">TO SEE</font>
-
-4
-00:00:55,502 --> 00:00:55,643
-<font color="#FFFFFF" size="20">YOU CAN START</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">SEE</font>
-
-5
-00:00:55,643 --> 00:00:55,824
-<font color="#FFFFFF" size="20">YOU CAN START TO</font><font color=#FAFF00 size="20"> SEE</font>
+00:00:55,630 --> 00:00:56,429
+HOW THERE CAN BE VERY
 

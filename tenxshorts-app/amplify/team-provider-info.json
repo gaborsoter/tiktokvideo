@@ -22,11 +22,44 @@
       "function": {
         "audio": {
           "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
-          "s3Key": "amplify-builds/audio-4857557855356467426c-build.zip"
+          "s3Key": "amplify-builds/audio-59325766563335387455-build.zip"
+        },
+        "transcribe": {
+          "secretsPathAmplifyAppId": "d2z1h6fuy2vpsk",
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/transcribe-65384b352f696c465236-build.zip"
+        },
+        "createSubtitle": {
+          "secretsPathAmplifyAppId": "d2z1h6fuy2vpsk",
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/createSubtitle-5664666a62597a6c6f55-build.zip"
+        },
+        "burnSubtitles": {
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/burnSubtitles-2b2b4b6d56422f466537-build.zip"
+        },
+        "createSubtitleBackend": {},
+        "createSubtitleTrigger": {
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/createSubtitleTrigger-2f48486b475454766767-build.zip"
+        },
+        "burnSubtitlesTrigger": {
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/burnSubtitlesTrigger-5a705151465a2f7a4f4f-build.zip"
+        },
+        "burnSubtitlesSegment": {
+          "deploymentBucketName": "amplify-10xshorts-staging-165946-deployment",
+          "s3Key": "amplify-builds/burnSubtitlesSegment-41644a445946446c5879-build.zip"
         }
       },
       "api": {
         "tenxshorts": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2z1h6fuy2vpsk",
+          "type": "manual"
+        }
       }
     }
   }

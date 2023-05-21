@@ -1,20 +1,4 @@
 1
-00:00:16,489 --> 00:00:16,670
-<font color=#FAFF00 size="20">THEIR </font><font color="#FFFFFF" size="20">CAPITAL AND TO MOVE</font>
-
-2
-00:00:16,670 --> 00:00:17,153
-<font color="#FFFFFF" size="20">THEIR</font><font color=#FAFF00 size="20"> CAPITAL </font><font color="#FFFFFF" size="20">AND TO MOVE</font>
-
-3
-00:00:17,153 --> 00:00:17,273
-<font color="#FFFFFF" size="20">THEIR CAPITAL</font><font color=#FAFF00 size="20"> AND </font><font color="#FFFFFF" size="20">TO MOVE</font>
-
-4
-00:00:17,273 --> 00:00:17,414
-<font color="#FFFFFF" size="20">THEIR CAPITAL AND</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">MOVE</font>
-
-5
-00:00:17,414 --> 00:00:17,655
-<font color="#FFFFFF" size="20">THEIR CAPITAL AND TO</font><font color=#FAFF00 size="20"> MOVE</font>
+00:00:18,429 --> 00:00:20,350
+THERE ARE PAYROLL COMPANIES THAT
 

@@ -9,6 +9,30 @@
           ],
           "category": "function",
           "resourceName": "audio"
+        },
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "transcribe"
+        },
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "createSubtitleTrigger"
+        },
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "burnSubtitlesTrigger"
         }
       ],
       "providerPlugin": "awscloudformation",
@@ -60,24 +84,96 @@
       ],
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
+    },
+    "burnSubtitles": {
+      "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "BucketName"
+          ],
+          "category": "storage",
+          "resourceName": "s310xshortsstorageb043c5c4"
+        },
+        {
+          "attributes": [
+            "Name"
+          ],
+          "category": "function",
+          "resourceName": "burnSubtitlesSegment"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "burnSubtitlesSegment": {
+      "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "BucketName"
+          ],
+          "category": "storage",
+          "resourceName": "s310xshortsstorageb043c5c4"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "burnSubtitlesTrigger": {
+      "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "Name"
+          ],
+          "category": "function",
+          "resourceName": "burnSubtitles"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "createSubtitle": {
+      "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "BucketName"
+          ],
+          "category": "storage",
+          "resourceName": "s310xshortsstorageb043c5c4"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "createSubtitleTrigger": {
+      "build": true,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "transcribe": {
+      "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "BucketName"
+          ],
+          "category": "storage",
+          "resourceName": "s310xshortsstorageb043c5c4"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
     }
   },
-  "parameters": {
-    "AMPLIFY_function_audio_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "audio"
-        }
-      ]
-    },
-    "AMPLIFY_function_audio_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "audio"
-        }
-      ]
+  "hosting": {
+    "amplifyhosting": {
+      "providerPlugin": "awscloudformation",
+      "service": "amplifyhosting",
+      "type": "manual"
     }
   },
   "storage": {

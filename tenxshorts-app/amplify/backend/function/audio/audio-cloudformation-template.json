@@ -87,7 +87,7 @@
         },
         "Runtime": "python3.8",
         "Layers": [
-          "arn:aws:lambda:eu-west-2:254108557594:layer:ffmpeg:4"
+          "arn:aws:lambda:eu-west-2:254108557594:layer:ffmpeg:7"
         ],
         "MemorySize": 2240,
         "Timeout": 60

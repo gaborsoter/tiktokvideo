@@ -1,16 +1,4 @@
 1
-00:02:19,170 --> 00:02:19,252
-<font color=#FAFF00 size="20">YOU </font><font color="#FFFFFF" size="20">WANT TO SAY?</font>
-
-2
-00:02:19,252 --> 00:02:19,355
-<font color="#FFFFFF" size="20">YOU</font><font color=#FAFF00 size="20"> WANT </font><font color="#FFFFFF" size="20">TO SAY?</font>
-
-3
-00:02:19,355 --> 00:02:19,437
-<font color="#FFFFFF" size="20">YOU WANT</font><font color=#FAFF00 size="20"> TO </font><font color="#FFFFFF" size="20">SAY?</font>
-
-4
-00:02:19,437 --> 00:02:19,499
-<font color="#FFFFFF" size="20">YOU WANT TO</font><font color=#FAFF00 size="20"> SAY?</font>
+00:02:11,370 --> 00:02:12,729
+WHATEVER THE DELTA IS,
 

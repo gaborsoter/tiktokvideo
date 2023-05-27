@@ -176,6 +176,152 @@
       "type": "manual"
     }
   },
+  "parameters": {
+    "AMPLIFY_function_audio_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "audio"
+        }
+      ]
+    },
+    "AMPLIFY_function_audio_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "audio"
+        }
+      ]
+    },
+    "AMPLIFY_function_burnSubtitlesSegment_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "burnSubtitlesSegment"
+        }
+      ]
+    },
+    "AMPLIFY_function_burnSubtitlesSegment_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "burnSubtitlesSegment"
+        }
+      ]
+    },
+    "AMPLIFY_function_burnSubtitlesTrigger_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "burnSubtitlesTrigger"
+        }
+      ]
+    },
+    "AMPLIFY_function_burnSubtitlesTrigger_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "burnSubtitlesTrigger"
+        }
+      ]
+    },
+    "AMPLIFY_function_burnSubtitles_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "burnSubtitles"
+        }
+      ]
+    },
+    "AMPLIFY_function_burnSubtitles_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "burnSubtitles"
+        }
+      ]
+    },
+    "AMPLIFY_function_createSubtitleTrigger_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "createSubtitleTrigger"
+        }
+      ]
+    },
+    "AMPLIFY_function_createSubtitleTrigger_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "createSubtitleTrigger"
+        }
+      ]
+    },
+    "AMPLIFY_function_createSubtitle_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "createSubtitle"
+        }
+      ]
+    },
+    "AMPLIFY_function_createSubtitle_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "createSubtitle"
+        }
+      ]
+    },
+    "AMPLIFY_function_createSubtitle_secretsPathAmplifyAppId": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "createSubtitle"
+        }
+      ]
+    },
+    "AMPLIFY_function_transcribe_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "transcribe"
+        }
+      ]
+    },
+    "AMPLIFY_function_transcribe_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "transcribe"
+        }
+      ]
+    },
+    "AMPLIFY_function_transcribe_secretsPathAmplifyAppId": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "transcribe"
+        }
+      ]
+    },
+    "AMPLIFY_hosting_amplifyhosting_appId": {
+      "usedBy": [
+        {
+          "category": "hosting",
+          "resourceName": "amplifyhosting"
+        }
+      ]
+    },
+    "AMPLIFY_hosting_amplifyhosting_type": {
+      "usedBy": [
+        {
+          "category": "hosting",
+          "resourceName": "amplifyhosting"
+        }
+      ]
+    }
+  },
   "storage": {
     "s310xshortsstorageb043c5c4": {
       "dependsOn": [],
